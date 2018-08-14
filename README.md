@@ -12,7 +12,7 @@ Curated list of articles for ML/AI/NLP
 
 * **Scikit learn**: http://scikit-learn.org/stable/index.html
 
-#### feature scaling
+## feature scaling
 * Standardisation vs Normalization:  https://stackoverflow.com/questions/32108179/linear-regression-normalization-vs-standardization
 * Importance of Feature Scaling: http://scikit-learn.org/stable/auto_examples/preprocessing/plot_scaling_importance.html
 * feature Scaling with scikit-learn (good): http://benalexkeen.com/feature-scaling-with-scikit-learn/
@@ -42,7 +42,7 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * matplotlib plotting in 2D and 3D: http://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb
 * Computational Quantum Mechanics with Python: http://jrjohansson.github.io/
 
-#### Boosting:
+## Boosting:
 
 * A gentle introduction to boosting algos: https://machinelearningmastery.com/gentle-introduction-gradient-boosting-algorithm-machine-learning/
 * CatBoost Algorithm resources: https://tech.yandex.com/catboost/
@@ -73,7 +73,7 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 **ICA**
 * Stanford notes on ICA: http://cs229.stanford.edu/notes/cs229-notes11.pdf
 
-#### Docker
+## Docker
 
 * https://www.analyticsvidhya.com/blog/2017/11/reproducible-data-science-docker-for-data-science/
 * Docker for ML: https://pratos.github.io/2017-04-24/docker-for-data-science-part-1/
@@ -88,7 +88,7 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * scikit learn novelty and outlier detection: https://www.datascience.com/blog/python-anomaly-detection
 * Imbalanced data handling tutorial in Python: https://blog.dominodatalab.com/imbalanced-datasets/
 
-### NLP:
+## NLP:
 
 * NLTK Book: http://www.nltk.org/book/ 
 * SpaCy: Industrial grad NLP: https://spacy.io/
