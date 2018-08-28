@@ -110,6 +110,7 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * The Perceptron Learning Algorithm and its Convergence: https://www.cse.iitb.ac.in/~shivaram/teaching/old/cs344+386-s2017/resources/classnote-1.pdf
 * Deep Dive into Math Behind Deep Networks: https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba
 * Recent Advances for a Better Understanding of Deep Learning − Part I: https://towardsdatascience.com/recent-advances-for-a-better-understanding-of-deep-learning-part-i-5ce34d1cc914
+* using neural nets to recognize handwritten digits: http://neuralnetworksanddeeplearning.com/chap1.html
 
 ## References (business):
 * What is an ad impression: https://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html
