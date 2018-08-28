@@ -43,7 +43,6 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Computational Quantum Mechanics with Python: http://jrjohansson.github.io/
 
 ## Boosting:
-
 * A gentle introduction to boosting algos: https://machinelearningmastery.com/gentle-introduction-gradient-boosting-algorithm-machine-learning/
 * CatBoost Algorithm resources: https://tech.yandex.com/catboost/
 * Light GBM: http://lightgbm.readthedocs.io/en/latest/index.html
@@ -65,7 +64,6 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * using AWS for Deep Learning: https://machinelearningmastery.com/develop-evaluate-large-deep-learning-models-keras-amazon-web-services/
 
 **t-SNE**
-
 * Laurens van der Maaten's (creator of t-SNE) website: https://lvdmaaten.github.io/tsne/
 * Visualising data using t-SNE: Journal of Machine Learning Research: http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf
 * How to use t-SNE effectively: https://distill.pub/2016/misread-tsne/
@@ -74,7 +72,6 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Stanford notes on ICA: http://cs229.stanford.edu/notes/cs229-notes11.pdf
 
 ## Docker
-
 * https://www.analyticsvidhya.com/blog/2017/11/reproducible-data-science-docker-for-data-science/
 * Docker for ML: https://pratos.github.io/2017-04-24/docker-for-data-science-part-1/
 * conceptual - introduction to VM's and Docker: https://medium.freecodecamp.org/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b
@@ -89,7 +86,6 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Imbalanced data handling tutorial in Python: https://blog.dominodatalab.com/imbalanced-datasets/
 
 ## NLP:
-
 * NLTK Book: http://www.nltk.org/book/ 
 * SpaCy: Industrial grad NLP: https://spacy.io/
 * Genism: https://radimrehurek.com/gensim/index.html
@@ -109,6 +105,11 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * download the installable based on python version + Windows 32 or 64 bit, for example download xgboost-0.71-cp36-cp36m-win_amd64.whl for python version 3.6 and 64 bit machine.
 * open cmd in downloaded location and run the following command: pip install xgboost-0.71-cp36-cp36m-win_amd64.whl
 
+### Deep Learning:
+
+* The Perceptron Learning Algorithm and its Convergence: https://www.cse.iitb.ac.in/~shivaram/teaching/old/cs344+386-s2017/resources/classnote-1.pdf
+* Deep Dive into Math Behind Deep Networks: https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba
+* Recent Advances for a Better Understanding of Deep Learning − Part I: https://towardsdatascience.com/recent-advances-for-a-better-understanding-of-deep-learning-part-i-5ce34d1cc914
 
 ## References (business):
 * What is an ad impression: https://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html
