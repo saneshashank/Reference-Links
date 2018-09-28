@@ -118,7 +118,7 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Why do we need to normalize the images before we put them into CNN? : https://stats.stackexchange.com/questions/185853/why-do-we-need-to-normalize-the-images-before-we-put-them-into-cnn
 * Neural Network data type conversion - float from int? : https://datascience.stackexchange.com/questions/13636/neural-network-data-type-conversion-float-from-int
 * Image Pre-processing (Keras): https://keras.io/preprocessing/image/
-
+* Trick to prevent Overfitting: https://hackernoon.com/memorizing-is-not-learning-6-tricks-to-prevent-overfitting-in-machine-learning-820b091dc42
 
 
 ## References (business):
