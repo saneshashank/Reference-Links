@@ -1,6 +1,26 @@
 # Reference-Links
 Curated list of articles for ML/AI/NLP
 
+
+### Deep Learning:
+
+* The Perceptron Learning Algorithm and its Convergence: https://www.cse.iitb.ac.in/~shivaram/teaching/old/cs344+386-s2017/resources/classnote-1.pdf
+* Deep Dive into Math Behind Deep Networks: https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba
+* Recent Advances for a Better Understanding of Deep Learning − Part I: https://towardsdatascience.com/recent-advances-for-a-better-understanding-of-deep-learning-part-i-5ce34d1cc914
+* using neural nets to recognize handwritten digits: http://neuralnetworksanddeeplearning.com/chap1.html
+* Tinker with Neural Networks in browser: https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.08222&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false
+* Dimensions and manifolds: https://datascience.stackexchange.com/questions/5694/dimensionality-and-manifold
+* Play with Generative Adverserial Networks: https://poloclub.github.io/ganlab/
+
+* Why do we need to normalize the images before we put them into CNN? : https://stats.stackexchange.com/questions/185853/why-do-we-need-to-normalize-the-images-before-we-put-them-into-cnn
+* Neural Network data type conversion - float from int? : https://datascience.stackexchange.com/questions/13636/neural-network-data-type-conversion-float-from-int
+* Image Pre-processing (Keras): https://keras.io/preprocessing/image/
+
+* Trick to prevent Overfitting: https://hackernoon.com/memorizing-is-not-learning-6-tricks-to-prevent-overfitting-in-machine-learning-820b091dc42
+* keras callbacks: https://keras.io/callbacks/
+* How to Check-Point Deep Learning Models in Keras: https://machinelearningmastery.com/check-point-deep-learning-models-keras/
+
+
 ## References (technical):
 
 * plotting boxplots in plotly in python: https://plot.ly/python/box-plots/
@@ -104,21 +124,6 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Go to this link and search on XGBoost: https://www.lfd.uci.edu/~gohlke/pythonlibs/
 * download the installable based on python version + Windows 32 or 64 bit, for example download xgboost-0.71-cp36-cp36m-win_amd64.whl for python version 3.6 and 64 bit machine.
 * open cmd in downloaded location and run the following command: pip install xgboost-0.71-cp36-cp36m-win_amd64.whl
-
-### Deep Learning:
-
-* The Perceptron Learning Algorithm and its Convergence: https://www.cse.iitb.ac.in/~shivaram/teaching/old/cs344+386-s2017/resources/classnote-1.pdf
-* Deep Dive into Math Behind Deep Networks: https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba
-* Recent Advances for a Better Understanding of Deep Learning − Part I: https://towardsdatascience.com/recent-advances-for-a-better-understanding-of-deep-learning-part-i-5ce34d1cc914
-* using neural nets to recognize handwritten digits: http://neuralnetworksanddeeplearning.com/chap1.html
-* Tinker with Neural Networks in browser: https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.08222&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false
-* Dimensions and manifolds: https://datascience.stackexchange.com/questions/5694/dimensionality-and-manifold
-* Play with Generative Adverserial Networks: https://poloclub.github.io/ganlab/
-
-* Why do we need to normalize the images before we put them into CNN? : https://stats.stackexchange.com/questions/185853/why-do-we-need-to-normalize-the-images-before-we-put-them-into-cnn
-* Neural Network data type conversion - float from int? : https://datascience.stackexchange.com/questions/13636/neural-network-data-type-conversion-float-from-int
-* Image Pre-processing (Keras): https://keras.io/preprocessing/image/
-* Trick to prevent Overfitting: https://hackernoon.com/memorizing-is-not-learning-6-tricks-to-prevent-overfitting-in-machine-learning-820b091dc42
 
 
 ## References (business):
