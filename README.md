@@ -19,7 +19,8 @@ Curated list of articles for ML/AI/NLP
 * Trick to prevent Overfitting: https://hackernoon.com/memorizing-is-not-learning-6-tricks-to-prevent-overfitting-in-machine-learning-820b091dc42
 * keras callbacks: https://keras.io/callbacks/
 * How to Check-Point Deep Learning Models in Keras: https://machinelearningmastery.com/check-point-deep-learning-models-keras/
-
+* In Depth understanding of Convolutions: http://timdettmers.com/2015/03/26/convolution-deep-learning/
+* Understanding Cross Entropy Loss - Visual Information Theory: http://timdettmers.com/2015/03/26/convolution-deep-learning/
 
 ## References (technical):
 
