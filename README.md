@@ -129,6 +129,8 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 ### Python
 * Python OOP tutorial: https://www.youtube.com/watch?v=ZDa-Z5JzLYM
 
+* Use YouTube as a Free Screencast Recorder: https://www.youtube.com/watch?v=0i9C8GpRedc
+
 ## References (business):
 * What is an ad impression: https://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html
 * ML in fraud detection: https://www.marutitech.com/machine-learning-fraud-detection/
