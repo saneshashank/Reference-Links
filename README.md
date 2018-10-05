@@ -126,6 +126,8 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * download the installable based on python version + Windows 32 or 64 bit, for example download xgboost-0.71-cp36-cp36m-win_amd64.whl for python version 3.6 and 64 bit machine.
 * open cmd in downloaded location and run the following command: pip install xgboost-0.71-cp36-cp36m-win_amd64.whl
 
+### Python
+* Python OOP tutorial: https://www.youtube.com/watch?v=ZDa-Z5JzLYM
 
 ## References (business):
 * What is an ad impression: https://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html
