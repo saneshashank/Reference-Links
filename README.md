@@ -2,7 +2,7 @@
 Curated list of articles for ML/AI/NLP
 
 
-### Deep Learning:
+## Deep Learning:
 
 * The Perceptron Learning Algorithm and its Convergence: https://www.cse.iitb.ac.in/~shivaram/teaching/old/cs344+386-s2017/resources/classnote-1.pdf
 * Deep Dive into Math Behind Deep Networks: https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba
@@ -12,15 +12,19 @@ Curated list of articles for ML/AI/NLP
 * Dimensions and manifolds: https://datascience.stackexchange.com/questions/5694/dimensionality-and-manifold
 * Play with Generative Adverserial Networks: https://poloclub.github.io/ganlab/
 
+### CNN and Image Processing:
+
 * Why do we need to normalize the images before we put them into CNN? : https://stats.stackexchange.com/questions/185853/why-do-we-need-to-normalize-the-images-before-we-put-them-into-cnn
 * Neural Network data type conversion - float from int? : https://datascience.stackexchange.com/questions/13636/neural-network-data-type-conversion-float-from-int
 * Image Pre-processing (Keras): https://keras.io/preprocessing/image/
-
 * Trick to prevent Overfitting: https://hackernoon.com/memorizing-is-not-learning-6-tricks-to-prevent-overfitting-in-machine-learning-820b091dc42
 * keras callbacks: https://keras.io/callbacks/
 * How to Check-Point Deep Learning Models in Keras: https://machinelearningmastery.com/check-point-deep-learning-models-keras/
 * In Depth understanding of Convolutions: http://timdettmers.com/2015/03/26/convolution-deep-learning/
+* friendly introduction to Cross Entropy: https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/
 * Understanding Cross Entropy Loss - Visual Information Theory: http://timdettmers.com/2015/03/26/convolution-deep-learning/
+* Papers on imp CNN architectures: https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
+
 
 ## References (technical):
 
