@@ -11,6 +11,8 @@ Curated list of articles for ML/AI/NLP
 * Tinker with Neural Networks in browser: https://playground.tensorflow.org
 * Dimensions and manifolds: https://datascience.stackexchange.com/questions/5694/dimensionality-and-manifold
 * Play with Generative Adverserial Networks: https://poloclub.github.io/ganlab/
+* Overfitting and how to prevent it: https://hackernoon.com/memorizing-is-not-learning-6-tricks-to-prevent-overfitting-in-machine-learning-820b091dc42
+* 37 reasons for neural n/w not working properly: https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607
 
 ### CNN and Image Processing:
 
@@ -25,7 +27,10 @@ Curated list of articles for ML/AI/NLP
 * Understanding Cross Entropy Loss - Visual Information Theory: http://timdettmers.com/2015/03/26/convolution-deep-learning/
 * Papers on imp CNN architectures: https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
 * CNN using numpy: https://becominghuman.ai/only-numpy-implementing-convolutional-neural-network-using-numpy-deriving-forward-feed-and-back-458a5250d6e4
+* List of Open Source **Medical Image Analysis** Softwares:http://www0.cs.ucl.ac.uk/opensource_mia_ws_2012/links.html
 
+#### Data
+* Chest X-ray data: https://www.kaggle.com/nih-chest-xrays
 
 ## References (technical):
 
