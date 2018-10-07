@@ -24,6 +24,7 @@ Curated list of articles for ML/AI/NLP
 * friendly introduction to Cross Entropy: https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/
 * Understanding Cross Entropy Loss - Visual Information Theory: http://timdettmers.com/2015/03/26/convolution-deep-learning/
 * Papers on imp CNN architectures: https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
+* CNN using numpy: https://becominghuman.ai/only-numpy-implementing-convolutional-neural-network-using-numpy-deriving-forward-feed-and-back-458a5250d6e4
 
 
 ## References (technical):
