@@ -29,6 +29,8 @@ Curated list of articles for ML/AI/NLP
 * CNN using numpy: https://becominghuman.ai/only-numpy-implementing-convolutional-neural-network-using-numpy-deriving-forward-feed-and-back-458a5250d6e4
 * Image Transformations Using OpenCV: https://docs.opencv.org/trunk/d9/d61/tutorial_py_morphological_ops.html
 * List of Open Source **Medical Image Analysis** Softwares:http://www0.cs.ucl.ac.uk/opensource_mia_ws_2012/links.html
+* Natural Images: https://stats.stackexchange.com/questions/25737/definition-of-natural-images-in-the-context-of-machine-learning
+* ResNet - understanding the bottleneck unit: https://stats.stackexchange.com/questions/347280/regarding-the-understanding-of-bottleneck-unit-of-resnet
 
 #### Data
 * Chest X-ray data: https://www.kaggle.com/nih-chest-xrays
