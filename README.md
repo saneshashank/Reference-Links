@@ -32,6 +32,12 @@ Curated list of articles for ML/AI/NLP
 * Natural Images: https://stats.stackexchange.com/questions/25737/definition-of-natural-images-in-the-context-of-machine-learning
 * ResNet - understanding the bottleneck unit: https://stats.stackexchange.com/questions/347280/regarding-the-understanding-of-bottleneck-unit-of-resnet
 
+* https://github.com/anujshah1003/VQA-Demo-GUI
+* https://iamaaditya.github.io/2016/04/visual_question_answering_demo_notebook
+
+* CNN+LSTM: https://machinelearningmastery.com/cnn-long-short-term-memory-networks/
+
+
 #### Data
 * Chest X-ray data: https://www.kaggle.com/nih-chest-xrays
 
