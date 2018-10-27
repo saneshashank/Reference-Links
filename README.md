@@ -81,6 +81,8 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Beginners guide to Jupyter Notebooks: https://www.analyticsvidhya.com/blog/2018/05/starters-guide-jupyter-notebook/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29
 * matplotlib plotting in 2D and 3D: http://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb
 * Computational Quantum Mechanics with Python: http://jrjohansson.github.io/
+* difference between generative and discriminative algorithm: https://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-discriminative-algorithm
+* What is the difference between Liklihood and probability: https://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-discriminative-algorithm
 
 ## Boosting:
 * A gentle introduction to boosting algos: https://machinelearningmastery.com/gentle-introduction-gradient-boosting-algorithm-machine-learning/
