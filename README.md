@@ -105,6 +105,9 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 
 * using AWS for Deep Learning: https://machinelearningmastery.com/develop-evaluate-large-deep-learning-models-keras-amazon-web-services/
 
+**PCA**
+* variance in PCA explained: https://ro-che.info/articles/2017-12-11-pca-explained-variance
+
 **t-SNE**
 * Laurens van der Maaten's (creator of t-SNE) website: https://lvdmaaten.github.io/tsne/
 * Visualising data using t-SNE: Journal of Machine Learning Research: http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf
