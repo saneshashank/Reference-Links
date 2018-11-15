@@ -84,6 +84,13 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * difference between generative and discriminative algorithm: https://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-discriminative-algorithm
 * What is the difference between Liklihood and probability: https://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-discriminative-algorithm
 
+**Pipelines in sklearn**
+
+* Pipelines and composite estimators: https://scikit-learn.org/stable/modules/compose.html#
+* Deep dive into sklearn pipelines: https://www.kaggle.com/baghern/a-deep-dive-into-sklearn-pipelines
+* Feature Union: https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.FeatureUnion.html#sklearn.pipeline.FeatureUnion
+* Column Transformer with Heterogeneous Data Sources: https://scikit-learn.org/stable/auto_examples/compose/plot_column_transformer.html#sphx-glr-auto-examples-compose-plot-column-transformer-py
+
 ## Boosting:
 * A gentle introduction to boosting algos: https://machinelearningmastery.com/gentle-introduction-gradient-boosting-algorithm-machine-learning/
 * CatBoost Algorithm resources: https://tech.yandex.com/catboost/
@@ -158,6 +165,10 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 #### Generators
 * Jeff Knup's blog: 'Yield' and Generator Functions: https://jeffknupp.com/blog/2013/04/07/improve-your-python-yield-and-generators-explained/
 * Corey Schafer (YouTube video): Generator functions: https://www.youtube.com/watch?v=bD05uGo_sVI
+
+### Reinforcement Learning
+
+* When are Monte Carlo methods preferred over Temporal Difference methods: https://stats.stackexchange.com/questions/336974/when-are-monte-carlo-methods-preferred-over-temporal-difference-ones
 
 ## References (business):
 * What is an ad impression: https://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html
