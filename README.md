@@ -142,13 +142,24 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * SpaCy: Industrial grad NLP: https://spacy.io/
 * Genism: https://radimrehurek.com/gensim/index.html
 * NLTK tutorial: https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/
+
 * Lyric Analysis with NLP and ML in R part 1: https://www.datacamp.com/community/tutorials/R-nlp-machine-learning
 * Lyric Analysis with NLP and ML in R part 2A:https://www.datacamp.com/community/tutorials/R-nlp-machine-learning
 * Lyric Analysis with NLP and ML in R part 2B:https://www.datacamp.com/community/tutorials/sentiment-analysis-R
+
 * Text Encoding Unicode: https://docs.python.org/3/howto/unicode.html
+
+* Roudup of Python NLP libraries: https://nlpforhackers.io/libraries/
+
+* Spacy Tutorial (AV): https://www.analyticsvidhya.com/blog/2017/04/natural-language-processing-made-easy-using-spacy-%E2%80%8Bin-python/
+* SpaCy Tutorial: https://nlpforhackers.io/complete-guide-to-spacy/
 
 * Generate text using word level neural language model: https://machinelearningmastery.com/how-to-develop-a-word-level-neural-language-model-in-keras/
 * Generate text using LSTM: https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
+
+#### transfer learning in NLP:
+
+* BERT: https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
 
 ### XGBoost Installation:
 
