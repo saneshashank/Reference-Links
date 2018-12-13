@@ -84,6 +84,14 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * difference between generative and discriminative algorithm: https://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-discriminative-algorithm
 * What is the difference between Liklihood and probability: https://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-discriminative-algorithm
 
+#### Feature reduction:
+
+* feature reduction using varrank: https://cran.r-project.org/web/packages/varrank/vignettes/varrank.html
+
+**metrics for classification models
+
+* Top 15: https://www.machinelearningplus.com/machine-learning/evaluation-metrics-classification-models-r/
+
 **Pipelines in sklearn**
 
 * Pipelines and composite estimators: https://scikit-learn.org/stable/modules/compose.html#
@@ -157,6 +165,8 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Generate text using word level neural language model: https://machinelearningmastery.com/how-to-develop-a-word-level-neural-language-model-in-keras/
 * Generate text using LSTM: https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
 
+**Ontology based text classification**: https://sci2lab.github.io/mehdi/icsc2014.pdf
+
 #### transfer learning in NLP:
 
 * BERT: https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
@@ -172,6 +182,14 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Python OOP tutorial: https://www.youtube.com/watch?v=ZDa-Z5JzLYM
 
 * Use YouTube as a Free Screencast Recorder: https://www.youtube.com/watch?v=0i9C8GpRedc
+
+* list comprehensions: https://www.machinelearningplus.com/python/list-comprehensions-in-python/
+* Numpy 1 - basic: https://www.machinelearningplus.com/python/numpy-tutorial-part1-array-python-examples/
+* Numpy 2 - advanced: https://www.machinelearningplus.com/python/numpy-tutorial-python-part2/
+* Numpy 101 practice: https://www.machinelearningplus.com/python/101-numpy-exercises-python/
+* Pandas 101 practice: https://www.machinelearningplus.com/python/101-pandas-exercises-python/
+
+* Parallel processing in Python: https://www.machinelearningplus.com/python/parallel-processing-python/
 
 #### Generators
 * Jeff Knup's blog: 'Yield' and Generator Functions: https://jeffknupp.com/blog/2013/04/07/improve-your-python-yield-and-generators-explained/
