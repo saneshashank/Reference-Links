@@ -170,6 +170,10 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 #### transfer learning in NLP:
 
 * BERT: https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
+* blog: http://jalammar.github.io/
+* Blog for understanding ELMO and BERT: http://jalammar.github.io/illustrated-bert/
+* ULMFIT tutorial: https://www.analyticsvidhya.com/blog/2018/11/tutorial-text-classification-ulmfit-fastai-library/
+* DSSM: https://www.microsoft.com/en-us/research/project/dssm/
 
 ### XGBoost Installation:
 
@@ -180,6 +184,7 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 
 ### Python
 * Python OOP tutorial: https://www.youtube.com/watch?v=ZDa-Z5JzLYM
+* vectorized string operations in Python(using pandas): https://jakevdp.github.io/PythonDataScienceHandbook/03.10-working-with-strings.html
 
 * Use YouTube as a Free Screencast Recorder: https://www.youtube.com/watch?v=0i9C8GpRedc
 
