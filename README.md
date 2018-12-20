@@ -151,6 +151,8 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Genism: https://radimrehurek.com/gensim/index.html
 * NLTK tutorial: https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/
 
+* jaccard distance using NLP: https://python.gotrained.com/nltk-edit-distance-jaccard-distance/#Jaccard_Distance
+
 * Lyric Analysis with NLP and ML in R part 1: https://www.datacamp.com/community/tutorials/R-nlp-machine-learning
 * Lyric Analysis with NLP and ML in R part 2A:https://www.datacamp.com/community/tutorials/R-nlp-machine-learning
 * Lyric Analysis with NLP and ML in R part 2B:https://www.datacamp.com/community/tutorials/sentiment-analysis-R
@@ -164,6 +166,8 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 
 * Generate text using word level neural language model: https://machinelearningmastery.com/how-to-develop-a-word-level-neural-language-model-in-keras/
 * Generate text using LSTM: https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
+
+* SIF embeddings implementation: https://www.kaggle.com/procode/sif-embeddings-got-69-accuracy
 
 **Ontology based text classification**: https://sci2lab.github.io/mehdi/icsc2014.pdf
 
