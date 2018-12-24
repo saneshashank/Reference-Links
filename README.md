@@ -174,7 +174,9 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * ULMFit: https://www.analyticsvidhya.com/blog/2018/11/tutorial-text-classification-ulmfit-fastai-library/ 
 * http://jalammar.github.io/illustrated-bert/ 
  
+#### Anomaly detection
 
+* https://arxiv.org/pdf/1701.01325.pdf
 
 ### XGBoost Installation:
 
