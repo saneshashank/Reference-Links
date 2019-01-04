@@ -186,6 +186,12 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * download the installable based on python version + Windows 32 or 64 bit, for example download xgboost-0.71-cp36-cp36m-win_amd64.whl for python version 3.6 and 64 bit machine.
 * open cmd in downloaded location and run the following command: pip install xgboost-0.71-cp36-cp36m-win_amd64.whl
 
+### Spark
+
+* Why should one use spark for ML: https://www.infoworld.com/article/3031690/analytics/why-you-should-use-spark-for-machine-learning.html
+
+* Multi-Class Text Classification with PySpark: https://towardsdatascience.com/multi-class-text-classification-with-pyspark-7d78d022ed35
+
 ### Python
 * Python OOP tutorial: https://www.youtube.com/watch?v=ZDa-Z5JzLYM
 * vectorized string operations in Python(using pandas): https://jakevdp.github.io/PythonDataScienceHandbook/03.10-working-with-strings.html
