@@ -171,6 +171,8 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 
 **Ontology based text classification**: https://sci2lab.github.io/mehdi/icsc2014.pdf
 
+**fast text analysis using Vowpal Wabbit :** https://www.kaggle.com/kashnitsky/vowpal-wabbit-tutorial-blazingly-fast-learning
+
 #### transfer learning in NLP:
 
 * BERT: https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
