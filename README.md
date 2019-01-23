@@ -214,10 +214,12 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 
 ### Reinforcement Learning
 
+* Dynamic Programming: https://web.stanford.edu/class/cs97si/04-dynamic-programming.pdf
 * When are Monte Carlo methods preferred over Temporal Difference methods: https://stats.stackexchange.com/questions/336974/when-are-monte-carlo-methods-preferred-over-temporal-difference-ones
 * https://simoninithomas.github.io/Deep_reinforcement_learning_Course/#
 * Off-Policy Monte Carlo Control: https://cs.wmich.edu/~trenary/files/cs5300/RLBook/node56.html
 * https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/
+
 
 ## References (business):
 * What is an ad impression: https://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html
