@@ -176,10 +176,19 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 #### transfer learning in NLP:
 
 * BERT: https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
+
+* BERT Research Paper: https://arxiv.org/abs/1810.04805 
 * blog: http://jalammar.github.io/
 * Blog for understanding ELMO and BERT: http://jalammar.github.io/illustrated-bert/
 * ULMFIT tutorial: https://www.analyticsvidhya.com/blog/2018/11/tutorial-text-classification-ulmfit-fastai-library/
 * DSSM: https://www.microsoft.com/en-us/research/project/dssm/
+ 
+#### Anomaly detection
+
+* https://arxiv.org/pdf/1701.01325.pdf
+
+
+
 
 ### XGBoost Installation:
 
