@@ -151,6 +151,8 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Genism: https://radimrehurek.com/gensim/index.html
 * NLTK tutorial: https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/
 
+* jaccard distance using NLP: https://python.gotrained.com/nltk-edit-distance-jaccard-distance/#Jaccard_Distance
+
 * Lyric Analysis with NLP and ML in R part 1: https://www.datacamp.com/community/tutorials/R-nlp-machine-learning
 * Lyric Analysis with NLP and ML in R part 2A:https://www.datacamp.com/community/tutorials/R-nlp-machine-learning
 * Lyric Analysis with NLP and ML in R part 2B:https://www.datacamp.com/community/tutorials/sentiment-analysis-R
@@ -165,18 +167,28 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Generate text using word level neural language model: https://machinelearningmastery.com/how-to-develop-a-word-level-neural-language-model-in-keras/
 * Generate text using LSTM: https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
 
+* SIF embeddings implementation: https://www.kaggle.com/procode/sif-embeddings-got-69-accuracy
+
 **Ontology based text classification**: https://sci2lab.github.io/mehdi/icsc2014.pdf
+
+**fast text analysis using Vowpal Wabbit :** https://www.kaggle.com/kashnitsky/vowpal-wabbit-tutorial-blazingly-fast-learning
 
 #### transfer learning in NLP:
 
 * BERT: https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
+
 * BERT Research Paper: https://arxiv.org/abs/1810.04805 
-* ULMFit: https://www.analyticsvidhya.com/blog/2018/11/tutorial-text-classification-ulmfit-fastai-library/ 
-* http://jalammar.github.io/illustrated-bert/ 
+* blog: http://jalammar.github.io/
+* Blog for understanding ELMO and BERT: http://jalammar.github.io/illustrated-bert/
+* ULMFIT tutorial: https://www.analyticsvidhya.com/blog/2018/11/tutorial-text-classification-ulmfit-fastai-library/
+* DSSM: https://www.microsoft.com/en-us/research/project/dssm/
  
 #### Anomaly detection
 
 * https://arxiv.org/pdf/1701.01325.pdf
+
+
+
 
 ### XGBoost Installation:
 
@@ -185,8 +197,15 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * download the installable based on python version + Windows 32 or 64 bit, for example download xgboost-0.71-cp36-cp36m-win_amd64.whl for python version 3.6 and 64 bit machine.
 * open cmd in downloaded location and run the following command: pip install xgboost-0.71-cp36-cp36m-win_amd64.whl
 
+### Spark
+
+* Why should one use spark for ML: https://www.infoworld.com/article/3031690/analytics/why-you-should-use-spark-for-machine-learning.html
+
+* Multi-Class Text Classification with PySpark: https://towardsdatascience.com/multi-class-text-classification-with-pyspark-7d78d022ed35
+
 ### Python
 * Python OOP tutorial: https://www.youtube.com/watch?v=ZDa-Z5JzLYM
+* vectorized string operations in Python(using pandas): https://jakevdp.github.io/PythonDataScienceHandbook/03.10-working-with-strings.html
 
 * Use YouTube as a Free Screencast Recorder: https://www.youtube.com/watch?v=0i9C8GpRedc
 
@@ -204,10 +223,12 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 
 ### Reinforcement Learning
 
+* Dynamic Programming: https://web.stanford.edu/class/cs97si/04-dynamic-programming.pdf
 * When are Monte Carlo methods preferred over Temporal Difference methods: https://stats.stackexchange.com/questions/336974/when-are-monte-carlo-methods-preferred-over-temporal-difference-ones
 * https://simoninithomas.github.io/Deep_reinforcement_learning_Course/#
 * Off-Policy Monte Carlo Control: https://cs.wmich.edu/~trenary/files/cs5300/RLBook/node56.html
 * https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/
+
 
 ## References (business):
 * What is an ad impression: https://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html
