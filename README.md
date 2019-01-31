@@ -13,6 +13,7 @@ Curated list of articles for ML/AI/NLP
 * Play with Generative Adverserial Networks: https://poloclub.github.io/ganlab/
 * Overfitting and how to prevent it: https://hackernoon.com/memorizing-is-not-learning-6-tricks-to-prevent-overfitting-in-machine-learning-820b091dc42
 * 37 reasons for neural n/w not working properly: https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607
+* list of cost functions to be used with Gradient Descent: https://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications
 
 ### CNN and Image Processing:
 
