@@ -146,6 +146,18 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * scikit learn novelty and outlier detection: https://www.datascience.com/blog/python-anomaly-detection
 * Imbalanced data handling tutorial in Python: https://blog.dominodatalab.com/imbalanced-datasets/
 
+### Multi-label Classification
+* https://towardsdatascience.com/journey-to-the-center-of-multi-label-classification-384c40229bff
+
+* sentiment analysis using VADER: https://medium.com/analytics-vidhya/simplifying-social-media-sentiment-analysis-using-vader-in-python-f9e6ec6fc52f
+
+### Anomaly Detection
+* Note on anomaly detection: https://towardsdatascience.com/a-note-about-finding-anomalies-f9cedee38f0b
+* Four Techniques for Anomaly detection: https://dzone.com/articles/four-techniques-for-outlier-detection-knime
+* Novelty and Outlier Detection: https://scikit-learn.org/stable/modules/outlier_detection.html#novelty-detection
+* One Class SVM Anomaly detection: https://www.kaggle.com/amarnayak/once-class-svm-to-detect-anomaly
+* PyOD for anomaly detection: https://github.com/yzhao062/Pyod#quick-start-for-outlier-detection
+
 ## NLP:
 * NLTK Book: http://www.nltk.org/book/ 
 * SpaCy: Industrial grad NLP: https://spacy.io/
