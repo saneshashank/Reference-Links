@@ -85,6 +85,11 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * difference between generative and discriminative algorithm: https://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-discriminative-algorithm
 * What is the difference between Liklihood and probability: https://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-discriminative-algorithm
 
+##### ANOVA tests:
+* https://machinelearningmastery.com/parametric-statistical-significance-tests-in-python/
+* https://pythonfordatascience.org/anova-python/
+* https://riffyn.com/riffyn-blog/2017/10/29/family-wise-error-rate
+
 #### Feature reduction:
 
 * feature reduction using varrank: https://cran.r-project.org/web/packages/varrank/vignettes/varrank.html
