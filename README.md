@@ -98,6 +98,9 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 
 * Top 15: https://www.machinelearningplus.com/machine-learning/evaluation-metrics-classification-models-r/
 
+#### dummy vars
+* dummy vars transfromation applied on prediction data: https://stackoverflow.com/questions/43578799/how-to-save-mapping-of-data-frame-to-model-matrix-and-apply-to-new-observations
+
 **Pipelines in sklearn**
 
 * Pipelines and composite estimators: https://scikit-learn.org/stable/modules/compose.html#
