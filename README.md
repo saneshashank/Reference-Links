@@ -254,7 +254,7 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Using Deep Neural Network Approximate Bayesian Network: https://arxiv.org/pdf/1801.00282.pdf
 * A Comprehensive guide to Bayesian Convolutional Neural Network with Variational Inference https://arxiv.org/pdf/1901.02731.pdf
 * Bayesian Methods for Hackers: https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
-
+* Causal Inference survey of current areas of research: https://stats.stackexchange.com/questions/328602/what-are-some-current-research-areas-of-interest-in-machine-learning-and-causal
 
 
 ## References (business):
