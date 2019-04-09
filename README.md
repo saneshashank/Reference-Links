@@ -250,6 +250,12 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Off-Policy Monte Carlo Control: https://cs.wmich.edu/~trenary/files/cs5300/RLBook/node56.html
 * https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/
 
+### PGM
+* Using Deep Neural Network Approximate Bayesian Network: https://arxiv.org/pdf/1801.00282.pdf
+* A Comprehensive guide to Bayesian Convolutional Neural Network with Variational Inference https://arxiv.org/pdf/1901.02731.pdf
+* Bayesian Methods for Hackers: https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+
+
 
 ## References (business):
 * What is an ad impression: https://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html
@@ -257,3 +263,4 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Customer Segmentation: http://analyticstraining.com/2011/cluster-analysis-for-business/
 * Telecom churn customer model: https://parcusgroup.com/Telecom-Customer-Churn-Prediction-Models
 * customer churn in mobile markets: https://arxiv.org/ftp/arxiv/papers/1607/1607.07792.pdf
+
