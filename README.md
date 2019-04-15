@@ -256,6 +256,9 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Bayesian Methods for Hackers: https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 * Causal Inference survey of current areas of research: https://stats.stackexchange.com/questions/328602/what-are-some-current-research-areas-of-interest-in-machine-learning-and-causal
 
+### Open Datasets
+* https://skymind.ai/wiki/open-datasets
+
 
 ## References (business):
 * What is an ad impression: https://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html
