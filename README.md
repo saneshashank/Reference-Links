@@ -259,6 +259,11 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 ### Open Datasets
 * https://skymind.ai/wiki/open-datasets
 
+### Image Captioning
+* https://towardsdatascience.com/image-captioning-with-keras-teaching-computers-to-describe-pictures-c88a46a311b8
+* https://www.analyticsvidhya.com/blog/2018/04/solving-an-image-captioning-task-using-deep-learning/
+* https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/
+* A Comprehensive Survey of Deep Learning for Image Captioning: https://arxiv.org/pdf/1810.04020.pdf
 
 ## References (business):
 * What is an ad impression: https://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html
