@@ -39,9 +39,6 @@ Curated list of articles for ML/AI/NLP
 * CNN+LSTM: https://machinelearningmastery.com/cnn-long-short-term-memory-networks/
 
 
-#### Data
-* Chest X-ray data: https://www.kaggle.com/nih-chest-xrays
-
 ## References (technical):
 
 * plotting boxplots in plotly in python: https://plot.ly/python/box-plots/
@@ -165,6 +162,7 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Novelty and Outlier Detection: https://scikit-learn.org/stable/modules/outlier_detection.html#novelty-detection
 * One Class SVM Anomaly detection: https://www.kaggle.com/amarnayak/once-class-svm-to-detect-anomaly
 * PyOD for anomaly detection: https://github.com/yzhao062/Pyod#quick-start-for-outlier-detection
+* text anomaly detection: https://arxiv.org/pdf/1701.01325.pdf
 
 ## NLP:
 * NLTK Book: http://www.nltk.org/book/ 
@@ -204,13 +202,6 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * ULMFIT tutorial: https://www.analyticsvidhya.com/blog/2018/11/tutorial-text-classification-ulmfit-fastai-library/
 * DSSM: https://www.microsoft.com/en-us/research/project/dssm/
  
-#### Anomaly detection
-
-* https://arxiv.org/pdf/1701.01325.pdf
-
-
-
-
 ### XGBoost Installation:
 
 * check you python version - by opening CMD and typing python -> ENTER
@@ -243,7 +234,6 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Corey Schafer (YouTube video): Generator functions: https://www.youtube.com/watch?v=bD05uGo_sVI
 
 ### Reinforcement Learning
-
 * Dynamic Programming: https://web.stanford.edu/class/cs97si/04-dynamic-programming.pdf
 * When are Monte Carlo methods preferred over Temporal Difference methods: https://stats.stackexchange.com/questions/336974/when-are-monte-carlo-methods-preferred-over-temporal-difference-ones
 * https://simoninithomas.github.io/Deep_reinforcement_learning_Course/#
@@ -258,12 +248,16 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 
 ### Open Datasets
 * https://skymind.ai/wiki/open-datasets
+* Chest X-ray data: https://www.kaggle.com/nih-chest-xrays
 
 ### Image Captioning
 * https://towardsdatascience.com/image-captioning-with-keras-teaching-computers-to-describe-pictures-c88a46a311b8
 * https://www.analyticsvidhya.com/blog/2018/04/solving-an-image-captioning-task-using-deep-learning/
 * https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/
 * A Comprehensive Survey of Deep Learning for Image Captioning: https://arxiv.org/pdf/1810.04020.pdf
+
+### Image Segmentation:
+* Image Segmentation Keras : Implementation of Segnet, FCN, UNet, PSPNet and other models in Keras: https://github.com/divamgupta/image-segmentation-keras
 
 ## References (business):
 * What is an ad impression: https://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html
