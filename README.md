@@ -137,6 +137,9 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 **ICA**
 * Stanford notes on ICA: http://cs229.stanford.edu/notes/cs229-notes11.pdf
 
+**Mahalnobis distance***
+* https://www.machinelearningplus.com/statistics/mahalanobis-distance/
+
 ## Docker
 * https://www.analyticsvidhya.com/blog/2017/11/reproducible-data-science-docker-for-data-science/
 * Docker for ML: https://pratos.github.io/2017-04-24/docker-for-data-science-part-1/
@@ -258,6 +261,9 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 
 ### Image Segmentation:
 * Image Segmentation Keras : Implementation of Segnet, FCN, UNet, PSPNet and other models in Keras: https://github.com/divamgupta/image-segmentation-keras
+
+### Customer Analytics
+https://towardsdatascience.com/predictive-customer-analytics-4064d881b649 (part 1)
 
 ## References (business):
 * What is an ad impression: https://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html
