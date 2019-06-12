@@ -265,6 +265,9 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 ### Customer Analytics
 https://towardsdatascience.com/predictive-customer-analytics-4064d881b649 (part 1)
 
+### Time Series
+* time series analysis in python: https://www.machinelearningplus.com/time-series/time-series-analysis-python/
+
 ## References (business):
 * What is an ad impression: https://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html
 * ML in fraud detection: https://www.marutitech.com/machine-learning-fraud-detection/
