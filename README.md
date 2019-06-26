@@ -268,6 +268,11 @@ https://towardsdatascience.com/predictive-customer-analytics-4064d881b649 (part 
 ### Time Series
 * time series analysis in python: https://www.machinelearningplus.com/time-series/time-series-analysis-python/
 
+### Architecture
+* https://towardsdatascience.com/putting-ml-in-production-i-using-apache-kafka-in-python-ce06b3a395c8
+* https://towardsdatascience.com/putting-ml-in-production-ii-logging-and-monitoring-algorithms-91f174044e4e
+* https://towardsdatascience.com/getting-started-with-mlflow-52eff8c09c61
+
 ## References (business):
 * What is an ad impression: https://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html
 * ML in fraud detection: https://www.marutitech.com/machine-learning-fraud-detection/
