@@ -39,6 +39,7 @@ Curated list of articles for ML/AI/NLP
 * CNN+LSTM: https://machinelearningmastery.com/cnn-long-short-term-memory-networks/
 
 * Using Embedding Layer in Keras: https://blog.keras.io/using-pre-trained-word-embeddings-in-a-keras-model.html
+* how does keras embedding layer work: https://stats.stackexchange.com/questions/270546/how-does-keras-embedding-layer-work
 
 ## References (technical):
 
