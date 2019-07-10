@@ -38,6 +38,7 @@ Curated list of articles for ML/AI/NLP
 
 * CNN+LSTM: https://machinelearningmastery.com/cnn-long-short-term-memory-networks/
 
+* Using Embedding Layer in Keras: https://blog.keras.io/using-pre-trained-word-embeddings-in-a-keras-model.html
 
 ## References (technical):
 
@@ -231,6 +232,10 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Pandas 101 practice: https://www.machinelearningplus.com/python/101-pandas-exercises-python/
 
 * Parallel processing in Python: https://www.machinelearningplus.com/python/parallel-processing-python/
+
+##### writing better code for DS:
+* https://towardsdatascience.com/how-a-simple-mix-of-object-oriented-programming-can-sharpen-your-deep-learning-prototype-19893bd969bd
+* https://towardsdatascience.com/notes-on-software-construction-from-code-complete-8d2a8a959c69
 
 #### Generators
 * Jeff Knup's blog: 'Yield' and Generator Functions: https://jeffknupp.com/blog/2013/04/07/improve-your-python-yield-and-generators-explained/
