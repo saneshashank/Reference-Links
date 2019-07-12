@@ -60,8 +60,6 @@ Curated list of articles for ML/AI/NLP
 
 
 * How is Bayesian classifer different from MLE classifier?: https://stats.stackexchange.com/questions/74082/what-is-the-difference-in-bayesian-estimate-and-maximum-likelihood-estimate
-* ROC : https://stats.stackexchange.com/questions/105501/understanding-roc-curve
-* ROC detailed analysis: http://mlwiki.org/index.php/ROC_Analysis
 * Cross Validation - need for test set: https://stats.stackexchange.com/questions/223408/how-does-k-fold-cross-validation-fit-in-the-context-of-training-validation-testi AND
 https://stackoverflow.com/questions/43663365/cross-validation-use-testing-set-or-validation-set-to-predict
 * K Modes Clustering: https://shapeofdata.wordpress.com/2014/03/04/k-modes/
@@ -93,10 +91,6 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 
 * feature reduction using varrank: https://cran.r-project.org/web/packages/varrank/vignettes/varrank.html
 
-**metrics for classification models
-
-* Top 15: https://www.machinelearningplus.com/machine-learning/evaluation-metrics-classification-models-r/
-
 #### dummy vars
 * dummy vars transfromation applied on prediction data: https://stackoverflow.com/questions/43578799/how-to-save-mapping-of-data-frame-to-model-matrix-and-apply-to-new-observations
 
@@ -124,9 +118,15 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Book on Feature Engineering (Max Kuhn): http://www.feat.engineering/
 * Understanding Cost Functions (video series): https://www.youtube.com/watch?v=euhATa4wgzo&index=1&list=PLNlkREaquqc6WUPMRicPbEvLyZe-7b-GT
 * Build better predictive models using segmentation: https://www.analyticsvidhya.com/blog/2016/02/guide-build-predictive-models-segmentation/
-* metrics for model evaluation: http://scikit-learn.org/stable/modules/model_evaluation.html
-
 * using AWS for Deep Learning: https://machinelearningmastery.com/develop-evaluate-large-deep-learning-models-keras-amazon-web-services/
+
+#### Metrics for ML model evaluation
+* metrics for model evaluation: http://scikit-learn.org/stable/modules/model_evaluation.html
+* f1 score macro vs micro: https://datascience.stackexchange.com/questions/40900/whats-the-difference-between-sklearn-f1-score-micro-and-weighted-for-a-mult
+* when to use f1 macro vs f1 micro:https://datascience.stackexchange.com/questions/36862/macro-or-micro-average-for-imbalanced-class-problems
+* Top 15: https://www.machinelearningplus.com/machine-learning/evaluation-metrics-classification-models-r/
+* ROC : https://stats.stackexchange.com/questions/105501/understanding-roc-curve
+* ROC detailed analysis: http://mlwiki.org/index.php/ROC_Analysis
 
 **PCA**
 * variance in PCA explained: https://ro-che.info/articles/2017-12-11-pca-explained-variance
