@@ -41,6 +41,11 @@ Curated list of articles for ML/AI/NLP
 * Using Embedding Layer in Keras: https://blog.keras.io/using-pre-trained-word-embeddings-in-a-keras-model.html
 * how does keras embedding layer work: https://stats.stackexchange.com/questions/270546/how-does-keras-embedding-layer-work
 
+* Doc2Vec : https://radimrehurek.com/gensim/models/doc2vec.html
+* https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-lee.ipynb
+* Doc2Vec : https://medium.com/@mishra.thedeepak/doc2vec-simple-implementation-example-df2afbbfbad5
+* How to use Doc2Vec as input to Keras model: https://stackoverflow.com/questions/50564928/how-to-use-sentence-vectors-from-doc2vec-in-keras-sequntial-model-for-sentence-s
+
 ## References (technical):
 
 * plotting boxplots in plotly in python: https://plot.ly/python/box-plots/
@@ -49,6 +54,8 @@ Curated list of articles for ML/AI/NLP
 * **matplotlib** basic tutorial: https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python
 * parametric and non-parametric ml methods: https://machinelearningmastery.com/parametric-and-nonparametric-machine-learning-algorithms/
 * Stability Selection vs RFE (Recursive Feature Elimination): http://blog.datadive.net/selecting-good-features-part-iv-stability-selection-rfe-and-everything-side-by-side/
+
+* Progress Bars in jupyter notebook with tqdm : https://towardsdatascience.com/progress-bars-in-python-4b44e8a4c482
 
 * **Scikit learn**: http://scikit-learn.org/stable/index.html
 
@@ -168,6 +175,9 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * One Class SVM Anomaly detection: https://www.kaggle.com/amarnayak/once-class-svm-to-detect-anomaly
 * PyOD for anomaly detection: https://github.com/yzhao062/Pyod#quick-start-for-outlier-detection
 * text anomaly detection: https://arxiv.org/pdf/1701.01325.pdf
+
+* Text Anomaly Detection using Doc2Vec and cosine sim: https://medium.com/datadriveninvestor/unsupervised-outlier-detection-in-text-corpus-using-deep-learning-41d4284a04c8
+* https://github.com/avisheknag17/public_ml_models/blob/master/outlier_detection_in_movie_plots_ann/notebook/movie_plots_outlier_detector.ipynb
 
 ## NLP:
 * NLTK Book: http://www.nltk.org/book/ 
