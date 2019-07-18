@@ -137,6 +137,8 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 
 **PCA**
 * variance in PCA explained: https://ro-che.info/articles/2017-12-11-pca-explained-variance
+* PCA on large matrices: https://amedee.me/post/pca-large-matrices/
+* radomizedSVD: http://alimanfoo.github.io/2015/09/28/fast-pca.html
 
 **t-SNE**
 * Laurens van der Maaten's (creator of t-SNE) website: https://lvdmaaten.github.io/tsne/
