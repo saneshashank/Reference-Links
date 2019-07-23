@@ -151,6 +151,12 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 **Mahalnobis distance***
 * https://www.machinelearningplus.com/statistics/mahalanobis-distance/
 
+### clustering
+* assessing clustering tendancy:https://www.datanovia.com/en/lessons/assessing-clustering-tendency/
+* Hopkins test for cluster tendency: https://matevzkunaver.wordpress.com/2017/06/20/hopkins-test-for-cluster-tendency/
+* Clustering validation tests: http://www.sthda.com/english/wiki/print.php?id=241
+* silhoutte method for cluster quality: https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html
+
 ## Docker
 * https://www.analyticsvidhya.com/blog/2017/11/reproducible-data-science-docker-for-data-science/
 * Docker for ML: https://pratos.github.io/2017-04-24/docker-for-data-science-part-1/
