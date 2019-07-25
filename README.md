@@ -48,7 +48,9 @@ Curated list of articles for ML/AI/NLP
 * Doc2Vec : https://medium.com/@mishra.thedeepak/doc2vec-simple-implementation-example-df2afbbfbad5
 * How to use Doc2Vec as input to Keras model: https://stackoverflow.com/questions/50564928/how-to-use-sentence-vectors-from-doc2vec-in-keras-sequntial-model-for-sentence-s
 
-## References (technical):
+**NLG**
+* NLG using markovify: https://github.com/jsvine/markovify
+* training bot to comment on current affairs: https://www.kaggle.com/aashita/training-a-bot-to-comment-on-current-affairs
 
 * plotting boxplots in plotly in python: https://plot.ly/python/box-plots/
 * extract high correlation values: https://stackoverflow.com/questions/17778394/list-highest-correlation-pairs-from-a-large-correlation-matrix-in-pandas
