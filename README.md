@@ -98,6 +98,9 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * difference between generative and discriminative algorithm: https://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-discriminative-algorithm
 * What is the difference between Liklihood and probability: https://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-discriminative-algorithm
 
+#### frequentist AB testing:
+* http://ethen8181.github.io/machine-learning/ab_tests/frequentist_ab_test.html
+
 ##### ANOVA tests:
 * https://machinelearningmastery.com/parametric-statistical-significance-tests-in-python/
 * https://pythonfordatascience.org/anova-python/
