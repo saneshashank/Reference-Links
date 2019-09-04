@@ -169,6 +169,21 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Clustering validation tests: http://www.sthda.com/english/wiki/print.php?id=241
 * silhoutte method for cluster quality: https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html
 
+### Latent Drichlet Analysis:
+* Topic modeling in gesim:  https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
+* Topic modeling in sklearn (with NMF): https://www.machinelearningplus.com/nlp/topic-modeling-python-sklearn-examples/
+* sklearn: https://scikit-learn.org/stable/auto_examples/applications/plot_topics_extraction_with_nmf_lda.html
+
+### text summarization:
+* https://becominghuman.ai/text-summarization-in-5-steps-using-nltk-65b21e352b65
+
+### spacy
+* text classification using spacy: https://www.dataquest.io/blog/tutorial-text-classification-in-python-using-spacy/
+* ml for text classification using spacy: https://towardsdatascience.com/machine-learning-for-text-classification-using-spacy-in-python-b276b4051a49
+* tricks for using spacy at scale: https://towardsdatascience.com/a-couple-tricks-for-using-spacy-at-scale-54affd8326cf
+*	Modified skip gram based on spacy dependency parser: https://medium.com/reputation-com-datascience-blog/keywords-extraction-with-ngram-and-modified-skip-gram-based-on-spacy-14e5625fce23
+
+
 ## Docker
 * https://www.analyticsvidhya.com/blog/2017/11/reproducible-data-science-docker-for-data-science/
 * Docker for ML: https://pratos.github.io/2017-04-24/docker-for-data-science-part-1/
