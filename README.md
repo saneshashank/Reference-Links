@@ -183,6 +183,9 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * tricks for using spacy at scale: https://towardsdatascience.com/a-couple-tricks-for-using-spacy-at-scale-54affd8326cf
 *	Modified skip gram based on spacy dependency parser: https://medium.com/reputation-com-datascience-blog/keywords-extraction-with-ngram-and-modified-skip-gram-based-on-spacy-14e5625fce23
 
+### gensim
+* introduction to gensim: https://www.machinelearningplus.com/nlp/gensim-tutorial/
+
 
 ## Docker
 * https://www.analyticsvidhya.com/blog/2017/11/reproducible-data-science-docker-for-data-science/
@@ -286,6 +289,7 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 #### Generators
 * Jeff Knup's blog: 'Yield' and Generator Functions: https://jeffknupp.com/blog/2013/04/07/improve-your-python-yield-and-generators-explained/
 * Corey Schafer (YouTube video): Generator functions: https://www.youtube.com/watch?v=bD05uGo_sVI
+* Data streaming in Python: generators, iterators, iterables: https://rare-technologies.com/data-streaming-in-python-generators-iterators-iterables/
 
 ### Reinforcement Learning
 * Dynamic Programming: https://web.stanford.edu/class/cs97si/04-dynamic-programming.pdf
