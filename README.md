@@ -160,8 +160,13 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 **ICA**
 * Stanford notes on ICA: http://cs229.stanford.edu/notes/cs229-notes11.pdf
 
-**Mahalnobis distance***
-* https://www.machinelearningplus.com/statistics/mahalanobis-distance/
+### Distance Metrics
+* Mahalnobis distance: https://www.machinelearningplus.com/statistics/mahalanobis-distance/
+* Cosine similarity: https://www.machinelearningplus.com/nlp/cosine-similarity/
+* 3 basic Distance Measurement in Text Mining: https://towardsdatascience.com/3-basic-distance-measurement-in-text-mining-5852becff1d7
+* Word Mover’s Distance (WMD): https://towardsdatascience.com/word-distance-between-word-embeddings-cc3e9cf1d632
+* WMD Tutorial: https://markroxor.github.io/gensim/static/notebooks/WMD_tutorial.html
+* Word Mover’s Distance in Python: https://vene.ro/blog/word-movers-distance-in-python.html
 
 ### clustering
 * assessing clustering tendancy:https://www.datanovia.com/en/lessons/assessing-clustering-tendency/
@@ -213,9 +218,9 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * One Class SVM Anomaly detection: https://www.kaggle.com/amarnayak/once-class-svm-to-detect-anomaly
 * PyOD for anomaly detection: https://github.com/yzhao062/Pyod#quick-start-for-outlier-detection
 * text anomaly detection: https://arxiv.org/pdf/1701.01325.pdf
-
+* Outlier Detection for Text Data: https://epubs.siam.org/doi/pdf/10.1137/1.9781611974973.55
 * Text Anomaly Detection using Doc2Vec and cosine sim: https://medium.com/datadriveninvestor/unsupervised-outlier-detection-in-text-corpus-using-deep-learning-41d4284a04c8
-* https://github.com/avisheknag17/public_ml_models/blob/master/outlier_detection_in_movie_plots_ann/notebook/movie_plots_outlier_detector.ipynb
+*  https://github.com/avisheknag17/public_ml_models/blob/master/outlier_detection_in_movie_plots_ann/notebook/movie_plots_outlier_detector.ipynb
 
 ## NLP:
 * NLTK Book: http://www.nltk.org/book/ 
