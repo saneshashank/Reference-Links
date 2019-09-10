@@ -160,6 +160,12 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 **ICA**
 * Stanford notes on ICA: http://cs229.stanford.edu/notes/cs229-notes11.pdf
 
+**Extra Tree Classifier**
+* difference b/w extra tree classifier and random forest:https://www.thekerneltrip.com/statistics/random-forest-vs-extra-tree/
+
+### Model Stacking
+* stacking: https://dkopczyk.quantee.co.uk/stacking/
+
 ### Distance Metrics
 * Mahalnobis distance: https://www.machinelearningplus.com/statistics/mahalanobis-distance/
 * Cosine similarity: https://www.machinelearningplus.com/nlp/cosine-similarity/
