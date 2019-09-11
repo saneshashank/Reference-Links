@@ -109,6 +109,7 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 #### Feature reduction:
 
 * feature reduction using varrank: https://cran.r-project.org/web/packages/varrank/vignettes/varrank.html
+* LDA based feat reduction: https://towardsdatascience.com/dimensionality-reduction-with-latent-dirichlet-allocation-8d73c586738c
 
 #### dummy vars
 * dummy vars transfromation applied on prediction data: https://stackoverflow.com/questions/43578799/how-to-save-mapping-of-data-frame-to-model-matrix-and-apply-to-new-observations
