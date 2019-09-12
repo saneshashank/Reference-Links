@@ -128,6 +128,7 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Light GBM github: https://github.com/Microsoft/LightGBM
 * XGBoost Conceptual Understanding of Algo: http://xgboost.readthedocs.io/en/latest/model.html
 * XGBoost Site: http://xgboost.readthedocs.io/en/latest/
+* Difference b/w lightgbm and xgboost: https://mlexplained.com/2018/01/05/lightgbm-and-xgboost-explained/
 
 
 * Difference b/w size and count with groupby in pandas: https://stackoverflow.com/questions/33346591/what-is-the-difference-between-size-and-count-in-pandas
