@@ -219,6 +219,13 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 
 * sentiment analysis using VADER: https://medium.com/analytics-vidhya/simplifying-social-media-sentiment-analysis-using-vader-in-python-f9e6ec6fc52f
 
+#### Active Learning
+* How Active Learning can help you train your models with less Data: https://towardsdatascience.com/how-active-learning-can-help-you-train-your-models-with-less-data-389da8a5f7ea
+* Active Learning Tutorial: https://towardsdatascience.com/active-learning-tutorial-57c3398e34d
+
+#### Bayesian Optimization
+* RoBo - Bayesian Optimization Framework: https://automl.github.io/RoBO/tutorials.html
+
 ### Anomaly Detection
 * Note on anomaly detection: https://towardsdatascience.com/a-note-about-finding-anomalies-f9cedee38f0b
 * Four Techniques for Anomaly detection: https://dzone.com/articles/four-techniques-for-outlier-detection-knime
