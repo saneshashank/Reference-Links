@@ -226,6 +226,12 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 #### Bayesian Optimization
 * RoBo - Bayesian Optimization Framework: https://automl.github.io/RoBO/tutorials.html
 
+#### Design of Experiment
+* https://machinelearningmastery.com/controlled-experiments-in-machine-learning/
+* https://www.analyticsvidhya.com/blog/2015/10/guide-design-of-experiments-case-study/
+* https://towardsdatascience.com/design-your-engineering-experiment-plan-with-a-simple-python-command-35a6ba52fa35
+* https://pythonhosted.org/pyDOE/
+
 ### Anomaly Detection
 * Note on anomaly detection: https://towardsdatascience.com/a-note-about-finding-anomalies-f9cedee38f0b
 * Four Techniques for Anomaly detection: https://dzone.com/articles/four-techniques-for-outlier-detection-knime
