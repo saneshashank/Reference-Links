@@ -226,6 +226,9 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 #### Bayesian Optimization
 * RoBo - Bayesian Optimization Framework: https://automl.github.io/RoBO/tutorials.html
 
+#### Sparse Matrix
+* https://dziganto.github.io/Sparse-Matrices-For-Efficient-Machine-Learning/
+
 #### Design of Experiment
 * https://machinelearningmastery.com/controlled-experiments-in-machine-learning/
 * https://www.analyticsvidhya.com/blog/2015/10/guide-design-of-experiments-case-study/
@@ -296,6 +299,7 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 
 ### Python
 * Python OOP tutorial: https://www.youtube.com/watch?v=ZDa-Z5JzLYM
+* OOPS illustrated using ML example: https://dziganto.github.io/classes/data%20science/linear%20regression/machine%20learning/object-oriented%20programming/python/Understanding-Object-Oriented-Programming-Through-Machine-Learning/
 * vectorized string operations in Python(using pandas): https://jakevdp.github.io/PythonDataScienceHandbook/03.10-working-with-strings.html
 
 * Use YouTube as a Free Screencast Recorder: https://www.youtube.com/watch?v=0i9C8GpRedc
