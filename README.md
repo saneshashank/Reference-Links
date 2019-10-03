@@ -235,6 +235,12 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * https://towardsdatascience.com/design-your-engineering-experiment-plan-with-a-simple-python-command-35a6ba52fa35
 * https://pythonhosted.org/pyDOE/
 
+#### Variational Autoencoder
+* VAE an intutive explanation: https://hsaghir.github.io/data_science/denoising-vs-variational-autoencoder/
+* text generation using VAE: https://nicgian.github.io/text-generation-vae/
+* text VAE in keras: http://alexadam.ca/ml/2017/05/05/keras-vae.html
+* tutorial on VAE: https://tiao.io/post/tutorial-on-variational-autoencoders-with-a-concise-keras-implementation/
+
 ### Anomaly Detection
 * Note on anomaly detection: https://towardsdatascience.com/a-note-about-finding-anomalies-f9cedee38f0b
 * Four Techniques for Anomaly detection: https://dzone.com/articles/four-techniques-for-outlier-detection-knime
