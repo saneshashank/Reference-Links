@@ -242,6 +242,7 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * tutorial on VAE: https://tiao.io/post/tutorial-on-variational-autoencoders-with-a-concise-keras-implementation/
 * From Autoencoders to Beta-VAE (Disentangled VAE): https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html
 * Autoencoder - Image Compression: https://ai.googleblog.com/2016/09/image-compression-with-neural-networks.html
+* video: https://www.youtube.com/watch?v=9zKuYvjFFS8
 
 ### Anomaly Detection
 * Note on anomaly detection: https://towardsdatascience.com/a-note-about-finding-anomalies-f9cedee38f0b
