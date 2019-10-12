@@ -228,6 +228,7 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 
 #### Bayesian Optimization
 * RoBo - Bayesian Optimization Framework: https://automl.github.io/RoBO/tutorials.html
+* Implementing bayesian optimization from scratch: https://machinelearningmastery.com/what-is-bayesian-optimization/
 
 #### Sparse Matrix
 * https://dziganto.github.io/Sparse-Matrices-For-Efficient-Machine-Learning/
