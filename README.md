@@ -188,10 +188,14 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Clustering validation tests: http://www.sthda.com/english/wiki/print.php?id=241
 * silhoutte method for cluster quality: https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html
 
-### Latent Drichlet Analysis:
-* Topic modeling in gesim:  https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
+### Topic Modelling:
+* Topic modeling in gensim:  https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
 * Topic modeling in sklearn (with NMF): https://www.machinelearningplus.com/nlp/topic-modeling-python-sklearn-examples/
 * sklearn: https://scikit-learn.org/stable/auto_examples/applications/plot_topics_extraction_with_nmf_lda.html
+* What is topic coherence: https://rare-technologies.com/what-is-topic-coherence/
+* Evaluation of Topic Modeling: Topic Coherence: https://datascienceplus.com/evaluation-of-topic-modeling-topic-coherence/
+* Exploring the Space of Topic Coherence Measures (paper): http://svn.aksw.org/papers/2015/WSDM_Topic_Evaluation/public.pdf
+* Good Read - choosing topics using coherence measures in LDA,LSI,HDP etc. https://markroxor.github.io/gensim/static/notebooks/gensim_news_classification.html
 
 ### text summarization:
 * https://becominghuman.ai/text-summarization-in-5-steps-using-nltk-65b21e352b65
