@@ -106,13 +106,16 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * https://pythonfordatascience.org/anova-python/
 * https://riffyn.com/riffyn-blog/2017/10/29/family-wise-error-rate
 
-#### Feature reduction:
+#### Feature reduction/Feature Selection:
 
 * feature reduction using varrank: https://cran.r-project.org/web/packages/varrank/vignettes/varrank.html
 * LDA based feat reduction: https://towardsdatascience.com/dimensionality-reduction-with-latent-dirichlet-allocation-8d73c586738c
 * LDA usage: http://jmlr.org/papers/volume3/blei03a/blei03a.pdf
 * using LDA for text classification: https://towardsdatascience.com/unsupervised-nlp-topic-models-as-a-supervised-learning-input-cf8ee9e5cf28
 * http://blog.echen.me/2012/03/20/infinite-mixture-models-with-nonparametric-bayes-and-the-dirichlet-process/
+* A Comprehensive Survey on various Feature Selection Methods to Categorize Text Documents: https://pdfs.semanticscholar.org/d773/c6e96ed04f6d63531ff703303404e959f82f.pdf
+* A Review of Feature Selection on Text Classification: http://umpir.ump.edu.my/id/eprint/23030/7/A%20Review%20of%20Feature%20Selection%20on%20Text2.pdf
+* A Robust Hybrid Approach for Textual Document Classification: https://arxiv.org/pdf/1909.05478.pdf
 
 #### dummy vars
 * dummy vars transfromation applied on prediction data: https://stackoverflow.com/questions/43578799/how-to-save-mapping-of-data-frame-to-model-matrix-and-apply-to-new-observations
@@ -238,6 +241,10 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * https://www.analyticsvidhya.com/blog/2015/10/guide-design-of-experiments-case-study/
 * https://towardsdatascience.com/design-your-engineering-experiment-plan-with-a-simple-python-command-35a6ba52fa35
 * https://pythonhosted.org/pyDOE/
+
+#### Model Explainibility
+* ELI5 - TextExplainer: debugging black-box text classifiers: https://eli5.readthedocs.io/en/latest/tutorials/black-box-text-classifiers.html
+
 
 #### Variational Autoencoder
 * VAE an intutive explanation: https://hsaghir.github.io/data_science/denoising-vs-variational-autoencoder/
