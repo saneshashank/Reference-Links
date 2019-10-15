@@ -208,6 +208,7 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 
 ### gensim
 * introduction to gensim: https://www.machinelearningplus.com/nlp/gensim-tutorial/
+* usine soft cosine similarity in gensim: https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/soft_cosine_tutorial.ipynb
 
 
 ## Docker
