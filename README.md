@@ -308,6 +308,14 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Blog for understanding ELMO and BERT: http://jalammar.github.io/illustrated-bert/
 * ULMFIT tutorial: https://www.analyticsvidhya.com/blog/2018/11/tutorial-text-classification-ulmfit-fastai-library/
 * DSSM: https://www.microsoft.com/en-us/research/project/dssm/
+
+** Ktrain **: lightweight wrapper around keras for BERT, NBSVM implementation etc.
+
+### Model Fracking and Concept Drift:
+* https://towardsdatascience.com/fracking-features-in-machine-learning-b8247626e582
+* github: https://github.com/saneshashank/Fracking-Features-in-Machine-Learning
+* https://towardsdatascience.com/concept-drift-and-model-decay-in-machine-learning-a98a809ea8d4
+* github: https://github.com/saneshashank/Concept-Drift-and-Model-Decay
  
 ### XGBoost Installation:
 
