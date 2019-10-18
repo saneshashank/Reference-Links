@@ -197,6 +197,9 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Exploring the Space of Topic Coherence Measures (paper): http://svn.aksw.org/papers/2015/WSDM_Topic_Evaluation/public.pdf
 * Good Read - choosing topics using coherence measures in LDA,LSI,HDP etc. https://markroxor.github.io/gensim/static/notebooks/gensim_news_classification.html
 
+### EVT
+* Reducing Uncertainty in Document Classification with Extreme Value Theory: https://medium.com/cognigo/reducing-uncertainty-in-document-classification-with-extreme-value-theory-97508ebd76f
+
 ### text summarization:
 * https://becominghuman.ai/text-summarization-in-5-steps-using-nltk-65b21e352b65
 
