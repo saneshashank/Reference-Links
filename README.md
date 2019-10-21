@@ -402,6 +402,10 @@ https://towardsdatascience.com/predictive-customer-analytics-4064d881b649 (part 
 * https://towardsdatascience.com/putting-ml-in-production-ii-logging-and-monitoring-algorithms-91f174044e4e
 * https://towardsdatascience.com/getting-started-with-mlflow-52eff8c09c61
 
+### Information Theory of Deep Learning
+* https://lilianweng.github.io/lil-log/2017/09/28/anatomize-deep-learning-with-information-theory.html
+* https://adityashrm21.github.io/Information-Theory-In-Deep-Learning/
+
 ## References (business):
 * What is an ad impression: https://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html
 * ML in fraud detection: https://www.marutitech.com/machine-learning-fraud-detection/
