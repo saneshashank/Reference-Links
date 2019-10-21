@@ -14,6 +14,7 @@ Curated list of articles for ML/AI/NLP
 * Overfitting and how to prevent it: https://hackernoon.com/memorizing-is-not-learning-6-tricks-to-prevent-overfitting-in-machine-learning-820b091dc42
 * 37 reasons for neural n/w not working properly: https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607
 * list of cost functions to be used with Gradient Descent: https://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications
+* What is validation data used for in a Keras Sequential model? : https://stackoverflow.com/questions/46308374/what-is-validation-data-used-for-in-a-keras-sequential-model
 
 ### CNN and Image Processing:
 
@@ -41,6 +42,13 @@ Curated list of articles for ML/AI/NLP
 **keras embedding layer**
 * Using Embedding Layer in Keras: https://blog.keras.io/using-pre-trained-word-embeddings-in-a-keras-model.html
 * how does keras embedding layer work: https://stats.stackexchange.com/questions/270546/how-does-keras-embedding-layer-work
+
+**keras generators***
+* A detailed example of how to use data generators with Keras: https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly
+
+**Large Model Support usage in keras**
+* https://towardsdatascience.com/deep-learning-analysis-using-large-model-support-3a67a919255
+* https://github.com/pierpaolo28/Artificial-Intelligence-Projects/blob/master/IBM%20Large%20Model%20Support/LargeModelSupport.ipynb
 
 **Doc2Vec**
 * Doc2Vec : https://radimrehurek.com/gensim/models/doc2vec.html
