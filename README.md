@@ -204,6 +204,8 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Evaluation of Topic Modeling: Topic Coherence: https://datascienceplus.com/evaluation-of-topic-modeling-topic-coherence/
 * Exploring the Space of Topic Coherence Measures (paper): http://svn.aksw.org/papers/2015/WSDM_Topic_Evaluation/public.pdf
 * Good Read - choosing topics using coherence measures in LDA,LSI,HDP etc. https://markroxor.github.io/gensim/static/notebooks/gensim_news_classification.html
+* Dynamic Topic Models tutorial: https://markroxor.github.io/gensim/static/notebooks/ldaseqmodel.html
+* Dynamic topic model google talk: https://www.youtube.com/watch?v=7BMsuyBPx90
 
 ### EVT
 * Reducing Uncertainty in Document Classification with Extreme Value Theory: https://medium.com/cognigo/reducing-uncertainty-in-document-classification-with-extreme-value-theory-97508ebd76f
