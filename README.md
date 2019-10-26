@@ -189,6 +189,7 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Word Mover’s Distance (WMD): https://towardsdatascience.com/word-distance-between-word-embeddings-cc3e9cf1d632
 * WMD Tutorial: https://markroxor.github.io/gensim/static/notebooks/WMD_tutorial.html
 * Word Mover’s Distance in Python: https://vene.ro/blog/word-movers-distance-in-python.html
+* probability distance metrics:https://markroxor.github.io/gensim/static/notebooks/distance_metrics.html
 
 ### clustering
 * assessing clustering tendancy:https://www.datanovia.com/en/lessons/assessing-clustering-tendency/
@@ -206,6 +207,9 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Good Read - choosing topics using coherence measures in LDA,LSI,HDP etc. https://markroxor.github.io/gensim/static/notebooks/gensim_news_classification.html
 * Dynamic Topic Models tutorial: https://markroxor.github.io/gensim/static/notebooks/ldaseqmodel.html
 * Dynamic topic model google talk: https://www.youtube.com/watch?v=7BMsuyBPx90
+
+### Probability Callibration:
+* https://scikit-learn.org/stable/modules/calibration.html
 
 ### EVT
 * Reducing Uncertainty in Document Classification with Extreme Value Theory: https://medium.com/cognigo/reducing-uncertainty-in-document-classification-with-extreme-value-theory-97508ebd76f
