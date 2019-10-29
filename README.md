@@ -227,6 +227,12 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * introduction to gensim: https://www.machinelearningplus.com/nlp/gensim-tutorial/
 * usine soft cosine similarity in gensim: https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/soft_cosine_tutorial.ipynb
 
+### Probabilistic programming in tensorflow
+* paper: https://arxiv.org/pdf/1711.10604.pdf
+* https://medium.com/tensorflow/introducing-tensorflow-probability-dca4c304e245
+* https://www.youtube.com/watch?v=BjUkL8DFH5Q&t=4s
+* https://www.youtube.com/watch?v=ngFU7Rwl76g
+* https://medium.com/tensorflow/industrial-ai-bhges-physics-based-probabilistic-deep-learning-using-tensorflow-probability-5f215c791863
 
 ## Docker
 * https://www.analyticsvidhya.com/blog/2017/11/reproducible-data-science-docker-for-data-science/
