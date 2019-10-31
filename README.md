@@ -418,6 +418,9 @@ https://towardsdatascience.com/predictive-customer-analytics-4064d881b649 (part 
 * https://lilianweng.github.io/lil-log/2017/09/28/anatomize-deep-learning-with-information-theory.html
 * https://adityashrm21.github.io/Information-Theory-In-Deep-Learning/
 
+###
+* https://medium.com/bcggamma/an-ensemble-approach-to-large-scale-fuzzy-name-matching-b3e3fa124e3c
+
 ## References (business):
 * What is an ad impression: https://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html
 * ML in fraud detection: https://www.marutitech.com/machine-learning-fraud-detection/
