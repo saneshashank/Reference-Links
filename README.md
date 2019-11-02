@@ -421,6 +421,9 @@ https://towardsdatascience.com/predictive-customer-analytics-4064d881b649 (part 
 ###
 * https://medium.com/bcggamma/an-ensemble-approach-to-large-scale-fuzzy-name-matching-b3e3fa124e3c
 
+### Latent Aspect Ratio Analysis (LARA) for CSAT
+* https://github.com/redris96/LARA
+
 ## References (business):
 * What is an ad impression: https://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html
 * ML in fraud detection: https://www.marutitech.com/machine-learning-fraud-detection/
