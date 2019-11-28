@@ -247,6 +247,7 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * anomaly detection in python: https://www.datascience.com/blog/python-anomaly-detection
 * scikit learn novelty and outlier detection: https://www.datascience.com/blog/python-anomaly-detection
 * Imbalanced data handling tutorial in Python: https://blog.dominodatalab.com/imbalanced-datasets/
+* imbalanced data sets (Good Read): https://www.svds.com/learning-imbalanced-classes/
 
 ### Multi-label Classification
 * https://towardsdatascience.com/journey-to-the-center-of-multi-label-classification-384c40229bff
