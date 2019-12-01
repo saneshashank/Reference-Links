@@ -217,6 +217,14 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 ### text summarization:
 * https://becominghuman.ai/text-summarization-in-5-steps-using-nltk-65b21e352b65
 
+### text classification using DL:
+* what kagglers are using for text classification: https://mlwhiz.com/blog/2018/12/17/text_classification/
+* text CNN: https://www.kaggle.com/mlwhiz/learning-text-classification-textcnn/comments
+* text pre-processing methods for DL: https://mlwhiz.com/blog/2019/01/17/deeplearning_nlp_preprocess/
+* How to pre-process when using embeddings: https://www.kaggle.com/christofhenkel/how-to-preprocessing-when-using-embeddings
+* A Layman guide to moving from Keras to Pytorch: https://mlwhiz.com/blog/2019/01/06/pytorch_keras_conversion/
+* Toxic comments classification: https://www.kaggle.com/larryfreeman/toxic-comments-code-for-alexander-s-9872-model
+
 ### spacy
 * text classification using spacy: https://www.dataquest.io/blog/tutorial-text-classification-in-python-using-spacy/
 * ml for text classification using spacy: https://towardsdatascience.com/machine-learning-for-text-classification-using-spacy-in-python-b276b4051a49
