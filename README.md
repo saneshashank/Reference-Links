@@ -56,6 +56,14 @@ Curated list of articles for ML/AI/NLP
 * Doc2Vec : https://medium.com/@mishra.thedeepak/doc2vec-simple-implementation-example-df2afbbfbad5
 * How to use Doc2Vec as input to Keras model: https://stackoverflow.com/questions/50564928/how-to-use-sentence-vectors-from-doc2vec-in-keras-sequntial-model-for-sentence-s
 
+#### CNN
+* Introduction to 1D CNNs: https://blog.goodaudience.com/introduction-to-1d-convolutional-neural-networks-in-keras-for-time-sequences-3a7ff801a2cf
+* Why does each filter learn a different feature in CNN: https://www.quora.com/Why-does-each-filter-learn-different-features-in-a-convolutional-neural-network
+
+#### Deep Learning and Graphs:
+* Deep Graph Library: https://www.dgl.ai/
+* Tensorflow: Neural Structured Learning: https://www.tensorflow.org/neural_structured_learning
+
 **NLG**
 * NLG using markovify: https://github.com/jsvine/markovify
 * training bot to comment on current affairs: https://www.kaggle.com/aashita/training-a-bot-to-comment-on-current-affairs
