@@ -64,6 +64,14 @@ Curated list of articles for ML/AI/NLP
 * Deep Graph Library: https://www.dgl.ai/
 * Tensorflow: Neural Structured Learning: https://www.tensorflow.org/neural_structured_learning
 
+#### RBF Neural Networks
+* https://pythonmachinelearning.pro/using-neural-networks-for-regression-radial-basis-function-networks/
+* http://mccormickml.com/2013/08/15/radial-basis-function-network-rbfn-tutorial/
+* rbf - custom keras layer: https://www.kaggle.com/residentmario/radial-basis-networks-and-custom-keras-layers
+* research net discussion for unknown class: https://www.researchgate.net/post/How_to_determine_unknown_class_using_neural_network
+* Titanic survivors using RBF: https://medium.com/datadriveninvestor/building-radial-basis-function-network-with-keras-estimating-survivors-of-titanic-a06c2359c5d9
+* Custom RBF Keras Layer: https://github.com/PetraVidnerova/rbf_keras
+
 **NLG**
 * NLG using markovify: https://github.com/jsvine/markovify
 * training bot to comment on current affairs: https://www.kaggle.com/aashita/training-a-bot-to-comment-on-current-affairs
