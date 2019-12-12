@@ -223,6 +223,7 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Good Read - choosing topics using coherence measures in LDA,LSI,HDP etc. https://markroxor.github.io/gensim/static/notebooks/gensim_news_classification.html
 * Dynamic Topic Models tutorial: https://markroxor.github.io/gensim/static/notebooks/ldaseqmodel.html
 * Dynamic topic model google talk: https://www.youtube.com/watch?v=7BMsuyBPx90
+* LDA using TF-IDF: https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24
 
 ### Probability Callibration:
 * https://scikit-learn.org/stable/modules/calibration.html
