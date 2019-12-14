@@ -436,10 +436,15 @@ https://towardsdatascience.com/predictive-customer-analytics-4064d881b649 (part 
 ### Time Series
 * time series analysis in python: https://www.machinelearningplus.com/time-series/time-series-analysis-python/
 
-### Architecture
+### ML Engineering & Architecture considerations
 * https://towardsdatascience.com/putting-ml-in-production-i-using-apache-kafka-in-python-ce06b3a395c8
 * https://towardsdatascience.com/putting-ml-in-production-ii-logging-and-monitoring-algorithms-91f174044e4e
 * https://towardsdatascience.com/getting-started-with-mlflow-52eff8c09c61
+
+* https://towardsdatascience.com/creating-a-solid-data-science-development-environment-60df14ce3a34
+* DVC version control for ML projects: https://dvc.org/
+* papermill :https://papermill.readthedocs.io/en/latest/
+* Minimum Valuable Data Products: From 0 to data science pipeline: https://www.youtube.com/watch?v=UZg45yRTzwo
 
 ### Information Theory of Deep Learning
 * https://lilianweng.github.io/lil-log/2017/09/28/anatomize-deep-learning-with-information-theory.html
