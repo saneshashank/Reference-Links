@@ -460,6 +460,11 @@ https://towardsdatascience.com/predictive-customer-analytics-4064d881b649 (part 
 * Designing great data products:The Drivetrain Approach - https://www.oreilly.com/radar/drivetrain-approach-data-products/
 * What do machine learning practitioners actually do? - https://www.fast.ai/2018/07/12/auto-ml-1/
 
+### Bayesian Deep Learning
+* https://emtiyaz.github.io/
+* https://slideslive.com/38921489/deep-learning-with-bayesian-principles
+* (paper) https://emtiyaz.github.io/papers/learning_from_bayes.pdf
+
 ## References (business):
 * What is an ad impression: https://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html
 * ML in fraud detection: https://www.marutitech.com/machine-learning-fraud-detection/
