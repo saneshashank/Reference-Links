@@ -470,6 +470,9 @@ https://towardsdatascience.com/predictive-customer-analytics-4064d881b649 (part 
 ### Kalman filters
 * http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/
 
+### Geometric deep learning
+* http://geometricdeeplearning.com/
+
 ## References (business):
 * What is an ad impression: https://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html
 * ML in fraud detection: https://www.marutitech.com/machine-learning-fraud-detection/
