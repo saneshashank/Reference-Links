@@ -446,6 +446,8 @@ https://towardsdatascience.com/predictive-customer-analytics-4064d881b649 (part 
 * papermill :https://papermill.readthedocs.io/en/latest/
 * Minimum Valuable Data Products: From 0 to data science pipeline: https://www.youtube.com/watch?v=UZg45yRTzwo
 
+* FastAPI: https://github.com/tiangolo/fastapi
+
 ### Information Theory of Deep Learning
 * https://lilianweng.github.io/lil-log/2017/09/28/anatomize-deep-learning-with-information-theory.html
 * https://adityashrm21.github.io/Information-Theory-In-Deep-Learning/
@@ -464,6 +466,9 @@ https://towardsdatascience.com/predictive-customer-analytics-4064d881b649 (part 
 * https://emtiyaz.github.io/
 * https://slideslive.com/38921489/deep-learning-with-bayesian-principles
 * (paper) https://emtiyaz.github.io/papers/learning_from_bayes.pdf
+
+### Kalman filters
+* http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/
 
 ## References (business):
 * What is an ad impression: https://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html
