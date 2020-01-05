@@ -473,6 +473,11 @@ https://towardsdatascience.com/predictive-customer-analytics-4064d881b649 (part 
 ### Geometric deep learning
 * http://geometricdeeplearning.com/
 
+### Neuraxle 
+* https://github.com/Neuraxio/Neuraxle
+* https://www.neuraxle.org/stable/index.html
+* https://github.com/Neuraxio/New-Empty-Python-Project-Base
+
 ## References (business):
 * What is an ad impression: https://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html
 * ML in fraud detection: https://www.marutitech.com/machine-learning-fraud-detection/
