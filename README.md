@@ -297,8 +297,9 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * https://towardsdatascience.com/design-your-engineering-experiment-plan-with-a-simple-python-command-35a6ba52fa35
 * https://pythonhosted.org/pyDOE/
 
-#### Model Explainibility
+#### Model Explainibility/Interpretable ML
 * ELI5 - TextExplainer: debugging black-box text classifiers: https://eli5.readthedocs.io/en/latest/tutorials/black-box-text-classifiers.html
+* interpretable ML book: https://christophm.github.io/interpretable-ml-book/
 
 
 #### Variational Autoencoder
@@ -411,11 +412,13 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Off-Policy Monte Carlo Control: https://cs.wmich.edu/~trenary/files/cs5300/RLBook/node56.html
 * https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/
 
-### PGM
+### PGM/ Causal Inference in ML
 * Using Deep Neural Network Approximate Bayesian Network: https://arxiv.org/pdf/1801.00282.pdf
 * A Comprehensive guide to Bayesian Convolutional Neural Network with Variational Inference https://arxiv.org/pdf/1901.02731.pdf
 * Bayesian Methods for Hackers: https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 * Causal Inference survey of current areas of research: https://stats.stackexchange.com/questions/328602/what-are-some-current-research-areas-of-interest-in-machine-learning-and-causal
+* Causal Inference in everyday ML: https://www.youtube.com/watch?v=HOgx_SBBzn0
+* Causal Inference in everyday ML notebook: https://colab.research.google.com/drive/1rjjjA7teiZVHJCMTVD8KlZNu3EjS7Dmu#scrollTo=qsuGNCvtVbsr
 
 ### Open Datasets
 * https://skymind.ai/wiki/open-datasets
@@ -461,6 +464,7 @@ https://towardsdatascience.com/predictive-customer-analytics-4064d881b649 (part 
 ### Data products
 * Designing great data products:The Drivetrain Approach - https://www.oreilly.com/radar/drivetrain-approach-data-products/
 * What do machine learning practitioners actually do? - https://www.fast.ai/2018/07/12/auto-ml-1/
+
 
 ### Bayesian Deep Learning
 * https://emtiyaz.github.io/
