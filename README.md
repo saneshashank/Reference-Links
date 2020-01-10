@@ -482,6 +482,11 @@ https://towardsdatascience.com/predictive-customer-analytics-4064d881b649 (part 
 * https://www.neuraxle.org/stable/index.html
 * https://github.com/Neuraxio/New-Empty-Python-Project-Base
 
+# Math & Deep learning
+* Aerin Kim is a senior research engineer at Microsoft and writes about topics related to
+applied Math and deep learning: https://towardsdatascience.com/@aerinykim
+* Matrices as tensor n/w diagrams: https://www.math3ma.com/blog/matrices-as-tensor-network-diagrams
+
 ## References (business):
 * What is an ad impression: https://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html
 * ML in fraud detection: https://www.marutitech.com/machine-learning-fraud-detection/
