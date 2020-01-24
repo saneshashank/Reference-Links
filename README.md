@@ -482,16 +482,16 @@ https://towardsdatascience.com/predictive-customer-analytics-4064d881b649 (part 
 * https://www.neuraxle.org/stable/index.html
 * https://github.com/Neuraxio/New-Empty-Python-Project-Base
 
-# Math & Deep learning
+### Math & Deep learning
 * Aerin Kim is a senior research engineer at Microsoft and writes about topics related to
 applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 * Matrices as tensor n/w diagrams: https://www.math3ma.com/blog/matrices-as-tensor-network-diagrams
 
-# programming environments
+### programming environments
 * nbdev: https://www.fast.ai/2019/12/02/nbdev/
 * https://github.com/fastai/nbdev/
 
-# writing your own blog:
+### writing your own blog:
 * Blog: https://www.fast.ai/2020/01/16/fast_template/
 
 ## References (business):
