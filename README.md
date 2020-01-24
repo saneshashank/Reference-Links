@@ -487,6 +487,13 @@ https://towardsdatascience.com/predictive-customer-analytics-4064d881b649 (part 
 applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 * Matrices as tensor n/w diagrams: https://www.math3ma.com/blog/matrices-as-tensor-network-diagrams
 
+# programming environments
+* nbdev: https://www.fast.ai/2019/12/02/nbdev/
+* https://github.com/fastai/nbdev/
+
+# writing your own blog:
+* Blog: https://www.fast.ai/2020/01/16/fast_template/
+
 ## References (business):
 * What is an ad impression: https://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html
 * ML in fraud detection: https://www.marutitech.com/machine-learning-fraud-detection/
