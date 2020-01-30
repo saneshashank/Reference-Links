@@ -90,6 +90,7 @@ Curated list of articles for ML/AI/NLP
 * **Scikit learn**: http://scikit-learn.org/stable/index.html
 * text tutorial: https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html
 * text classification ref: https://scikit-learn.org/0.19/auto_examples/text/document_classification_20newsgroups.html#sphx-glr-auto-examples-text-document-classification-20newsgroups-py
+* Multiclass vs Multilabel vs Multioutput classification: https://scikit-learn.org/stable/modules/multiclass.html
 
 
 ## feature scaling
@@ -248,6 +249,8 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * ml for text classification using spacy: https://towardsdatascience.com/machine-learning-for-text-classification-using-spacy-in-python-b276b4051a49
 * tricks for using spacy at scale: https://towardsdatascience.com/a-couple-tricks-for-using-spacy-at-scale-54affd8326cf
 *	Modified skip gram based on spacy dependency parser: https://medium.com/reputation-com-datascience-blog/keywords-extraction-with-ngram-and-modified-skip-gram-based-on-spacy-14e5625fce23
+* SpaCy Tutorial: https://course.spacy.io/
+*
 
 ### gensim
 * introduction to gensim: https://www.machinelearningplus.com/nlp/gensim-tutorial/
@@ -460,6 +463,7 @@ https://towardsdatascience.com/predictive-customer-analytics-4064d881b649 (part 
 
 ### Latent Aspect Ratio Analysis (LARA) for CSAT
 * https://github.com/redris96/LARA
+* CSAT Key topics extraction and contextual sentiment of users’ reviews: https://tech.goibibo.com/key-topics-extraction-and-contextual-sentiment-of-users-reviews-20e63c0fd7ca
 
 ### Data products
 * Designing great data products:The Drivetrain Approach - https://www.oreilly.com/radar/drivetrain-approach-data-products/
