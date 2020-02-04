@@ -50,6 +50,9 @@ Curated list of articles for ML/AI/NLP
 * https://towardsdatascience.com/deep-learning-analysis-using-large-model-support-3a67a919255
 * https://github.com/pierpaolo28/Artificial-Intelligence-Projects/blob/master/IBM%20Large%20Model%20Support/LargeModelSupport.ipynb
 
+**Saving Keras Models**
+* https://jovianlin.io/saving-loading-keras-models/
+
 **Doc2Vec**
 * Doc2Vec : https://radimrehurek.com/gensim/models/doc2vec.html
 * https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-lee.ipynb
@@ -91,7 +94,9 @@ Curated list of articles for ML/AI/NLP
 * text tutorial: https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html
 * text classification ref: https://scikit-learn.org/0.19/auto_examples/text/document_classification_20newsgroups.html#sphx-glr-auto-examples-text-document-classification-20newsgroups-py
 * Multiclass vs Multilabel vs Multioutput classification: https://scikit-learn.org/stable/modules/multiclass.html
+* Out of core classification of text documents: https://scikit-learn.org/0.15/auto_examples/applications/plot_out_of_core_classification.html#example-applications-plot-out-of-core-classification-py
 
+* Library for handling multilabel classification: http://scikit.ml/index.html
 
 ## feature scaling
 * Standardisation vs Normalization:  https://stackoverflow.com/questions/32108179/linear-regression-normalization-vs-standardization
