@@ -67,6 +67,17 @@ Curated list of articles for ML/AI/NLP
 * Deep Graph Library: https://www.dgl.ai/
 * Tensorflow: Neural Structured Learning: https://www.tensorflow.org/neural_structured_learning
 
+#### Text GCN:
+* https://towardsdatascience.com/text-based-graph-convolutional-network-for-semi-supervised-bible-book-classification-c71f6f61ff0f
+* https://arxiv.org/pdf/1809.05679.pdf
+* https://github.com/plkmo/Bible_Text_GCN/blob/master/generate_train_test_datasets.py
+* https://towardsdatascience.com/kegra-deep-learning-on-knowledge-graphs-with-keras-98e340488b93
+* https://github.com/tkipf/relational-gcn
+* https://arxiv.org/pdf/1703.06103.pdf
+* https://twitter.com/fchollet/status/971121430531252224?lang=en
+* https://www.analyticsvidhya.com/blog/2019/10/how-to-build-knowledge-graph-text-using-spacy/
+
+
 #### RBF Neural Networks
 * https://pythonmachinelearning.pro/using-neural-networks-for-regression-radial-basis-function-networks/
 * http://mccormickml.com/2013/08/15/radial-basis-function-network-rbfn-tutorial/
@@ -282,6 +293,8 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * scikit learn novelty and outlier detection: https://www.datascience.com/blog/python-anomaly-detection
 * Imbalanced data handling tutorial in Python: https://blog.dominodatalab.com/imbalanced-datasets/
 * imbalanced data sets (Good Read): https://www.svds.com/learning-imbalanced-classes/
+* cost sensitive learning: https://machinelearningmastery.com/cost-sensitive-learning-for-imbalanced-classification/
+* develop cost sensitive neural network: https://machinelearningmastery.com/cost-sensitive-neural-network-for-imbalanced-classification/
 
 ### Multi-label Classification
 * https://towardsdatascience.com/journey-to-the-center-of-multi-label-classification-384c40229bff
