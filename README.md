@@ -348,6 +348,7 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * SpaCy: Industrial grad NLP: https://spacy.io/
 * Genism: https://radimrehurek.com/gensim/index.html
 * NLTK tutorial: https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/
+* Extracting Text Meta Features: https://www.kaggle.com/shivamb/spacy-text-meta-features-knowledge-graphs
 
 * jaccard distance using NLP: https://python.gotrained.com/nltk-edit-distance-jaccard-distance/#Jaccard_Distance
 
