@@ -418,6 +418,11 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 
 * Parallel processing in Python: https://www.machinelearningplus.com/python/parallel-processing-python/
 
+* https://thispointer.com/5-different-ways-to-read-a-file-line-by-line-in-python/
+* https://www.learnpython.org/en/Map,_Filter,_Reduce
+* cytoolz: https://pypi.org/project/cytoolz/
+* https://cmdlinetips.com/2019/03/how-to-get-top-n-rows-with-in-each-group-in-pandas/
+
 ##### writing better code for DS:
 * https://towardsdatascience.com/how-a-simple-mix-of-object-oriented-programming-can-sharpen-your-deep-learning-prototype-19893bd969bd
 * https://towardsdatascience.com/notes-on-software-construction-from-code-complete-8d2a8a959c69
