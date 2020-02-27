@@ -78,6 +78,10 @@ Curated list of articles for ML/AI/NLP
 * https://www.analyticsvidhya.com/blog/2019/10/how-to-build-knowledge-graph-text-using-spacy/
 
 
+#### Clustering using DL
+* unsupervised clustering in keras: https://www.dlology.com/blog/how-to-do-unsupervised-clustering-with-keras/
+* overview of DL based clustering methods: https://divamgupta.com/unsupervised-learning/2019/03/08/an-overview-of-deep-learning-based-clustering-techniques.html
+
 #### RBF Neural Networks
 * https://pythonmachinelearning.pro/using-neural-networks-for-regression-radial-basis-function-networks/
 * http://mccormickml.com/2013/08/15/radial-basis-function-network-rbfn-tutorial/
