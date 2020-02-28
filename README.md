@@ -523,6 +523,9 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 * nbdev: https://www.fast.ai/2019/12/02/nbdev/
 * https://github.com/fastai/nbdev/
 
+### this missing CS semester
+* https://missing.csail.mit.edu/
+
 ### writing your own blog:
 * Blog: https://www.fast.ai/2020/01/16/fast_template/
 
