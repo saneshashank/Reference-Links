@@ -270,7 +270,8 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * tricks for using spacy at scale: https://towardsdatascience.com/a-couple-tricks-for-using-spacy-at-scale-54affd8326cf
 *	Modified skip gram based on spacy dependency parser: https://medium.com/reputation-com-datascience-blog/keywords-extraction-with-ngram-and-modified-skip-gram-based-on-spacy-14e5625fce23
 * SpaCy Tutorial: https://course.spacy.io/
-*
+* Spacy NLP faster using Cython: https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced
+* enable previously disabled pipes: https://stackoverflow.com/questions/53052687/spacy-enable-previous-disabled-pipes
 
 ### gensim
 * introduction to gensim: https://www.machinelearningplus.com/nlp/gensim-tutorial/
@@ -299,6 +300,9 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * imbalanced data sets (Good Read): https://www.svds.com/learning-imbalanced-classes/
 * cost sensitive learning: https://machinelearningmastery.com/cost-sensitive-learning-for-imbalanced-classification/
 * develop cost sensitive neural network: https://machinelearningmastery.com/cost-sensitive-neural-network-for-imbalanced-classification/
+
+#### Handling Skewed data:
+* Top 3 methods for handling skewed data: https://towardsdatascience.com/top-3-methods-for-handling-skewed-data-1334e0debf45
 
 ### Multi-label Classification
 * https://towardsdatascience.com/journey-to-the-center-of-multi-label-classification-384c40229bff
@@ -528,6 +532,10 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 
 ### writing your own blog:
 * Blog: https://www.fast.ai/2020/01/16/fast_template/
+
+### Quantum Physics & Quantum computing
+* https://thenextweb.com/insights/2020/03/03/is-time-broken-physicists-filmed-a-quantum-measurement-but-the-moment-was-blurry/
+* Tracking the Dynamics of an Ideal Quantum Measurement: https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.124.080401
 
 ## References (business):
 * What is an ad impression: https://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html
