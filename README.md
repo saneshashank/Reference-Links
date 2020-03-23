@@ -392,6 +392,12 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 
 ** Ktrain **: lightweight wrapper around keras for BERT, NBSVM implementation etc.
 
+### Latest Language Models usage & applications
+* When Not to Choose the Best NLP Model (Comparison of Elmo, USE, BERT & XLNET): https://blog.floydhub.com/when-the-best-nlp-model-is-not-the-best-choice/
+* Using NLP to Automate Customer Support, Part Two (using Universal Sentence Encoding - USE): https://blog.floydhub.com/automate-customer-support-part-two/
+* Paper Dissected: “XLNet: Generalized Autoregressive Pretraining for Language Understanding” Explained: https://mlexplained.com/2019/06/30/paper-dissected-xlnet-generalized-autoregressive-pretraining-for-language-understanding-explained/
+* using USE + Keras: https://www.dlology.com/blog/keras-meets-universal-sentence-encoder-transfer-learning-for-text-data/
+
 ### Model Fracking and Concept Drift:
 * https://towardsdatascience.com/fracking-features-in-machine-learning-b8247626e582
 * github: https://github.com/saneshashank/Fracking-Features-in-Machine-Learning
@@ -543,4 +549,5 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 * Customer Segmentation: http://analyticstraining.com/2011/cluster-analysis-for-business/
 * Telecom churn customer model: https://parcusgroup.com/Telecom-Customer-Churn-Prediction-Models
 * customer churn in mobile markets: https://arxiv.org/ftp/arxiv/papers/1607/1607.07792.pdf
+* Survey text analytics: https://www.linkedin.com/pulse/how-choose-survey-text-analysis-software-discussion-draft-fitzgerald?trk=prof-post
 
