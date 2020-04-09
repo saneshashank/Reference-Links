@@ -545,6 +545,7 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 ### Quantum Physics & Quantum computing
 * https://thenextweb.com/insights/2020/03/03/is-time-broken-physicists-filmed-a-quantum-measurement-but-the-moment-was-blurry/
 * Tracking the Dynamics of an Ideal Quantum Measurement: https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.124.080401
+* Quantum NLP: https://medium.com/cambridge-quantum-computing/quantum-natural-language-processing-748d6f27b31d
 
 ### Information Retrieval, text search:
 * BM25 - https://www.quora.com/How-does-BM25-work
