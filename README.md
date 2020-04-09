@@ -272,6 +272,9 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * SpaCy Tutorial: https://course.spacy.io/
 * Spacy NLP faster using Cython: https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced
 * enable previously disabled pipes: https://stackoverflow.com/questions/53052687/spacy-enable-previous-disabled-pipes
+* Spacy rule based matching - https://github.com/explosion/spaCy/blob/develop/website/docs/usage/rule-based-matching.md#combining-models-and-rules-models-rules
+* Spacy Information extraction examples: https://spacy.io/usage/examples
+
 
 ### gensim
 * introduction to gensim: https://www.machinelearningplus.com/nlp/gensim-tutorial/
@@ -542,6 +545,16 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 ### Quantum Physics & Quantum computing
 * https://thenextweb.com/insights/2020/03/03/is-time-broken-physicists-filmed-a-quantum-measurement-but-the-moment-was-blurry/
 * Tracking the Dynamics of an Ideal Quantum Measurement: https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.124.080401
+
+### Information Retrieval, text search:
+* BM25 - https://www.quora.com/How-does-BM25-work
+* Python library for BM25 - https://pypi.org/project/rank-bm25/
+* Building NLP text search system: https://towardsdatascience.com/building-a-sentence-embedding-index-with-fasttext-and-bm25-f07e7148d240
+* https://www.kaggle.com/davidmezzetti/cord-19-analysis-with-sentence-embeddings
+* Faiss is a library for efficient similarity search and clustering of dense vectors - https://github.com/facebookresearch/faiss
+
+### Future research topics
+* self supervised learning - https://thenextweb.com/neural/2020/04/05/self-supervised-learning-is-the-future-of-ai-syndication/
 
 ## References (business):
 * What is an ad impression: https://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html
