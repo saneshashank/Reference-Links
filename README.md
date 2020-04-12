@@ -77,6 +77,15 @@ Curated list of articles for ML/AI/NLP
 * https://twitter.com/fchollet/status/971121430531252224?lang=en
 * https://www.analyticsvidhya.com/blog/2019/10/how-to-build-knowledge-graph-text-using-spacy/
 
+* Domain specific knowledge graphs: https://www.springer.com/gp/book/9783030123741
+* Ampligraph Open source Python library that predicts links between concepts in a knowledge graph - https://docs.ampligraph.org/en/1.3.1/index.html
+* IBM technique: https://github.com/IBM/build-knowledge-base-with-domain-specific-documents/blob/master/README.md
+* KG Intro: https://github.com/kramankishore/Knowledge-Graph-Intro
+* Neo4j - Graph Data Science - GDS: https://neo4j.com/blog/announcing-neo4j-for-graph-data-science/
+* Mining Knowledge Graph from text: https://kgtutorial.github.io/
+* KG pipeline: https://towardsdatascience.com/conceptualizing-the-knowledge-graph-construction-pipeline-33edb25ab831
+* Graph Data Base: Neo4j - https://neo4j.com/
+
 
 #### Clustering using DL
 * unsupervised clustering in keras: https://www.dlology.com/blog/how-to-do-unsupervised-clustering-with-keras/
@@ -556,6 +565,9 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 
 ### Future research topics
 * self supervised learning - https://thenextweb.com/neural/2020/04/05/self-supervised-learning-is-the-future-of-ai-syndication/
+
+#### Visual C++ build tools:
+* https://visualstudio.microsoft.com/downloads/ --> choose --> Build Tools for Visual Studio 2019 --> in the installer choose build tools --> choose win 10 SDK only
 
 ## References (business):
 * What is an ad impression: https://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html
