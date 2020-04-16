@@ -59,11 +59,22 @@ Curated list of articles for ML/AI/NLP
 * Doc2Vec : https://medium.com/@mishra.thedeepak/doc2vec-simple-implementation-example-df2afbbfbad5
 * How to use Doc2Vec as input to Keras model: https://stackoverflow.com/questions/50564928/how-to-use-sentence-vectors-from-doc2vec-in-keras-sequntial-model-for-sentence-s
 
+### Knowledge Graphs
+* Domain specific knowledge graphs: https://www.springer.com/gp/book/9783030123741
+* Ampligraph Open source Python library that predicts links between concepts in a knowledge graph - https://docs.ampligraph.org/en/1.3.1/index.html
+* IBM technique: https://github.com/IBM/build-knowledge-base-with-domain-specific-documents/blob/master/README.md
+* KG Intro: https://github.com/kramankishore/Knowledge-Graph-Intro
+* Neo4j - Graph Data Science - GDS: https://neo4j.com/blog/announcing-neo4j-for-graph-data-science/
+* Mining Knowledge Graph from text: https://kgtutorial.github.io/
+* KG pipeline: https://towardsdatascience.com/conceptualizing-the-knowledge-graph-construction-pipeline-33edb25ab831
+* Graph Data Base: Neo4j - https://neo4j.com/
+
 #### CNN
 * Introduction to 1D CNNs: https://blog.goodaudience.com/introduction-to-1d-convolutional-neural-networks-in-keras-for-time-sequences-3a7ff801a2cf
 * Why does each filter learn a different feature in CNN: https://www.quora.com/Why-does-each-filter-learn-different-features-in-a-convolutional-neural-network
 
 #### Deep Learning and Graphs:
+* Graph Neural Networks an Overview: https://towardsdatascience.com/graph-neural-networks-an-overview-dfd363b6ef87
 * Deep Graph Library: https://www.dgl.ai/
 * Tensorflow: Neural Structured Learning: https://www.tensorflow.org/neural_structured_learning
 
@@ -76,15 +87,6 @@ Curated list of articles for ML/AI/NLP
 * https://arxiv.org/pdf/1703.06103.pdf
 * https://twitter.com/fchollet/status/971121430531252224?lang=en
 * https://www.analyticsvidhya.com/blog/2019/10/how-to-build-knowledge-graph-text-using-spacy/
-
-* Domain specific knowledge graphs: https://www.springer.com/gp/book/9783030123741
-* Ampligraph Open source Python library that predicts links between concepts in a knowledge graph - https://docs.ampligraph.org/en/1.3.1/index.html
-* IBM technique: https://github.com/IBM/build-knowledge-base-with-domain-specific-documents/blob/master/README.md
-* KG Intro: https://github.com/kramankishore/Knowledge-Graph-Intro
-* Neo4j - Graph Data Science - GDS: https://neo4j.com/blog/announcing-neo4j-for-graph-data-science/
-* Mining Knowledge Graph from text: https://kgtutorial.github.io/
-* KG pipeline: https://towardsdatascience.com/conceptualizing-the-knowledge-graph-construction-pipeline-33edb25ab831
-* Graph Data Base: Neo4j - https://neo4j.com/
 
 
 #### Clustering using DL
@@ -503,6 +505,11 @@ https://towardsdatascience.com/predictive-customer-analytics-4064d881b649 (part 
 * Minimum Valuable Data Products: From 0 to data science pipeline: https://www.youtube.com/watch?v=UZg45yRTzwo
 
 * FastAPI: https://github.com/tiangolo/fastapi
+
+* Fullstack DS 1: https://medium.com/applied-data-science/the-full-stack-data-scientist-part-1-productionise-your-models-with-django-apis-7799b893ce7c
+* Fullstack DS 2: https://medium.com/applied-data-science/the-full-stack-data-scientist-part-2-a-practical-introduction-to-docker-1ea932c89b57
+* Fullstack DS 3: https://medium.com/applied-data-science/a-case-for-interpretable-data-science-using-lime-to-reduce-bias-e44f48a95f75
+* Fullstack DS 4: https://medium.com/applied-data-science/the-full-stack-data-scientist-part-4-building-front-ends-in-streamlit-1c2903d4b1fe
 
 ### Information Theory of Deep Learning
 * https://lilianweng.github.io/lil-log/2017/09/28/anatomize-deep-learning-with-information-theory.html
