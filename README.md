@@ -552,6 +552,10 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 * nbdev: https://www.fast.ai/2019/12/02/nbdev/
 * https://github.com/fastai/nbdev/
 
+### Dashboarding in jupyter notebook
+* Dashboarding with Jupyter Notebooks, Voila and Widgets: https://www.youtube.com/watch?v=VtchVpoSdoQ
+* Voila: https://voila.readthedocs.io/en/stable/index.html
+
 ### this missing CS semester
 * https://missing.csail.mit.edu/
 
