@@ -39,6 +39,10 @@ Curated list of articles for ML/AI/NLP
 
 * CNN+LSTM: https://machinelearningmastery.com/cnn-long-short-term-memory-networks/
 
+#### CNN
+* Introduction to 1D CNNs: https://blog.goodaudience.com/introduction-to-1d-convolutional-neural-networks-in-keras-for-time-sequences-3a7ff801a2cf
+* Why does each filter learn a different feature in CNN: https://www.quora.com/Why-does-each-filter-learn-different-features-in-a-convolutional-neural-network
+
 **keras embedding layer**
 * Using Embedding Layer in Keras: https://blog.keras.io/using-pre-trained-word-embeddings-in-a-keras-model.html
 * how does keras embedding layer work: https://stats.stackexchange.com/questions/270546/how-does-keras-embedding-layer-work
@@ -60,6 +64,7 @@ Curated list of articles for ML/AI/NLP
 * How to use Doc2Vec as input to Keras model: https://stackoverflow.com/questions/50564928/how-to-use-sentence-vectors-from-doc2vec-in-keras-sequntial-model-for-sentence-s
 
 ### Knowledge Graphs
+* Knowledge Graphs: https://web.stanford.edu/class/cs520/
 * Domain specific knowledge graphs: https://www.springer.com/gp/book/9783030123741
 * Ampligraph Open source Python library that predicts links between concepts in a knowledge graph - https://docs.ampligraph.org/en/1.3.1/index.html
 * IBM technique: https://github.com/IBM/build-knowledge-base-with-domain-specific-documents/blob/master/README.md
@@ -69,14 +74,20 @@ Curated list of articles for ML/AI/NLP
 * KG pipeline: https://towardsdatascience.com/conceptualizing-the-knowledge-graph-construction-pipeline-33edb25ab831
 * Graph Data Base: Neo4j - https://neo4j.com/
 
-#### CNN
-* Introduction to 1D CNNs: https://blog.goodaudience.com/introduction-to-1d-convolutional-neural-networks-in-keras-for-time-sequences-3a7ff801a2cf
-* Why does each filter learn a different feature in CNN: https://www.quora.com/Why-does-each-filter-learn-different-features-in-a-convolutional-neural-network
+* (Good Summary of resources 2020) https://dzone.com/articles/knowledge-graphs-power-scientific-research-and-bus
 
 #### Deep Learning and Graphs:
 * Graph Neural Networks an Overview: https://towardsdatascience.com/graph-neural-networks-an-overview-dfd363b6ef87
 * Deep Graph Library: https://www.dgl.ai/
 * Tensorflow: Neural Structured Learning: https://www.tensorflow.org/neural_structured_learning
+
+#### Geometric Deep Learning & Graph learning.
+* (Part 1) What is Geometric Deep Learning & its relation to Graph Learning: https://medium.com/@flawnsontong1/what-is-geometric-deep-learning-b2adb662d91d
+* (Part 2) Everything you need to know about Graph Theory for Deep Learning: https://towardsdatascience.com/graph-theory-and-deep-learning-know-hows-6556b0e9891b
+* (Part 3) Graph Embedding for Deep Learning: https://towardsdatascience.com/overview-of-deep-learning-on-graph-embeddings-4305c10ad4a4
+* (Part 4) Graph Convolutional Networks for Geometric Deep Learning: https://towardsdatascience.com/graph-convolutional-networks-for-geometric-deep-learning-1faf17dee008
+
+* Graph Embeddings Summary: https://towardsdatascience.com/graph-embeddings-the-summary-cc6075aba007
 
 #### Text GCN:
 * https://towardsdatascience.com/text-based-graph-convolutional-network-for-semi-supervised-bible-book-classification-c71f6f61ff0f
