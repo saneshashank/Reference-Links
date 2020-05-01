@@ -585,8 +585,30 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 * https://www.kaggle.com/davidmezzetti/cord-19-analysis-with-sentence-embeddings
 * Faiss is a library for efficient similarity search and clustering of dense vectors - https://github.com/facebookresearch/faiss
 
+### Multitask Learning (MTL)
+* An Overview of Multi-Task Learning in Deep Neural Networks: https://ruder.io/multi-task/
+
+### Weak Supervison
+* Weak Supervision: A New Programming Paradigm for Machine Learning: http://ai.stanford.edu/blog/weak-supervision/
+* Introducing Snorkel: https://www.snorkel.org/blog/hello-world-v-0-9
+* Snorkel Tutorial: https://www.snorkel.org/use-cases/
+* Fonduer: Knowledge Base Construction from Richly Formatted Data (Intro): https://github.com/HazyResearch/fonduer-tutorials/tree/master/intro
+* Snorkel (Paper): https://arxiv.org/pdf/1711.10160.pdf
+* Training Classifiers with Natural Language Explanations (paper): https://arxiv.org/pdf/1805.03818.pdf
+* Babble Labble: https://github.com/HazyResearch/babble
+* Sippy Cup (tool for Semantic Parsing): https://github.com/wcmac/sippycup
+* Data Programming:Creating Large Training Sets, Quickly (paper): https://arxiv.org/pdf/1605.07723.pdf
+* Snuba: Automating Weak Supervision to Label Training Data (paper): http://www.vldb.org/pvldb/vol12/p223-varma.pdf
+* Confident Learning: Estimating Uncertainty in Dataset Labels (paper): https://arxiv.org/abs/1911.00068
+* CleanLab package: https://l7.curtisnorthcutt.com/cleanlab-python-package
+* CleanLab (github): https://github.com/cgnorthcutt/cleanlab
+* An Introduction to Confident Learning: https://l7.curtisnorthcutt.com/confident-learning
+* Simplified Confident Learning tutorial: https://github.com/cgnorthcutt/cleanlab/blob/master/examples/simplifying_confident_learning_tutorial.ipynb
+
+
 ### Future research topics
 * self supervised learning - https://thenextweb.com/neural/2020/04/05/self-supervised-learning-is-the-future-of-ai-syndication/
+* NLP Transfer learning Thesis (Sebastia Ruder): https://ruder.io/thesis/neural_transfer_learning_for_nlp.pdf
 
 #### Visual C++ build tools:
 * https://visualstudio.microsoft.com/downloads/ --> choose --> Build Tools for Visual Studio 2019 --> in the installer choose build tools --> choose win 10 SDK only
