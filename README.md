@@ -606,10 +606,11 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 * CleanLab (github): https://github.com/cgnorthcutt/cleanlab
 * An Introduction to Confident Learning: https://l7.curtisnorthcutt.com/confident-learning
 * Simplified Confident Learning tutorial: https://github.com/cgnorthcutt/cleanlab/blob/master/examples/simplifying_confident_learning_tutorial.ipynb
-
+* HoloClean:Weakly Supervised Data Repairing: https://holoclean.github.io/gh-pages/blog/holoclean.html
 
 ### Future research topics
 * self supervised learning - https://thenextweb.com/neural/2020/04/05/self-supervised-learning-is-the-future-of-ai-syndication/
+* Software 2.0 and Data Programming: Lessons Learned, and What’s Next: http://hazyresearch.stanford.edu/software2
 * NLP Transfer learning Thesis (Sebastian Ruder): https://ruder.io/thesis/neural_transfer_learning_for_nlp.pdf
 
 #### Visual C++ build tools:
