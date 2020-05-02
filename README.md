@@ -589,6 +589,7 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 * An Overview of Multi-Task Learning in Deep Neural Networks: https://ruder.io/multi-task/
 
 ### Weak Supervison
+* Hazy Research Group (leading research group on Weak Supervision): http://hazyresearch.stanford.edu/
 * Weak Supervision: A New Programming Paradigm for Machine Learning: http://ai.stanford.edu/blog/weak-supervision/
 * Introducing Snorkel: https://www.snorkel.org/blog/hello-world-v-0-9
 * Snorkel Tutorial: https://www.snorkel.org/use-cases/
@@ -608,7 +609,7 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 
 ### Future research topics
 * self supervised learning - https://thenextweb.com/neural/2020/04/05/self-supervised-learning-is-the-future-of-ai-syndication/
-* NLP Transfer learning Thesis (Sebastia Ruder): https://ruder.io/thesis/neural_transfer_learning_for_nlp.pdf
+* NLP Transfer learning Thesis (Sebastian Ruder): https://ruder.io/thesis/neural_transfer_learning_for_nlp.pdf
 
 #### Visual C++ build tools:
 * https://visualstudio.microsoft.com/downloads/ --> choose --> Build Tools for Visual Studio 2019 --> in the installer choose build tools --> choose win 10 SDK only
