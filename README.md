@@ -590,6 +590,7 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 
 ### Weak Supervison
 * Hazy Research Group (leading research group on Weak Supervision): http://hazyresearch.stanford.edu/
+* Software 2.0 and Data Programming: Lessons Learned, and What’s Next: http://hazyresearch.stanford.edu/software2
 * Weak Supervision: A New Programming Paradigm for Machine Learning: http://ai.stanford.edu/blog/weak-supervision/
 * Introducing Snorkel: https://www.snorkel.org/blog/hello-world-v-0-9
 * Snorkel Tutorial: https://www.snorkel.org/use-cases/
