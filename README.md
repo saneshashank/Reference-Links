@@ -616,6 +616,9 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 #### Visual C++ build tools:
 * https://visualstudio.microsoft.com/downloads/ --> choose --> Build Tools for Visual Studio 2019 --> in the installer choose build tools --> choose win 10 SDK only
 
+### Chatbots
+* Using voice to control a website with Amazon Alexa: https://blog.prototypr.io/using-voice-commands-to-control-a-website-with-amazon-echo-alexa-part-1-6-a35edbfef405
+
 ## References (business):
 * What is an ad impression: https://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html
 * ML in fraud detection: https://www.marutitech.com/machine-learning-fraud-detection/
