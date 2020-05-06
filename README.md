@@ -585,10 +585,22 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 * https://www.kaggle.com/davidmezzetti/cord-19-analysis-with-sentence-embeddings
 * Faiss is a library for efficient similarity search and clustering of dense vectors - https://github.com/facebookresearch/faiss
 
+* Softcosine similarity paper: http://www.scielo.org.mx/pdf/cys/v18n3/v18n3a7.pdf
+* Text similarity using Softcosine similarity: https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/soft_cosine_tutorial.ipynb
+* Document Similarity Queries: https://radimrehurek.com/gensim/auto_examples/core/run_similarity_queries.html#sphx-glr-auto-examples-core-run-similarity-queries-py
+* Document Distance metrics: https://radimrehurek.com/gensim/auto_examples/tutorials/run_distance_metrics.html#sphx-glr-auto-examples-tutorials-run-distance-metrics-py
+* Similarity Queries with Annoy and Word2Vec: https://radimrehurek.com/gensim/auto_examples/tutorials/run_annoy.html#sphx-glr-auto-examples-tutorials-run-annoy-py
+* similarities.docsim – Document similarity queries: https://radimrehurek.com/gensim/similarities/docsim.html
+
+
+#### NLP spell correction:
+* https://norvig.com/spell-correct.html
+* https://nbviewer.jupyter.org/url/norvig.com/ipython/How%20to%20Do%20Things%20with%20Words.ipynb
+
 ### Multitask Learning (MTL)
 * An Overview of Multi-Task Learning in Deep Neural Networks: https://ruder.io/multi-task/
 
-### Weak Supervison
+### Weak Supervison & Semi-Supervised Learning
 * Hazy Research Group (leading research group on Weak Supervision): http://hazyresearch.stanford.edu/
 * Software 2.0 and Data Programming: Lessons Learned, and What’s Next: http://hazyresearch.stanford.edu/software2
 * Weak Supervision: A New Programming Paradigm for Machine Learning: http://ai.stanford.edu/blog/weak-supervision/
@@ -607,6 +619,9 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 * An Introduction to Confident Learning: https://l7.curtisnorthcutt.com/confident-learning
 * Simplified Confident Learning tutorial: https://github.com/cgnorthcutt/cleanlab/blob/master/examples/simplifying_confident_learning_tutorial.ipynb
 * HoloClean:Weakly Supervised Data Repairing: https://holoclean.github.io/gh-pages/blog/holoclean.html
+* Introduction to Semantic Parsing (SippyCup): https://nbviewer.jupyter.org/github/wcmac/sippycup/blob/master/sippycup-unit-0.ipynb
+* Using Snorkel for Multilabel classification: https://towardsdatascience.com/using-snorkel-for-multi-label-annotation-cc2aa217986a
+* MixMatch: A Holistic Approach to Semi-Supervised Learning: https://arxiv.org/abs/1905.02249
 
 ### Future research topics
 * self supervised learning - https://thenextweb.com/neural/2020/04/05/self-supervised-learning-is-the-future-of-ai-syndication/
