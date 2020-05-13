@@ -476,6 +476,7 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Inheritance and Composition: A Python OOP Guide: https://realpython.com/inheritance-composition-python/
 * Python’s super() considered super!: https://rhettinger.wordpress.com/2011/05/26/super-considered-super/
 * Dunder or magic methods in Python: https://rszalski.github.io/magicmethods/
+* intermediate python - https://realpython.com/intermediate-python/
 
 
 ### Reinforcement Learning
