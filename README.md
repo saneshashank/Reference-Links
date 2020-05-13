@@ -471,6 +471,13 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Corey Schafer (YouTube video): Generator functions: https://www.youtube.com/watch?v=bD05uGo_sVI
 * Data streaming in Python: generators, iterators, iterables: https://rare-technologies.com/data-streaming-in-python-generators-iterators-iterables/
 
+* Python inheritance, multiple inheritance & operator overloading: https://www.programiz.com/python-programming/inheritance
+* Python Closure, Decorators & Python property: https://www.programiz.com/python-programming/closure
+* Inheritance and Composition: A Python OOP Guide: https://realpython.com/inheritance-composition-python/
+* Python’s super() considered super!: https://rhettinger.wordpress.com/2011/05/26/super-considered-super/
+* Dunder or magic methods in Python: https://rszalski.github.io/magicmethods/
+
+
 ### Reinforcement Learning
 * Dynamic Programming: https://web.stanford.edu/class/cs97si/04-dynamic-programming.pdf
 * When are Monte Carlo methods preferred over Temporal Difference methods: https://stats.stackexchange.com/questions/336974/when-are-monte-carlo-methods-preferred-over-temporal-difference-ones
