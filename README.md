@@ -112,6 +112,9 @@ Curated list of articles for ML/AI/NLP
 * Titanic survivors using RBF: https://medium.com/datadriveninvestor/building-radial-basis-function-network-with-keras-estimating-survivors-of-titanic-a06c2359c5d9
 * Custom RBF Keras Layer: https://github.com/PetraVidnerova/rbf_keras
 
+#### Natural Language Understanding
+* https://web.stanford.edu/class/cs224u/
+
 **NLG**
 * NLG using markovify: https://github.com/jsvine/markovify
 * training bot to comment on current affairs: https://www.kaggle.com/aashita/training-a-bot-to-comment-on-current-affairs
