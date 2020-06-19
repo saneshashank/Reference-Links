@@ -299,6 +299,9 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * enable previously disabled pipes: https://stackoverflow.com/questions/53052687/spacy-enable-previous-disabled-pipes
 * Spacy rule based matching - https://github.com/explosion/spaCy/blob/develop/website/docs/usage/rule-based-matching.md#combining-models-and-rules-models-rules
 * Spacy Information extraction examples: https://spacy.io/usage/examples
+* Training custom ner model in spacy: https://www.machinelearningplus.com/nlp/training-custom-ner-model-in-spacy/
+* BRAT: open source annotation tool: http://brat.nlplab.org/examples.html
+
 
 
 ### gensim
