@@ -606,6 +606,8 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 * Similarity Queries with Annoy and Word2Vec: https://radimrehurek.com/gensim/auto_examples/tutorials/run_annoy.html#sphx-glr-auto-examples-tutorials-run-annoy-py
 * similarities.docsim – Document similarity queries: https://radimrehurek.com/gensim/similarities/docsim.html
 
+#### Longform Question Answering
+* https://yjernite.github.io/lfqa.html
 
 #### NLP spell correction:
 * https://norvig.com/spell-correct.html
