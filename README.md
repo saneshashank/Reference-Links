@@ -595,6 +595,7 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 * Quantum NLP: https://medium.com/cambridge-quantum-computing/quantum-natural-language-processing-748d6f27b31d
 
 ### Information Retrieval, text search:
+* 101 ways to solve search: https://www.youtube.com/watch?v=VHm6_uC4vxM
 * BM25 - https://www.quora.com/How-does-BM25-work
 * Python library for BM25 - https://pypi.org/project/rank-bm25/
 * Building NLP text search system: https://towardsdatascience.com/building-a-sentence-embedding-index-with-fasttext-and-bm25-f07e7148d240
