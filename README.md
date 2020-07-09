@@ -552,6 +552,7 @@ https://towardsdatascience.com/predictive-customer-analytics-4064d881b649 (part 
 * What do machine learning practitioners actually do? - https://www.fast.ai/2018/07/12/auto-ml-1/
 
 ### Streamlit
+* Repository of Awesome streamlit apps: https://awesome-streamlit.org/
 * Summarizer and Named Entity Checker App with Streamlit and SpaCy: https://blog.jcharistech.com/2019/11/28/summarizer-and-named-entity-checker-app-with-streamlit-and-spacy/
 
 ### Bayesian Deep Learning
