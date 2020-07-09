@@ -601,6 +601,7 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 * Building NLP text search system: https://towardsdatascience.com/building-a-sentence-embedding-index-with-fasttext-and-bm25-f07e7148d240
 * https://www.kaggle.com/davidmezzetti/cord-19-analysis-with-sentence-embeddings
 * Faiss is a library for efficient similarity search and clustering of dense vectors - https://github.com/facebookresearch/faiss
+* MILVUS: Open source vector similarity search engine: https://milvus.io/
 
 * Softcosine similarity paper: http://www.scielo.org.mx/pdf/cys/v18n3/v18n3a7.pdf
 * Text similarity using Softcosine similarity: https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/soft_cosine_tutorial.ipynb
