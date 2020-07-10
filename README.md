@@ -654,6 +654,8 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 
 ### Chatbots
 * Using voice to control a website with Amazon Alexa: https://blog.prototypr.io/using-voice-commands-to-control-a-website-with-amazon-echo-alexa-part-1-6-a35edbfef405
+* How to build a State-of-the-Art Conversational AI with Transfer Learning: https://medium.com/huggingface/how-to-build-a-state-of-the-art-conversational-ai-with-transfer-learning-2d818ac26313
+* How to build a State-of-the-Art Conversational AI with Transfer Learning (github link): https://github.com/huggingface/transfer-learning-conv-ai
 
 ## References (business):
 * What is an ad impression: https://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html
