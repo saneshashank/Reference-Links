@@ -536,6 +536,8 @@ https://towardsdatascience.com/predictive-customer-analytics-4064d881b649 (part 
 * Fullstack DS 3: https://medium.com/applied-data-science/a-case-for-interpretable-data-science-using-lime-to-reduce-bias-e44f48a95f75
 * Fullstack DS 4: https://medium.com/applied-data-science/the-full-stack-data-scientist-part-4-building-front-ends-in-streamlit-1c2903d4b1fe
 
+* Fullstack Deep Learning: https://course.fullstackdeeplearning.com/
+
 ### Information Theory of Deep Learning
 * https://lilianweng.github.io/lil-log/2017/09/28/anatomize-deep-learning-with-information-theory.html
 * https://adityashrm21.github.io/Information-Theory-In-Deep-Learning/
