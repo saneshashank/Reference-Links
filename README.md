@@ -667,3 +667,7 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 * customer churn in mobile markets: https://arxiv.org/ftp/arxiv/papers/1607/1607.07792.pdf
 * Survey text analytics: https://www.linkedin.com/pulse/how-choose-survey-text-analysis-software-discussion-draft-fitzgerald?trk=prof-post
 
+### MWL - Made with ML
+* Your one-stop platform to explore, learn and build all things
+machine learning: https://madewithml.com/
+
