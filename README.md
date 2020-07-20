@@ -666,6 +666,8 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 * Telecom churn customer model: https://parcusgroup.com/Telecom-Customer-Churn-Prediction-Models
 * customer churn in mobile markets: https://arxiv.org/ftp/arxiv/papers/1607/1607.07792.pdf
 * Survey text analytics: https://www.linkedin.com/pulse/how-choose-survey-text-analysis-software-discussion-draft-fitzgerald?trk=prof-post
+* What’s Your Customer Effort Score?: https://www.gartner.com/smarterwithgartner/unveiling-the-new-and-improved-customer-effort-score/
+* A Guide to Customer Satisfaction Metrics - NPS vs CSAT and CES: https://www.retently.com/blog/customer-satisfaction-metrics/
 
 ### MWL - Made with ML
 * Your one-stop platform to explore, learn and build all things
