@@ -552,6 +552,7 @@ https://towardsdatascience.com/predictive-customer-analytics-4064d881b649 (part 
 ### Data products
 * Designing great data products:The Drivetrain Approach - https://www.oreilly.com/radar/drivetrain-approach-data-products/
 * What do machine learning practitioners actually do? - https://www.fast.ai/2018/07/12/auto-ml-1/
+* From Predictive Modelling to Optimization: The Next Frontier: https://www.youtube.com/watch?v=vYrWTDxoeGg
 
 ### Streamlit
 * Repository of Awesome streamlit apps: https://awesome-streamlit.org/
