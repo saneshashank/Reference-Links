@@ -319,6 +319,7 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * https://www.analyticsvidhya.com/blog/2017/11/reproducible-data-science-docker-for-data-science/
 * Docker for ML: https://pratos.github.io/2017-04-24/docker-for-data-science-part-1/
 * conceptual - introduction to VM's and Docker: https://medium.freecodecamp.org/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b
+* lighter docker images: https://medium.com/swlh/build-fast-deploy-faster-creating-lighter-docker-images-11540ce0db14
 
 #### Handling imbalanced data set:
 * how to handle imbalanced data with code: https://elitedatascience.com/imbalanced-classes
@@ -428,6 +429,8 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Using NLP to Automate Customer Support, Part Two (using Universal Sentence Encoding - USE): https://blog.floydhub.com/automate-customer-support-part-two/
 * Paper Dissected: “XLNet: Generalized Autoregressive Pretraining for Language Understanding” Explained: https://mlexplained.com/2019/06/30/paper-dissected-xlnet-generalized-autoregressive-pretraining-for-language-understanding-explained/
 * using USE + Keras: https://www.dlology.com/blog/keras-meets-universal-sentence-encoder-transfer-learning-for-text-data/
+
+* NLP as service: Project Insight: https://github.com/abhimishra91/insight
 
 ### Model Fracking and Concept Drift:
 * https://towardsdatascience.com/fracking-features-in-machine-learning-b8247626e582
