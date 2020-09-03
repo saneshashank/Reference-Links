@@ -63,6 +63,10 @@ Curated list of articles for ML/AI/NLP
 * Doc2Vec : https://medium.com/@mishra.thedeepak/doc2vec-simple-implementation-example-df2afbbfbad5
 * How to use Doc2Vec as input to Keras model: https://stackoverflow.com/questions/50564928/how-to-use-sentence-vectors-from-doc2vec-in-keras-sequntial-model-for-sentence-s
 
+**Top2Vec**
+* https://github.com/ddangelov/Top2Vec
+* paper: https://arxiv.org/pdf/2008.09470.pdf
+
 ### Knowledge Graphs
 * Knowledge Graphs: https://web.stanford.edu/class/cs520/
 * Domain specific knowledge graphs: https://www.springer.com/gp/book/9783030123741
