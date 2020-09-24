@@ -20,7 +20,7 @@ This repository contains a curated list of articles for ML/AI/NLP.
 
 ## Inferential Statistics 
 
-### general
+### General
 * p value: https://www.statsdirect.com/help/basics/p_values.htm
 * normality tests in python: https://machinelearningmastery.com/a-gentle-introduction-to-normality-tests-in-python/
 * parametric significance tests in python: https://machinelearningmastery.com/parametric-statistical-significance-tests-in-python/
@@ -29,7 +29,7 @@ This repository contains a curated list of articles for ML/AI/NLP.
 * Effect of multicollinearity on Ordinary Least Squares solution for regression: https://en.wikipedia.org/wiki/Multicollinearity
 * What is the difference between Liklihood and probability: https://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-discriminative-algorithm
 
-### frequentist AB testing:
+### Frequentist AB testing:
 * http://ethen8181.github.io/machine-learning/ab_tests/frequentist_ab_test.html
 
 ### ANOVA tests:
@@ -41,7 +41,7 @@ This repository contains a curated list of articles for ML/AI/NLP.
 
 ## Machine Learning
 
-### general
+### General
 * How is Bayesian classifer different from MLE classifier?: https://stats.stackexchange.com/questions/74082/what-is-the-difference-in-bayesian-estimate-and-maximum-likelihood-estimate
 * Cross Validation - need for test set: https://stats.stackexchange.com/questions/223408/how-does-k-fold-cross-validation-fit-in-the-context-of-training-validation-testi AND
 https://stackoverflow.com/questions/43663365/cross-validation-use-testing-set-or-validation-set-to-predict
@@ -58,7 +58,7 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * using AWS for Deep Learning: https://machinelearningmastery.com/develop-evaluate-large-deep-learning-models-keras-amazon-web-services/
 * **Extra Tree Classifier**- difference b/w extra tree classifier and random forest:https://www.thekerneltrip.com/statistics/random-forest-vs-extra-tree/
 
-### feature scaling
+### Feature Scaling
 * Standardisation vs Normalization:  https://stackoverflow.com/questions/32108179/linear-regression-normalization-vs-standardization
 * Importance of Feature Scaling: http://scikit-learn.org/stable/auto_examples/preprocessing/plot_scaling_importance.html
 * feature Scaling with scikit-learn (good): http://benalexkeen.com/feature-scaling-with-scikit-learn/
