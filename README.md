@@ -170,6 +170,12 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * ELI5 - TextExplainer: debugging black-box text classifiers: https://eli5.readthedocs.io/en/latest/tutorials/black-box-text-classifiers.html
 * interpretable ML book: https://christophm.github.io/interpretable-ml-book/
 
+### XGBoost Installation:
+* check you python version - by opening CMD and typing python -> ENTER
+* Go to this link and search on XGBoost: https://www.lfd.uci.edu/~gohlke/pythonlibs/
+* download the installable based on python version + Windows 32 or 64 bit, for example download xgboost-0.71-cp36-cp36m-win_amd64.whl for python version 3.6 and 64 bit machine.
+* open cmd in downloaded location and run the following command: pip install xgboost-0.71-cp36-cp36m-win_amd64.whl
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 ## Deep Learning:
@@ -229,15 +235,95 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * https://towardsdatascience.com/deep-learning-analysis-using-large-model-support-3a67a919255
 * https://github.com/pierpaolo28/Artificial-Intelligence-Projects/blob/master/IBM%20Large%20Model%20Support/LargeModelSupport.ipynb
 
-**Doc2Vec**
+------------------------------------------------------------------------------------------------------------------
+
+## Natural Language Processing (NLP) and Natural Language Understanding (NLU)
+
+### General
+* text tutorial: https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html
+* text classification ref: https://scikit-learn.org/0.19/auto_examples/text/document_classification_20newsgroups.html#sphx-glr-auto-examples-text-document-classification-20newsgroups-py
+* Multiclass vs Multilabel vs Multioutput classification: https://scikit-learn.org/stable/modules/multiclass.html
+* Out of core classification of text documents: https://scikit-learn.org/0.15/auto_examples/applications/plot_out_of_core_classification.html#example-applications-plot-out-of-core-classification-py
+* Library for handling multilabel classification: http://scikit.ml/index.html
+* NLTK Book: http://www.nltk.org/book/ 
+* NLTK tutorial: https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/
+* Extracting Text Meta Features: https://www.kaggle.com/shivamb/spacy-text-meta-features-knowledge-graphs
+* jaccard distance using NLP: https://python.gotrained.com/nltk-edit-distance-jaccard-distance/#Jaccard_Distance
+* Text Encoding Unicode: https://docs.python.org/3/howto/unicode.html
+* Roudup of Python NLP libraries: https://nlpforhackers.io/libraries/
+* Spacy Tutorial (AV): https://www.analyticsvidhya.com/blog/2017/04/natural-language-processing-made-easy-using-spacy-%E2%80%8Bin-python/
+* SpaCy Tutorial: https://nlpforhackers.io/complete-guide-to-spacy/
+* Generate text using word level neural language model: https://machinelearningmastery.com/how-to-develop-a-word-level-neural-language-model-in-keras/
+* Generate text using LSTM: https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
+* SIF embeddings implementation: https://www.kaggle.com/procode/sif-embeddings-got-69-accuracy
+* **Ontology based text classification**: https://sci2lab.github.io/mehdi/icsc2014.pdf
+* **fast text analysis using Vowpal Wabbit :** https://www.kaggle.com/kashnitsky/vowpal-wabbit-tutorial-blazingly-fast-learning
+
+### Text Classification using Deep Learning:
+* what kagglers are using for text classification: https://mlwhiz.com/blog/2018/12/17/text_classification/
+* text CNN: https://www.kaggle.com/mlwhiz/learning-text-classification-textcnn/comments
+* text pre-processing methods for DL: https://mlwhiz.com/blog/2019/01/17/deeplearning_nlp_preprocess/
+* How to pre-process when using embeddings: https://www.kaggle.com/christofhenkel/how-to-preprocessing-when-using-embeddings
+* A Layman guide to moving from Keras to Pytorch: https://mlwhiz.com/blog/2019/01/06/pytorch_keras_conversion/
+* Toxic comments classification: https://www.kaggle.com/larryfreeman/toxic-comments-code-for-alexander-s-9872-model
+* Text Blob: Simplified Text Processing: https://textblob.readthedocs.io/en/dev/
+
+### Spacy resources
+* text classification using spacy: https://www.dataquest.io/blog/tutorial-text-classification-in-python-using-spacy/
+* ml for text classification using spacy: https://towardsdatascience.com/machine-learning-for-text-classification-using-spacy-in-python-b276b4051a49
+* tricks for using spacy at scale: https://towardsdatascience.com/a-couple-tricks-for-using-spacy-at-scale-54affd8326cf
+*	Modified skip gram based on spacy dependency parser: https://medium.com/reputation-com-datascience-blog/keywords-extraction-with-ngram-and-modified-skip-gram-based-on-spacy-14e5625fce23
+* SpaCy Tutorial: https://course.spacy.io/
+* Spacy NLP faster using Cython: https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced
+* enable previously disabled pipes: https://stackoverflow.com/questions/53052687/spacy-enable-previous-disabled-pipes
+* Spacy rule based matching - https://github.com/explosion/spaCy/blob/develop/website/docs/usage/rule-based-matching.md#combining-models-and-rules-models-rules
+* Spacy Information extraction examples: https://spacy.io/usage/examples
+* Training custom ner model in spacy: https://www.machinelearningplus.com/nlp/training-custom-ner-model-in-spacy/
+* BRAT: open source annotation tool: http://brat.nlplab.org/examples.html
+
+### Topic Modelling:
+* Topic modeling in gensim:  https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
+* Topic modeling in sklearn (with NMF): https://www.machinelearningplus.com/nlp/topic-modeling-python-sklearn-examples/
+* sklearn: https://scikit-learn.org/stable/auto_examples/applications/plot_topics_extraction_with_nmf_lda.html
+* What is topic coherence: https://rare-technologies.com/what-is-topic-coherence/
+* Evaluation of Topic Modeling: Topic Coherence: https://datascienceplus.com/evaluation-of-topic-modeling-topic-coherence/
+* Exploring the Space of Topic Coherence Measures (paper): http://svn.aksw.org/papers/2015/WSDM_Topic_Evaluation/public.pdf
+* Good Read - choosing topics using coherence measures in LDA,LSI,HDP etc. https://markroxor.github.io/gensim/static/notebooks/gensim_news_classification.html
+* Dynamic Topic Models tutorial: https://markroxor.github.io/gensim/static/notebooks/ldaseqmodel.html
+* Dynamic topic model google talk: https://www.youtube.com/watch?v=7BMsuyBPx90
+* LDA using TF-IDF: https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24
+
+### Top2Vec
+* https://github.com/ddangelov/Top2Vec
+* paper: https://arxiv.org/pdf/2008.09470.pdf
+
+### Text Summarization:
+* https://becominghuman.ai/text-summarization-in-5-steps-using-nltk-65b21e352b65
+
+### keyword-phrase extraction
+* Intro to Automatic Keyphrase Extraction: https://bdewilde.github.io/blog/2014/09/23/intro-to-automatic-keyphrase-extraction/
+* Beyond bag of words: Using PyTextRank to find Phrases and Summarize text: https://medium.com/@aneesha/beyond-bag-of-words-using-pytextrank-to-find-phrases-and-summarize-text-f736fa3773c5
+* NLP keyword extraction tutorial with RAKE and Maui: https://www.airpair.com/nlp/keyword-extraction-tutorial
+
+### Gensim
+* introduction to gensim: https://www.machinelearningplus.com/nlp/gensim-tutorial/
+* usine soft cosine similarity in gensim: https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/soft_cosine_tutorial.ipynb
+
+### Natural Language Understanding
+* https://web.stanford.edu/class/cs224u/
+
+### NLG
+* NLG using markovify: https://github.com/jsvine/markovify
+* training bot to comment on current affairs: https://www.kaggle.com/aashita/training-a-bot-to-comment-on-current-affairs
+
+### EVT
+* Reducing Uncertainty in Document Classification with Extreme Value Theory: https://medium.com/cognigo/reducing-uncertainty-in-document-classification-with-extreme-value-theory-97508ebd76f
+
+### Doc2Vec
 * Doc2Vec : https://radimrehurek.com/gensim/models/doc2vec.html
 * https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-lee.ipynb
 * Doc2Vec : https://medium.com/@mishra.thedeepak/doc2vec-simple-implementation-example-df2afbbfbad5
 * How to use Doc2Vec as input to Keras model: https://stackoverflow.com/questions/50564928/how-to-use-sentence-vectors-from-doc2vec-in-keras-sequntial-model-for-sentence-s
-
-**Top2Vec**
-* https://github.com/ddangelov/Top2Vec
-* paper: https://arxiv.org/pdf/2008.09470.pdf
 
 ### Knowledge Graphs
 * Knowledge Graphs: https://web.stanford.edu/class/cs520/
@@ -285,72 +371,9 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Titanic survivors using RBF: https://medium.com/datadriveninvestor/building-radial-basis-function-network-with-keras-estimating-survivors-of-titanic-a06c2359c5d9
 * Custom RBF Keras Layer: https://github.com/PetraVidnerova/rbf_keras
 
-#### Natural Language Understanding
-* https://web.stanford.edu/class/cs224u/
-
-**NLG**
-* NLG using markovify: https://github.com/jsvine/markovify
-* training bot to comment on current affairs: https://www.kaggle.com/aashita/training-a-bot-to-comment-on-current-affairs
-
-* text tutorial: https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html
-* text classification ref: https://scikit-learn.org/0.19/auto_examples/text/document_classification_20newsgroups.html#sphx-glr-auto-examples-text-document-classification-20newsgroups-py
-* Multiclass vs Multilabel vs Multioutput classification: https://scikit-learn.org/stable/modules/multiclass.html
-* Out of core classification of text documents: https://scikit-learn.org/0.15/auto_examples/applications/plot_out_of_core_classification.html#example-applications-plot-out-of-core-classification-py
-
-* Library for handling multilabel classification: http://scikit.ml/index.html
-
-
-### Topic Modelling:
-* Topic modeling in gensim:  https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
-* Topic modeling in sklearn (with NMF): https://www.machinelearningplus.com/nlp/topic-modeling-python-sklearn-examples/
-* sklearn: https://scikit-learn.org/stable/auto_examples/applications/plot_topics_extraction_with_nmf_lda.html
-* What is topic coherence: https://rare-technologies.com/what-is-topic-coherence/
-* Evaluation of Topic Modeling: Topic Coherence: https://datascienceplus.com/evaluation-of-topic-modeling-topic-coherence/
-* Exploring the Space of Topic Coherence Measures (paper): http://svn.aksw.org/papers/2015/WSDM_Topic_Evaluation/public.pdf
-* Good Read - choosing topics using coherence measures in LDA,LSI,HDP etc. https://markroxor.github.io/gensim/static/notebooks/gensim_news_classification.html
-* Dynamic Topic Models tutorial: https://markroxor.github.io/gensim/static/notebooks/ldaseqmodel.html
-* Dynamic topic model google talk: https://www.youtube.com/watch?v=7BMsuyBPx90
-* LDA using TF-IDF: https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24
 
 
 
-### EVT
-* Reducing Uncertainty in Document Classification with Extreme Value Theory: https://medium.com/cognigo/reducing-uncertainty-in-document-classification-with-extreme-value-theory-97508ebd76f
-
-### text summarization:
-* https://becominghuman.ai/text-summarization-in-5-steps-using-nltk-65b21e352b65
-
-### text classification using DL:
-* what kagglers are using for text classification: https://mlwhiz.com/blog/2018/12/17/text_classification/
-* text CNN: https://www.kaggle.com/mlwhiz/learning-text-classification-textcnn/comments
-* text pre-processing methods for DL: https://mlwhiz.com/blog/2019/01/17/deeplearning_nlp_preprocess/
-* How to pre-process when using embeddings: https://www.kaggle.com/christofhenkel/how-to-preprocessing-when-using-embeddings
-* A Layman guide to moving from Keras to Pytorch: https://mlwhiz.com/blog/2019/01/06/pytorch_keras_conversion/
-* Toxic comments classification: https://www.kaggle.com/larryfreeman/toxic-comments-code-for-alexander-s-9872-model
-* Text Blob: Simplified Text Processing: https://textblob.readthedocs.io/en/dev/
-
-### spacy
-* text classification using spacy: https://www.dataquest.io/blog/tutorial-text-classification-in-python-using-spacy/
-* ml for text classification using spacy: https://towardsdatascience.com/machine-learning-for-text-classification-using-spacy-in-python-b276b4051a49
-* tricks for using spacy at scale: https://towardsdatascience.com/a-couple-tricks-for-using-spacy-at-scale-54affd8326cf
-*	Modified skip gram based on spacy dependency parser: https://medium.com/reputation-com-datascience-blog/keywords-extraction-with-ngram-and-modified-skip-gram-based-on-spacy-14e5625fce23
-* SpaCy Tutorial: https://course.spacy.io/
-* Spacy NLP faster using Cython: https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced
-* enable previously disabled pipes: https://stackoverflow.com/questions/53052687/spacy-enable-previous-disabled-pipes
-* Spacy rule based matching - https://github.com/explosion/spaCy/blob/develop/website/docs/usage/rule-based-matching.md#combining-models-and-rules-models-rules
-* Spacy Information extraction examples: https://spacy.io/usage/examples
-* Training custom ner model in spacy: https://www.machinelearningplus.com/nlp/training-custom-ner-model-in-spacy/
-* BRAT: open source annotation tool: http://brat.nlplab.org/examples.html
-
-### keyword-phrase extraction
-* Intro to Automatic Keyphrase Extraction: https://bdewilde.github.io/blog/2014/09/23/intro-to-automatic-keyphrase-extraction/
-* Beyond bag of words: Using PyTextRank to find Phrases and Summarize text: https://medium.com/@aneesha/beyond-bag-of-words-using-pytextrank-to-find-phrases-and-summarize-text-f736fa3773c5
-* NLP keyword extraction tutorial with RAKE and Maui: https://www.airpair.com/nlp/keyword-extraction-tutorial
-
-
-### gensim
-* introduction to gensim: https://www.machinelearningplus.com/nlp/gensim-tutorial/
-* usine soft cosine similarity in gensim: https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/soft_cosine_tutorial.ipynb
 
 ### Probabilistic programming in tensorflow
 * paper: https://arxiv.org/pdf/1711.10604.pdf
@@ -401,36 +424,8 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Text Anomaly Detection using Doc2Vec and cosine sim: https://medium.com/datadriveninvestor/unsupervised-outlier-detection-in-text-corpus-using-deep-learning-41d4284a04c8
 *  https://github.com/avisheknag17/public_ml_models/blob/master/outlier_detection_in_movie_plots_ann/notebook/movie_plots_outlier_detector.ipynb
 
-## NLP:
-* NLTK Book: http://www.nltk.org/book/ 
-* SpaCy: Industrial grad NLP: https://spacy.io/
-* Genism: https://radimrehurek.com/gensim/index.html
-* NLTK tutorial: https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/
-* Extracting Text Meta Features: https://www.kaggle.com/shivamb/spacy-text-meta-features-knowledge-graphs
 
-* jaccard distance using NLP: https://python.gotrained.com/nltk-edit-distance-jaccard-distance/#Jaccard_Distance
-
-* Lyric Analysis with NLP and ML in R part 1: https://www.datacamp.com/community/tutorials/R-nlp-machine-learning
-* Lyric Analysis with NLP and ML in R part 2A:https://www.datacamp.com/community/tutorials/R-nlp-machine-learning
-* Lyric Analysis with NLP and ML in R part 2B:https://www.datacamp.com/community/tutorials/sentiment-analysis-R
-
-* Text Encoding Unicode: https://docs.python.org/3/howto/unicode.html
-
-* Roudup of Python NLP libraries: https://nlpforhackers.io/libraries/
-
-* Spacy Tutorial (AV): https://www.analyticsvidhya.com/blog/2017/04/natural-language-processing-made-easy-using-spacy-%E2%80%8Bin-python/
-* SpaCy Tutorial: https://nlpforhackers.io/complete-guide-to-spacy/
-
-* Generate text using word level neural language model: https://machinelearningmastery.com/how-to-develop-a-word-level-neural-language-model-in-keras/
-* Generate text using LSTM: https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
-
-* SIF embeddings implementation: https://www.kaggle.com/procode/sif-embeddings-got-69-accuracy
-
-**Ontology based text classification**: https://sci2lab.github.io/mehdi/icsc2014.pdf
-
-**fast text analysis using Vowpal Wabbit :** https://www.kaggle.com/kashnitsky/vowpal-wabbit-tutorial-blazingly-fast-learning
-
-#### transfer learning in NLP:
+#### Transfer learning in NLP:
 
 * BERT: https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
 
@@ -456,11 +451,6 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * https://towardsdatascience.com/concept-drift-and-model-decay-in-machine-learning-a98a809ea8d4
 * github: https://github.com/saneshashank/Concept-Drift-and-Model-Decay
  
-### XGBoost Installation:
-* check you python version - by opening CMD and typing python -> ENTER
-* Go to this link and search on XGBoost: https://www.lfd.uci.edu/~gohlke/pythonlibs/
-* download the installable based on python version + Windows 32 or 64 bit, for example download xgboost-0.71-cp36-cp36m-win_amd64.whl for python version 3.6 and 64 bit machine.
-* open cmd in downloaded location and run the following command: pip install xgboost-0.71-cp36-cp36m-win_amd64.whl
 
 ### Spark
 
