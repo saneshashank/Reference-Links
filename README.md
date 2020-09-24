@@ -170,6 +170,17 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * ELI5 - TextExplainer: debugging black-box text classifiers: https://eli5.readthedocs.io/en/latest/tutorials/black-box-text-classifiers.html
 * interpretable ML book: https://christophm.github.io/interpretable-ml-book/
 
+### Anomaly Detection
+* Note on anomaly detection: https://towardsdatascience.com/a-note-about-finding-anomalies-f9cedee38f0b
+* Four Techniques for Anomaly detection: https://dzone.com/articles/four-techniques-for-outlier-detection-knime
+* Novelty and Outlier Detection: https://scikit-learn.org/stable/modules/outlier_detection.html#novelty-detection
+* One Class SVM Anomaly detection: https://www.kaggle.com/amarnayak/once-class-svm-to-detect-anomaly
+* PyOD for anomaly detection: https://github.com/yzhao062/Pyod#quick-start-for-outlier-detection
+* text anomaly detection: https://arxiv.org/pdf/1701.01325.pdf
+* Outlier Detection for Text Data: https://epubs.siam.org/doi/pdf/10.1137/1.9781611974973.55
+* Text Anomaly Detection using Doc2Vec and cosine sim: https://medium.com/datadriveninvestor/unsupervised-outlier-detection-in-text-corpus-using-deep-learning-41d4284a04c8
+*  https://github.com/avisheknag17/public_ml_models/blob/master/outlier_detection_in_movie_plots_ann/notebook/movie_plots_outlier_detector.ipynb
+
 ### XGBoost Installation:
 * check you python version - by opening CMD and typing python -> ENTER
 * Go to this link and search on XGBoost: https://www.lfd.uci.edu/~gohlke/pythonlibs/
@@ -325,6 +336,27 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Doc2Vec : https://medium.com/@mishra.thedeepak/doc2vec-simple-implementation-example-df2afbbfbad5
 * How to use Doc2Vec as input to Keras model: https://stackoverflow.com/questions/50564928/how-to-use-sentence-vectors-from-doc2vec-in-keras-sequntial-model-for-sentence-s
 
+
+#### Transfer learning in NLP:
+* BERT: https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
+* BERT Research Paper: https://arxiv.org/abs/1810.04805 
+* blog: http://jalammar.github.io/
+* Blog for understanding ELMO and BERT: http://jalammar.github.io/illustrated-bert/
+* ULMFIT tutorial: https://www.analyticsvidhya.com/blog/2018/11/tutorial-text-classification-ulmfit-fastai-library/
+* DSSM: https://www.microsoft.com/en-us/research/project/dssm/
+
+
+### Latest Language Models usage & applications
+* When Not to Choose the Best NLP Model (Comparison of Elmo, USE, BERT & XLNET): https://blog.floydhub.com/when-the-best-nlp-model-is-not-the-best-choice/
+* Using NLP to Automate Customer Support, Part Two (using Universal Sentence Encoding - USE): https://blog.floydhub.com/automate-customer-support-part-two/
+* Paper Dissected: “XLNet: Generalized Autoregressive Pretraining for Language Understanding” Explained: https://mlexplained.com/2019/06/30/paper-dissected-xlnet-generalized-autoregressive-pretraining-for-language-understanding-explained/
+* using USE + Keras: https://www.dlology.com/blog/keras-meets-universal-sentence-encoder-transfer-learning-for-text-data/
+* NLP as service: Project Insight: https://github.com/abhimishra91/insight
+
+-------------------------------------------------------------------------------------------
+
+## Advanced Topics
+
 ### Knowledge Graphs
 * Knowledge Graphs: https://web.stanford.edu/class/cs520/
 * Domain specific knowledge graphs: https://www.springer.com/gp/book/9783030123741
@@ -348,7 +380,6 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * (Part 2) Everything you need to know about Graph Theory for Deep Learning: https://towardsdatascience.com/graph-theory-and-deep-learning-know-hows-6556b0e9891b
 * (Part 3) Graph Embedding for Deep Learning: https://towardsdatascience.com/overview-of-deep-learning-on-graph-embeddings-4305c10ad4a4
 * (Part 4) Graph Convolutional Networks for Geometric Deep Learning: https://towardsdatascience.com/graph-convolutional-networks-for-geometric-deep-learning-1faf17dee008
-
 * Graph Embeddings Summary: https://towardsdatascience.com/graph-embeddings-the-summary-cc6075aba007
 
 #### Text GCN:
@@ -361,8 +392,6 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * https://twitter.com/fchollet/status/971121430531252224?lang=en
 * https://www.analyticsvidhya.com/blog/2019/10/how-to-build-knowledge-graph-text-using-spacy/
 
-
-
 #### RBF Neural Networks
 * https://pythonmachinelearning.pro/using-neural-networks-for-regression-radial-basis-function-networks/
 * http://mccormickml.com/2013/08/15/radial-basis-function-network-rbfn-tutorial/
@@ -370,10 +399,6 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * research net discussion for unknown class: https://www.researchgate.net/post/How_to_determine_unknown_class_using_neural_network
 * Titanic survivors using RBF: https://medium.com/datadriveninvestor/building-radial-basis-function-network-with-keras-estimating-survivors-of-titanic-a06c2359c5d9
 * Custom RBF Keras Layer: https://github.com/PetraVidnerova/rbf_keras
-
-
-
-
 
 ### Probabilistic programming in tensorflow
 * paper: https://arxiv.org/pdf/1711.10604.pdf
@@ -400,10 +425,6 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * RoBo - Bayesian Optimization Framework: https://automl.github.io/RoBO/tutorials.html
 * Implementing bayesian optimization from scratch: https://machinelearningmastery.com/what-is-bayesian-optimization/
 
-
-
-
-
 #### Variational Autoencoder
 * VAE an intutive explanation: https://hsaghir.github.io/data_science/denoising-vs-variational-autoencoder/
 * text generation using VAE: https://nicgian.github.io/text-generation-vae/
@@ -413,37 +434,8 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Autoencoder - Image Compression: https://ai.googleblog.com/2016/09/image-compression-with-neural-networks.html
 * video: https://www.youtube.com/watch?v=9zKuYvjFFS8
 
-### Anomaly Detection
-* Note on anomaly detection: https://towardsdatascience.com/a-note-about-finding-anomalies-f9cedee38f0b
-* Four Techniques for Anomaly detection: https://dzone.com/articles/four-techniques-for-outlier-detection-knime
-* Novelty and Outlier Detection: https://scikit-learn.org/stable/modules/outlier_detection.html#novelty-detection
-* One Class SVM Anomaly detection: https://www.kaggle.com/amarnayak/once-class-svm-to-detect-anomaly
-* PyOD for anomaly detection: https://github.com/yzhao062/Pyod#quick-start-for-outlier-detection
-* text anomaly detection: https://arxiv.org/pdf/1701.01325.pdf
-* Outlier Detection for Text Data: https://epubs.siam.org/doi/pdf/10.1137/1.9781611974973.55
-* Text Anomaly Detection using Doc2Vec and cosine sim: https://medium.com/datadriveninvestor/unsupervised-outlier-detection-in-text-corpus-using-deep-learning-41d4284a04c8
-*  https://github.com/avisheknag17/public_ml_models/blob/master/outlier_detection_in_movie_plots_ann/notebook/movie_plots_outlier_detector.ipynb
 
 
-#### Transfer learning in NLP:
-
-* BERT: https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
-
-* BERT Research Paper: https://arxiv.org/abs/1810.04805 
-* blog: http://jalammar.github.io/
-* Blog for understanding ELMO and BERT: http://jalammar.github.io/illustrated-bert/
-* ULMFIT tutorial: https://www.analyticsvidhya.com/blog/2018/11/tutorial-text-classification-ulmfit-fastai-library/
-* DSSM: https://www.microsoft.com/en-us/research/project/dssm/
-
-** Ktrain **: lightweight wrapper around keras for BERT, NBSVM implementation etc.
-
-### Latest Language Models usage & applications
-* When Not to Choose the Best NLP Model (Comparison of Elmo, USE, BERT & XLNET): https://blog.floydhub.com/when-the-best-nlp-model-is-not-the-best-choice/
-* Using NLP to Automate Customer Support, Part Two (using Universal Sentence Encoding - USE): https://blog.floydhub.com/automate-customer-support-part-two/
-* Paper Dissected: “XLNet: Generalized Autoregressive Pretraining for Language Understanding” Explained: https://mlexplained.com/2019/06/30/paper-dissected-xlnet-generalized-autoregressive-pretraining-for-language-understanding-explained/
-* using USE + Keras: https://www.dlology.com/blog/keras-meets-universal-sentence-encoder-transfer-learning-for-text-data/
-
-* NLP as service: Project Insight: https://github.com/abhimishra91/insight
 
 ### Model Fracking and Concept Drift:
 * https://towardsdatascience.com/fracking-features-in-machine-learning-b8247626e582
