@@ -1,5 +1,22 @@
 # Reference-Links
-Curated list of articles for ML/AI/NLP
+This repository contains a curated list of articles for ML/AI/NLP.
+
+## General trivia about basic DS libraries
+* matplotlib plotting in 2D and 3D: http://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb
+* Difference b/w size and count with groupby in pandas: https://stackoverflow.com/questions/33346591/what-is-the-difference-between-size-and-count-in-pandas
+* pandas regex to create columns: https://chrisalbon.com/python/data_wrangling/pandas_regex_to_create_columns/
+* regex in python and pandas: https://www.dataquest.io/blog/regular-expressions-data-scientists/
+* plotting boxplots in plotly in python: https://plot.ly/python/box-plots/
+* extract high correlation values: https://stackoverflow.com/questions/17778394/list-highest-correlation-pairs-from-a-large-correlation-matrix-in-pandas
+* converting group by object to data frame (also how to avoid converting columns to indices when doing group by):https://stackoverflow.com/questions/10373660/converting-a-pandas-groupby-object-to-dataframe
+* Progress Bars in jupyter notebook with tqdm : https://towardsdatascience.com/progress-bars-in-python-4b44e8a4c482
+* list comprehensions: https://www.machinelearningplus.com/python/list-comprehensions-in-python/
+* Numpy 1 - basic: https://www.machinelearningplus.com/python/numpy-tutorial-part1-array-python-examples/
+* Numpy 2 - advanced: https://www.machinelearningplus.com/python/numpy-tutorial-python-part2/
+* Numpy 101 practice: https://www.machinelearningplus.com/python/101-numpy-exercises-python/
+* Pandas 101 practice: https://www.machinelearningplus.com/python/101-pandas-exercises-python/
+
+--------------------------------------------------------------------------------------------------------------
 
 ## Inferential Statistics 
 
@@ -31,20 +48,15 @@ https://stackoverflow.com/questions/43663365/cross-validation-use-testing-set-or
 * why LASSO shrinkag works: https://stats.stackexchange.com/questions/179864/why-does-shrinkage-work
 * Why is gradient descent or optimization methods required at all if cost function minima can be found directly say by using linear algebra or differentiation ? : https://stats.stackexchange.com/questions/212619/why-is-gradient-descent-required
 https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-linear-regression-when-a-closed-form-math-solution
-* Introduction to Matrix Decomposition: https://machinelearningmastery.com/introduction-to-matrix-decompositions-for-machine-learning/
+* Introduction to **Matrix Decomposition**: https://machinelearningmastery.com/introduction-to-matrix-decompositions-for-machine-learning/
 * How to Compare ML models: https://machinelearningmastery.com/compare-machine-learning-algorithms-python-scikit-learn/
-* Beginners guide to Jupyter Notebooks: https://www.analyticsvidhya.com/blog/2018/05/starters-guide-jupyter-notebook/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29
-* matplotlib plotting in 2D and 3D: http://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb
-* Computational Quantum Mechanics with Python: http://jrjohansson.github.io/
 * difference between generative and discriminative algorithm: https://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-discriminative-algorithm
-* Difference b/w size and count with groupby in pandas: https://stackoverflow.com/questions/33346591/what-is-the-difference-between-size-and-count-in-pandas
 * ML crash course by google: https://developers.google.com/machine-learning/crash-course/prereqs-and-prework
-* pandas regex to create columns: https://chrisalbon.com/python/data_wrangling/pandas_regex_to_create_columns/
-* regex in python and pandas: https://www.dataquest.io/blog/regular-expressions-data-scientists/
 * Book on Feature Engineering (Max Kuhn): http://www.feat.engineering/
 * Understanding Cost Functions (video series): https://www.youtube.com/watch?v=euhATa4wgzo&index=1&list=PLNlkREaquqc6WUPMRicPbEvLyZe-7b-GT
 * Build better predictive models using segmentation: https://www.analyticsvidhya.com/blog/2016/02/guide-build-predictive-models-segmentation/
 * using AWS for Deep Learning: https://machinelearningmastery.com/develop-evaluate-large-deep-learning-models-keras-amazon-web-services/
+* **Extra Tree Classifier**- difference b/w extra tree classifier and random forest:https://www.thekerneltrip.com/statistics/random-forest-vs-extra-tree/
 
 ### feature scaling
 * Standardisation vs Normalization:  https://stackoverflow.com/questions/32108179/linear-regression-normalization-vs-standardization
@@ -103,9 +115,6 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 #### ICA
 * Stanford notes on ICA: http://cs229.stanford.edu/notes/cs229-notes11.pdf
 
-**Extra Tree Classifier**
-* difference b/w extra tree classifier and random forest:https://www.thekerneltrip.com/statistics/random-forest-vs-extra-tree/
-
 ### Model Stacking
 * stacking: https://dkopczyk.quantee.co.uk/stacking/
 
@@ -148,6 +157,9 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 ### Probability Callibration:
 * https://scikit-learn.org/stable/modules/calibration.html
 
+#### Sparse Matrix
+* https://dziganto.github.io/Sparse-Matrices-For-Efficient-Machine-Learning/
+
 ### Design of Experiment
 * https://machinelearningmastery.com/controlled-experiments-in-machine-learning/
 * https://www.analyticsvidhya.com/blog/2015/10/guide-design-of-experiments-case-study/
@@ -162,6 +174,7 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 
 ## Deep Learning:
 
+### General
 * The Perceptron Learning Algorithm and its Convergence: https://www.cse.iitb.ac.in/~shivaram/teaching/old/cs344+386-s2017/resources/classnote-1.pdf
 * Deep Dive into Math Behind Deep Networks: https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba
 * Recent Advances for a Better Understanding of Deep Learning − Part I: https://towardsdatascience.com/recent-advances-for-a-better-understanding-of-deep-learning-part-i-5ce34d1cc914
@@ -175,7 +188,6 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * What is validation data used for in a Keras Sequential model? : https://stackoverflow.com/questions/46308374/what-is-validation-data-used-for-in-a-keras-sequential-model
 
 ### CNN and Image Processing:
-
 * Why do we need to normalize the images before we put them into CNN? : https://stats.stackexchange.com/questions/185853/why-do-we-need-to-normalize-the-images-before-we-put-them-into-cnn
 * Neural Network data type conversion - float from int? : https://datascience.stackexchange.com/questions/13636/neural-network-data-type-conversion-float-from-int
 * Image Pre-processing (Keras): https://keras.io/preprocessing/image/
@@ -191,29 +203,31 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * List of Open Source **Medical Image Analysis** Softwares:http://www0.cs.ucl.ac.uk/opensource_mia_ws_2012/links.html
 * Natural Images: https://stats.stackexchange.com/questions/25737/definition-of-natural-images-in-the-context-of-machine-learning
 * ResNet - understanding the bottleneck unit: https://stats.stackexchange.com/questions/347280/regarding-the-understanding-of-bottleneck-unit-of-resnet
-
-* https://github.com/anujshah1003/VQA-Demo-GUI
+* Visual Question Answering: https://github.com/anujshah1003/VQA-Demo-GUI
 * https://iamaaditya.github.io/2016/04/visual_question_answering_demo_notebook
-
 * CNN+LSTM: https://machinelearningmastery.com/cnn-long-short-term-memory-networks/
 
-#### CNN
+#### 1D - CNNs
 * Introduction to 1D CNNs: https://blog.goodaudience.com/introduction-to-1d-convolutional-neural-networks-in-keras-for-time-sequences-3a7ff801a2cf
 * Why does each filter learn a different feature in CNN: https://www.quora.com/Why-does-each-filter-learn-different-features-in-a-convolutional-neural-network
 
-**keras embedding layer**
+#### Keras Embedding Layer
 * Using Embedding Layer in Keras: https://blog.keras.io/using-pre-trained-word-embeddings-in-a-keras-model.html
 * how does keras embedding layer work: https://stats.stackexchange.com/questions/270546/how-does-keras-embedding-layer-work
 
-**keras generators***
+#### Keras generators
 * A detailed example of how to use data generators with Keras: https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly
 
-**Large Model Support usage in keras**
+#### Saving Keras Models
+* https://jovianlin.io/saving-loading-keras-models/
+
+#### Clustering using DL
+* unsupervised clustering in keras: https://www.dlology.com/blog/how-to-do-unsupervised-clustering-with-keras/
+* overview of DL based clustering methods: https://divamgupta.com/unsupervised-learning/2019/03/08/an-overview-of-deep-learning-based-clustering-techniques.html
+
+#### Large Model Support usage in keras
 * https://towardsdatascience.com/deep-learning-analysis-using-large-model-support-3a67a919255
 * https://github.com/pierpaolo28/Artificial-Intelligence-Projects/blob/master/IBM%20Large%20Model%20Support/LargeModelSupport.ipynb
-
-**Saving Keras Models**
-* https://jovianlin.io/saving-loading-keras-models/
 
 **Doc2Vec**
 * Doc2Vec : https://radimrehurek.com/gensim/models/doc2vec.html
@@ -262,9 +276,6 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * https://www.analyticsvidhya.com/blog/2019/10/how-to-build-knowledge-graph-text-using-spacy/
 
 
-#### Clustering using DL
-* unsupervised clustering in keras: https://www.dlology.com/blog/how-to-do-unsupervised-clustering-with-keras/
-* overview of DL based clustering methods: https://divamgupta.com/unsupervised-learning/2019/03/08/an-overview-of-deep-learning-based-clustering-techniques.html
 
 #### RBF Neural Networks
 * https://pythonmachinelearning.pro/using-neural-networks-for-regression-radial-basis-function-networks/
@@ -281,18 +292,6 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * NLG using markovify: https://github.com/jsvine/markovify
 * training bot to comment on current affairs: https://www.kaggle.com/aashita/training-a-bot-to-comment-on-current-affairs
 
-* plotting boxplots in plotly in python: https://plot.ly/python/box-plots/
-* extract high correlation values: https://stackoverflow.com/questions/17778394/list-highest-correlation-pairs-from-a-large-correlation-matrix-in-pandas
-* converting group by object to data frame (also how to avoid converting columns to indices when doing group by):https://stackoverflow.com/questions/10373660/converting-a-pandas-groupby-object-to-dataframe
-
-* **matplotlib** basic tutorial: https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python
-
-* parametric and non-parametric ml methods: https://machinelearningmastery.com/parametric-and-nonparametric-machine-learning-algorithms/
-* Stability Selection vs RFE (Recursive Feature Elimination): http://blog.datadive.net/selecting-good-features-part-iv-stability-selection-rfe-and-everything-side-by-side/
-
-* Progress Bars in jupyter notebook with tqdm : https://towardsdatascience.com/progress-bars-in-python-4b44e8a4c482
-
-* **Scikit learn**: http://scikit-learn.org/stable/index.html
 * text tutorial: https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html
 * text classification ref: https://scikit-learn.org/0.19/auto_examples/text/document_classification_20newsgroups.html#sphx-glr-auto-examples-text-document-classification-20newsgroups-py
 * Multiclass vs Multilabel vs Multioutput classification: https://scikit-learn.org/stable/modules/multiclass.html
@@ -378,8 +377,6 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * RoBo - Bayesian Optimization Framework: https://automl.github.io/RoBO/tutorials.html
 * Implementing bayesian optimization from scratch: https://machinelearningmastery.com/what-is-bayesian-optimization/
 
-#### Sparse Matrix
-* https://dziganto.github.io/Sparse-Matrices-For-Efficient-Machine-Learning/
 
 
 
@@ -460,7 +457,6 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * github: https://github.com/saneshashank/Concept-Drift-and-Model-Decay
  
 ### XGBoost Installation:
-
 * check you python version - by opening CMD and typing python -> ENTER
 * Go to this link and search on XGBoost: https://www.lfd.uci.edu/~gohlke/pythonlibs/
 * download the installable based on python version + Windows 32 or 64 bit, for example download xgboost-0.71-cp36-cp36m-win_amd64.whl for python version 3.6 and 64 bit machine.
@@ -479,11 +475,7 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 
 * Use YouTube as a Free Screencast Recorder: https://www.youtube.com/watch?v=0i9C8GpRedc
 
-* list comprehensions: https://www.machinelearningplus.com/python/list-comprehensions-in-python/
-* Numpy 1 - basic: https://www.machinelearningplus.com/python/numpy-tutorial-part1-array-python-examples/
-* Numpy 2 - advanced: https://www.machinelearningplus.com/python/numpy-tutorial-python-part2/
-* Numpy 101 practice: https://www.machinelearningplus.com/python/101-numpy-exercises-python/
-* Pandas 101 practice: https://www.machinelearningplus.com/python/101-pandas-exercises-python/
+
 
 * Parallel processing in Python: https://www.machinelearningplus.com/python/parallel-processing-python/
 
