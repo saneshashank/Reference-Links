@@ -1,6 +1,164 @@
 # Reference-Links
 Curated list of articles for ML/AI/NLP
 
+## Inferential Statistics 
+
+### general
+* p value: https://www.statsdirect.com/help/basics/p_values.htm
+* normality tests in python: https://machinelearningmastery.com/a-gentle-introduction-to-normality-tests-in-python/
+* parametric significance tests in python: https://machinelearningmastery.com/parametric-statistical-significance-tests-in-python/
+* non-parametric significance tests in python: https://machinelearningmastery.com/nonparametric-statistical-significance-tests-in-python/
+* multicollinearity in regression analysis: http://statisticsbyjim.com/regression/multicollinearity-in-regression-analysis/
+* Effect of multicollinearity on Ordinary Least Squares solution for regression: https://en.wikipedia.org/wiki/Multicollinearity
+* What is the difference between Liklihood and probability: https://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-discriminative-algorithm
+
+### frequentist AB testing:
+* http://ethen8181.github.io/machine-learning/ab_tests/frequentist_ab_test.html
+
+### ANOVA tests:
+* https://machinelearningmastery.com/parametric-statistical-significance-tests-in-python/
+* https://pythonfordatascience.org/anova-python/
+* https://riffyn.com/riffyn-blog/2017/10/29/family-wise-error-rate
+
+--------------------------------------------------------------------------------------------------
+
+## Machine Learning
+
+### general
+* How is Bayesian classifer different from MLE classifier?: https://stats.stackexchange.com/questions/74082/what-is-the-difference-in-bayesian-estimate-and-maximum-likelihood-estimate
+* Cross Validation - need for test set: https://stats.stackexchange.com/questions/223408/how-does-k-fold-cross-validation-fit-in-the-context-of-training-validation-testi AND
+https://stackoverflow.com/questions/43663365/cross-validation-use-testing-set-or-validation-set-to-predict
+* why LASSO shrinkag works: https://stats.stackexchange.com/questions/179864/why-does-shrinkage-work
+* Why is gradient descent or optimization methods required at all if cost function minima can be found directly say by using linear algebra or differentiation ? : https://stats.stackexchange.com/questions/212619/why-is-gradient-descent-required
+https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-linear-regression-when-a-closed-form-math-solution
+* Introduction to Matrix Decomposition: https://machinelearningmastery.com/introduction-to-matrix-decompositions-for-machine-learning/
+* How to Compare ML models: https://machinelearningmastery.com/compare-machine-learning-algorithms-python-scikit-learn/
+* Beginners guide to Jupyter Notebooks: https://www.analyticsvidhya.com/blog/2018/05/starters-guide-jupyter-notebook/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29
+* matplotlib plotting in 2D and 3D: http://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb
+* Computational Quantum Mechanics with Python: http://jrjohansson.github.io/
+* difference between generative and discriminative algorithm: https://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-discriminative-algorithm
+* Difference b/w size and count with groupby in pandas: https://stackoverflow.com/questions/33346591/what-is-the-difference-between-size-and-count-in-pandas
+* ML crash course by google: https://developers.google.com/machine-learning/crash-course/prereqs-and-prework
+* pandas regex to create columns: https://chrisalbon.com/python/data_wrangling/pandas_regex_to_create_columns/
+* regex in python and pandas: https://www.dataquest.io/blog/regular-expressions-data-scientists/
+* Book on Feature Engineering (Max Kuhn): http://www.feat.engineering/
+* Understanding Cost Functions (video series): https://www.youtube.com/watch?v=euhATa4wgzo&index=1&list=PLNlkREaquqc6WUPMRicPbEvLyZe-7b-GT
+* Build better predictive models using segmentation: https://www.analyticsvidhya.com/blog/2016/02/guide-build-predictive-models-segmentation/
+* using AWS for Deep Learning: https://machinelearningmastery.com/develop-evaluate-large-deep-learning-models-keras-amazon-web-services/
+
+### feature scaling
+* Standardisation vs Normalization:  https://stackoverflow.com/questions/32108179/linear-regression-normalization-vs-standardization
+* Importance of Feature Scaling: http://scikit-learn.org/stable/auto_examples/preprocessing/plot_scaling_importance.html
+* feature Scaling with scikit-learn (good): http://benalexkeen.com/feature-scaling-with-scikit-learn/
+* about feature scaling (bit mathematical): http://sebastianraschka.com/Articles/2014_about_feature_scaling.html
+
+### Feature reduction/Feature Selection:
+* feature reduction using varrank: https://cran.r-project.org/web/packages/varrank/vignettes/varrank.html
+* LDA based feat reduction: https://towardsdatascience.com/dimensionality-reduction-with-latent-dirichlet-allocation-8d73c586738c
+* LDA usage: http://jmlr.org/papers/volume3/blei03a/blei03a.pdf
+* using LDA for text classification: https://towardsdatascience.com/unsupervised-nlp-topic-models-as-a-supervised-learning-input-cf8ee9e5cf28
+* http://blog.echen.me/2012/03/20/infinite-mixture-models-with-nonparametric-bayes-and-the-dirichlet-process/
+* A Comprehensive Survey on various Feature Selection Methods to Categorize Text Documents: https://pdfs.semanticscholar.org/d773/c6e96ed04f6d63531ff703303404e959f82f.pdf
+* A Review of Feature Selection on Text Classification: http://umpir.ump.edu.my/id/eprint/23030/7/A%20Review%20of%20Feature%20Selection%20on%20Text2.pdf
+* A Robust Hybrid Approach for Textual Document Classification: https://arxiv.org/pdf/1909.05478.pdf
+
+##### dummy vars
+* dummy vars transfromation applied on prediction data: https://stackoverflow.com/questions/43578799/how-to-save-mapping-of-data-frame-to-model-matrix-and-apply-to-new-observations
+
+### Pipelines in sklearn
+* Pipelines and composite estimators: https://scikit-learn.org/stable/modules/compose.html#
+* Deep dive into sklearn pipelines: https://www.kaggle.com/baghern/a-deep-dive-into-sklearn-pipelines
+* Feature Union: https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.FeatureUnion.html#sklearn.pipeline.FeatureUnion
+* Column Transformer with Heterogeneous Data Sources: https://scikit-learn.org/stable/auto_examples/compose/plot_column_transformer.html#sphx-glr-auto-examples-compose-plot-column-transformer-py
+
+### Boosting:
+* A gentle introduction to boosting algos: https://machinelearningmastery.com/gentle-introduction-gradient-boosting-algorithm-machine-learning/
+* CatBoost Algorithm resources: https://tech.yandex.com/catboost/
+* Light GBM: http://lightgbm.readthedocs.io/en/latest/index.html
+* Light GBM github: https://github.com/Microsoft/LightGBM
+* XGBoost Conceptual Understanding of Algo: http://xgboost.readthedocs.io/en/latest/model.html
+* XGBoost Site: http://xgboost.readthedocs.io/en/latest/
+* Difference b/w lightgbm and xgboost: https://mlexplained.com/2018/01/05/lightgbm-and-xgboost-explained/
+
+### Metrics for ML model evaluation
+* metrics for model evaluation: http://scikit-learn.org/stable/modules/model_evaluation.html
+* f1 score macro vs micro: https://datascience.stackexchange.com/questions/40900/whats-the-difference-between-sklearn-f1-score-micro-and-weighted-for-a-mult
+* when to use f1 macro vs f1 micro:https://datascience.stackexchange.com/questions/36862/macro-or-micro-average-for-imbalanced-class-problems
+* Top 15: https://www.machinelearningplus.com/machine-learning/evaluation-metrics-classification-models-r/
+* ROC : https://stats.stackexchange.com/questions/105501/understanding-roc-curve
+* ROC detailed analysis: http://mlwiki.org/index.php/ROC_Analysis
+
+### Dimensionality Reduction
+
+#### PCA
+* variance in PCA explained: https://ro-che.info/articles/2017-12-11-pca-explained-variance
+* PCA on large matrices: https://amedee.me/post/pca-large-matrices/
+* radomizedSVD: http://alimanfoo.github.io/2015/09/28/fast-pca.html
+
+#### t-SNE
+* Laurens van der Maaten's (creator of t-SNE) website: https://lvdmaaten.github.io/tsne/
+* Visualising data using t-SNE: Journal of Machine Learning Research: http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf
+* How to use t-SNE effectively: https://distill.pub/2016/misread-tsne/
+
+#### ICA
+* Stanford notes on ICA: http://cs229.stanford.edu/notes/cs229-notes11.pdf
+
+**Extra Tree Classifier**
+* difference b/w extra tree classifier and random forest:https://www.thekerneltrip.com/statistics/random-forest-vs-extra-tree/
+
+### Model Stacking
+* stacking: https://dkopczyk.quantee.co.uk/stacking/
+
+### Distance Metrics
+* Mahalnobis distance: https://www.machinelearningplus.com/statistics/mahalanobis-distance/
+* Cosine similarity: https://www.machinelearningplus.com/nlp/cosine-similarity/
+* 3 basic Distance Measurement in Text Mining: https://towardsdatascience.com/3-basic-distance-measurement-in-text-mining-5852becff1d7
+* Word Mover’s Distance (WMD): https://towardsdatascience.com/word-distance-between-word-embeddings-cc3e9cf1d632
+* WMD Tutorial: https://markroxor.github.io/gensim/static/notebooks/WMD_tutorial.html
+* Word Mover’s Distance in Python: https://vene.ro/blog/word-movers-distance-in-python.html
+* probability distance metrics:https://markroxor.github.io/gensim/static/notebooks/distance_metrics.html
+
+### Clustering
+* assessing clustering tendancy:https://www.datanovia.com/en/lessons/assessing-clustering-tendency/
+* Hopkins test for cluster tendency: https://matevzkunaver.wordpress.com/2017/06/20/hopkins-test-for-cluster-tendency/
+* Clustering validation tests: http://www.sthda.com/english/wiki/print.php?id=241
+* silhoutte method for cluster quality: https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html
+* K Modes Clustering: https://shapeofdata.wordpress.com/2014/03/04/k-modes/
+* Hirarchial Clustering: http://www.saedsayad.com/clustering_hierarchical.htm
+* Linkage methods of hierarchical agglomerative cluster analysis (HAC): https://stats.stackexchange.com/questions/195446/choosing-the-right-linkage-method-for-hierarchical-clustering
+
+### Handling imbalanced data set:
+* how to handle imbalanced data with code: https://elitedatascience.com/imbalanced-classes
+* good read: https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/
+* concept read: https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/
+* imbalanced-learn library: https://github.com/scikit-learn-contrib/imbalanced-learn
+* anomaly detection in python: https://www.datascience.com/blog/python-anomaly-detection
+* scikit learn novelty and outlier detection: https://www.datascience.com/blog/python-anomaly-detection
+* Imbalanced data handling tutorial in Python: https://blog.dominodatalab.com/imbalanced-datasets/
+* imbalanced data sets (Good Read): https://www.svds.com/learning-imbalanced-classes/
+* cost sensitive learning: https://machinelearningmastery.com/cost-sensitive-learning-for-imbalanced-classification/
+* develop cost sensitive neural network: https://machinelearningmastery.com/cost-sensitive-neural-network-for-imbalanced-classification/
+
+### Handling Skewed data:
+* Top 3 methods for handling skewed data: https://towardsdatascience.com/top-3-methods-for-handling-skewed-data-1334e0debf45
+
+### Multi-label Classification
+* https://towardsdatascience.com/journey-to-the-center-of-multi-label-classification-384c40229bff
+
+### Probability Callibration:
+* https://scikit-learn.org/stable/modules/calibration.html
+
+### Design of Experiment
+* https://machinelearningmastery.com/controlled-experiments-in-machine-learning/
+* https://www.analyticsvidhya.com/blog/2015/10/guide-design-of-experiments-case-study/
+* https://towardsdatascience.com/design-your-engineering-experiment-plan-with-a-simple-python-command-35a6ba52fa35
+* https://pythonhosted.org/pyDOE/
+
+### Model Explainibility/Interpretable ML
+* ELI5 - TextExplainer: debugging black-box text classifiers: https://eli5.readthedocs.io/en/latest/tutorials/black-box-text-classifiers.html
+* interpretable ML book: https://christophm.github.io/interpretable-ml-book/
+
+--------------------------------------------------------------------------------------------------------------------------------------
 
 ## Deep Learning:
 
@@ -142,126 +300,6 @@ Curated list of articles for ML/AI/NLP
 
 * Library for handling multilabel classification: http://scikit.ml/index.html
 
-## feature scaling
-* Standardisation vs Normalization:  https://stackoverflow.com/questions/32108179/linear-regression-normalization-vs-standardization
-* Importance of Feature Scaling: http://scikit-learn.org/stable/auto_examples/preprocessing/plot_scaling_importance.html
-* feature Scaling with scikit-learn (good): http://benalexkeen.com/feature-scaling-with-scikit-learn/
-* about feature scaling (bit mathematical): http://sebastianraschka.com/Articles/2014_about_feature_scaling.html
-
-
-* How is Bayesian classifer different from MLE classifier?: https://stats.stackexchange.com/questions/74082/what-is-the-difference-in-bayesian-estimate-and-maximum-likelihood-estimate
-* Cross Validation - need for test set: https://stats.stackexchange.com/questions/223408/how-does-k-fold-cross-validation-fit-in-the-context-of-training-validation-testi AND
-https://stackoverflow.com/questions/43663365/cross-validation-use-testing-set-or-validation-set-to-predict
-* K Modes Clustering: https://shapeofdata.wordpress.com/2014/03/04/k-modes/
-* Hirarchial Clustering: http://www.saedsayad.com/clustering_hierarchical.htm
-* Linkage methods of hierarchical agglomerative cluster analysis (HAC): https://stats.stackexchange.com/questions/195446/choosing-the-right-linkage-method-for-hierarchical-clustering
-* why LASSO shrinkag works: https://stats.stackexchange.com/questions/179864/why-does-shrinkage-work
-* p value: https://www.statsdirect.com/help/basics/p_values.htm
-* multicollinearity in regression analysis: http://statisticsbyjim.com/regression/multicollinearity-in-regression-analysis/
-* Effect of multicollinearity on Ordinary Least Squares solution for regression: https://en.wikipedia.org/wiki/Multicollinearity
-* Why is gradient descent or optimization methods required at all if cost function minima can be found directly say by using linear algebra or differentiation ? : https://stats.stackexchange.com/questions/212619/why-is-gradient-descent-required
-https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-linear-regression-when-a-closed-form-math-solution
-* normality tests in python: https://machinelearningmastery.com/a-gentle-introduction-to-normality-tests-in-python/
-* parametric significance tests in python: https://machinelearningmastery.com/parametric-statistical-significance-tests-in-python/
-* non-parametric significance tests in python: https://machinelearningmastery.com/nonparametric-statistical-significance-tests-in-python/
-* Introduction to Matrix Decomposition: https://machinelearningmastery.com/introduction-to-matrix-decompositions-for-machine-learning/
-* How to Compare ML models: https://machinelearningmastery.com/compare-machine-learning-algorithms-python-scikit-learn/
-* Beginners guide to Jupyter Notebooks: https://www.analyticsvidhya.com/blog/2018/05/starters-guide-jupyter-notebook/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29
-* matplotlib plotting in 2D and 3D: http://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb
-* Computational Quantum Mechanics with Python: http://jrjohansson.github.io/
-* difference between generative and discriminative algorithm: https://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-discriminative-algorithm
-* What is the difference between Liklihood and probability: https://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-discriminative-algorithm
-
-#### frequentist AB testing:
-* http://ethen8181.github.io/machine-learning/ab_tests/frequentist_ab_test.html
-
-##### ANOVA tests:
-* https://machinelearningmastery.com/parametric-statistical-significance-tests-in-python/
-* https://pythonfordatascience.org/anova-python/
-* https://riffyn.com/riffyn-blog/2017/10/29/family-wise-error-rate
-
-#### Feature reduction/Feature Selection:
-
-* feature reduction using varrank: https://cran.r-project.org/web/packages/varrank/vignettes/varrank.html
-* LDA based feat reduction: https://towardsdatascience.com/dimensionality-reduction-with-latent-dirichlet-allocation-8d73c586738c
-* LDA usage: http://jmlr.org/papers/volume3/blei03a/blei03a.pdf
-* using LDA for text classification: https://towardsdatascience.com/unsupervised-nlp-topic-models-as-a-supervised-learning-input-cf8ee9e5cf28
-* http://blog.echen.me/2012/03/20/infinite-mixture-models-with-nonparametric-bayes-and-the-dirichlet-process/
-* A Comprehensive Survey on various Feature Selection Methods to Categorize Text Documents: https://pdfs.semanticscholar.org/d773/c6e96ed04f6d63531ff703303404e959f82f.pdf
-* A Review of Feature Selection on Text Classification: http://umpir.ump.edu.my/id/eprint/23030/7/A%20Review%20of%20Feature%20Selection%20on%20Text2.pdf
-* A Robust Hybrid Approach for Textual Document Classification: https://arxiv.org/pdf/1909.05478.pdf
-
-#### dummy vars
-* dummy vars transfromation applied on prediction data: https://stackoverflow.com/questions/43578799/how-to-save-mapping-of-data-frame-to-model-matrix-and-apply-to-new-observations
-
-**Pipelines in sklearn**
-
-* Pipelines and composite estimators: https://scikit-learn.org/stable/modules/compose.html#
-* Deep dive into sklearn pipelines: https://www.kaggle.com/baghern/a-deep-dive-into-sklearn-pipelines
-* Feature Union: https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.FeatureUnion.html#sklearn.pipeline.FeatureUnion
-* Column Transformer with Heterogeneous Data Sources: https://scikit-learn.org/stable/auto_examples/compose/plot_column_transformer.html#sphx-glr-auto-examples-compose-plot-column-transformer-py
-
-## Boosting:
-* A gentle introduction to boosting algos: https://machinelearningmastery.com/gentle-introduction-gradient-boosting-algorithm-machine-learning/
-* CatBoost Algorithm resources: https://tech.yandex.com/catboost/
-* Light GBM: http://lightgbm.readthedocs.io/en/latest/index.html
-* Light GBM github: https://github.com/Microsoft/LightGBM
-* XGBoost Conceptual Understanding of Algo: http://xgboost.readthedocs.io/en/latest/model.html
-* XGBoost Site: http://xgboost.readthedocs.io/en/latest/
-* Difference b/w lightgbm and xgboost: https://mlexplained.com/2018/01/05/lightgbm-and-xgboost-explained/
-
-
-* Difference b/w size and count with groupby in pandas: https://stackoverflow.com/questions/33346591/what-is-the-difference-between-size-and-count-in-pandas
-* ML crash course by google: https://developers.google.com/machine-learning/crash-course/prereqs-and-prework
-* pandas regex to create columns: https://chrisalbon.com/python/data_wrangling/pandas_regex_to_create_columns/
-* regex in python and pandas: https://www.dataquest.io/blog/regular-expressions-data-scientists/
-
-* Book on Feature Engineering (Max Kuhn): http://www.feat.engineering/
-* Understanding Cost Functions (video series): https://www.youtube.com/watch?v=euhATa4wgzo&index=1&list=PLNlkREaquqc6WUPMRicPbEvLyZe-7b-GT
-* Build better predictive models using segmentation: https://www.analyticsvidhya.com/blog/2016/02/guide-build-predictive-models-segmentation/
-* using AWS for Deep Learning: https://machinelearningmastery.com/develop-evaluate-large-deep-learning-models-keras-amazon-web-services/
-
-#### Metrics for ML model evaluation
-* metrics for model evaluation: http://scikit-learn.org/stable/modules/model_evaluation.html
-* f1 score macro vs micro: https://datascience.stackexchange.com/questions/40900/whats-the-difference-between-sklearn-f1-score-micro-and-weighted-for-a-mult
-* when to use f1 macro vs f1 micro:https://datascience.stackexchange.com/questions/36862/macro-or-micro-average-for-imbalanced-class-problems
-* Top 15: https://www.machinelearningplus.com/machine-learning/evaluation-metrics-classification-models-r/
-* ROC : https://stats.stackexchange.com/questions/105501/understanding-roc-curve
-* ROC detailed analysis: http://mlwiki.org/index.php/ROC_Analysis
-
-**PCA**
-* variance in PCA explained: https://ro-che.info/articles/2017-12-11-pca-explained-variance
-* PCA on large matrices: https://amedee.me/post/pca-large-matrices/
-* radomizedSVD: http://alimanfoo.github.io/2015/09/28/fast-pca.html
-
-**t-SNE**
-* Laurens van der Maaten's (creator of t-SNE) website: https://lvdmaaten.github.io/tsne/
-* Visualising data using t-SNE: Journal of Machine Learning Research: http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf
-* How to use t-SNE effectively: https://distill.pub/2016/misread-tsne/
-
-**ICA**
-* Stanford notes on ICA: http://cs229.stanford.edu/notes/cs229-notes11.pdf
-
-**Extra Tree Classifier**
-* difference b/w extra tree classifier and random forest:https://www.thekerneltrip.com/statistics/random-forest-vs-extra-tree/
-
-### Model Stacking
-* stacking: https://dkopczyk.quantee.co.uk/stacking/
-
-### Distance Metrics
-* Mahalnobis distance: https://www.machinelearningplus.com/statistics/mahalanobis-distance/
-* Cosine similarity: https://www.machinelearningplus.com/nlp/cosine-similarity/
-* 3 basic Distance Measurement in Text Mining: https://towardsdatascience.com/3-basic-distance-measurement-in-text-mining-5852becff1d7
-* Word Mover’s Distance (WMD): https://towardsdatascience.com/word-distance-between-word-embeddings-cc3e9cf1d632
-* WMD Tutorial: https://markroxor.github.io/gensim/static/notebooks/WMD_tutorial.html
-* Word Mover’s Distance in Python: https://vene.ro/blog/word-movers-distance-in-python.html
-* probability distance metrics:https://markroxor.github.io/gensim/static/notebooks/distance_metrics.html
-
-### clustering
-* assessing clustering tendancy:https://www.datanovia.com/en/lessons/assessing-clustering-tendency/
-* Hopkins test for cluster tendency: https://matevzkunaver.wordpress.com/2017/06/20/hopkins-test-for-cluster-tendency/
-* Clustering validation tests: http://www.sthda.com/english/wiki/print.php?id=241
-* silhoutte method for cluster quality: https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html
 
 ### Topic Modelling:
 * Topic modeling in gensim:  https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
@@ -275,8 +313,7 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Dynamic topic model google talk: https://www.youtube.com/watch?v=7BMsuyBPx90
 * LDA using TF-IDF: https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24
 
-### Probability Callibration:
-* https://scikit-learn.org/stable/modules/calibration.html
+
 
 ### EVT
 * Reducing Uncertainty in Document Classification with Extreme Value Theory: https://medium.com/cognigo/reducing-uncertainty-in-document-classification-with-extreme-value-theory-97508ebd76f
@@ -306,6 +343,10 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Training custom ner model in spacy: https://www.machinelearningplus.com/nlp/training-custom-ner-model-in-spacy/
 * BRAT: open source annotation tool: http://brat.nlplab.org/examples.html
 
+### keyword-phrase extraction
+* Intro to Automatic Keyphrase Extraction: https://bdewilde.github.io/blog/2014/09/23/intro-to-automatic-keyphrase-extraction/
+* Beyond bag of words: Using PyTextRank to find Phrases and Summarize text: https://medium.com/@aneesha/beyond-bag-of-words-using-pytextrank-to-find-phrases-and-summarize-text-f736fa3773c5
+* NLP keyword extraction tutorial with RAKE and Maui: https://www.airpair.com/nlp/keyword-extraction-tutorial
 
 
 ### gensim
@@ -325,23 +366,7 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * conceptual - introduction to VM's and Docker: https://medium.freecodecamp.org/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b
 * lighter docker images: https://medium.com/swlh/build-fast-deploy-faster-creating-lighter-docker-images-11540ce0db14
 
-#### Handling imbalanced data set:
-* how to handle imbalanced data with code: https://elitedatascience.com/imbalanced-classes
-* good read: https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/
-* concept read: https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/
-* imbalanced-learn library: https://github.com/scikit-learn-contrib/imbalanced-learn
-* anomaly detection in python: https://www.datascience.com/blog/python-anomaly-detection
-* scikit learn novelty and outlier detection: https://www.datascience.com/blog/python-anomaly-detection
-* Imbalanced data handling tutorial in Python: https://blog.dominodatalab.com/imbalanced-datasets/
-* imbalanced data sets (Good Read): https://www.svds.com/learning-imbalanced-classes/
-* cost sensitive learning: https://machinelearningmastery.com/cost-sensitive-learning-for-imbalanced-classification/
-* develop cost sensitive neural network: https://machinelearningmastery.com/cost-sensitive-neural-network-for-imbalanced-classification/
 
-#### Handling Skewed data:
-* Top 3 methods for handling skewed data: https://towardsdatascience.com/top-3-methods-for-handling-skewed-data-1334e0debf45
-
-### Multi-label Classification
-* https://towardsdatascience.com/journey-to-the-center-of-multi-label-classification-384c40229bff
 
 * sentiment analysis using VADER: https://medium.com/analytics-vidhya/simplifying-social-media-sentiment-analysis-using-vader-in-python-f9e6ec6fc52f
 
@@ -356,15 +381,7 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 #### Sparse Matrix
 * https://dziganto.github.io/Sparse-Matrices-For-Efficient-Machine-Learning/
 
-#### Design of Experiment
-* https://machinelearningmastery.com/controlled-experiments-in-machine-learning/
-* https://www.analyticsvidhya.com/blog/2015/10/guide-design-of-experiments-case-study/
-* https://towardsdatascience.com/design-your-engineering-experiment-plan-with-a-simple-python-command-35a6ba52fa35
-* https://pythonhosted.org/pyDOE/
 
-#### Model Explainibility/Interpretable ML
-* ELI5 - TextExplainer: debugging black-box text classifiers: https://eli5.readthedocs.io/en/latest/tutorials/black-box-text-classifiers.html
-* interpretable ML book: https://christophm.github.io/interpretable-ml-book/
 
 
 #### Variational Autoencoder
@@ -615,6 +632,7 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 * https://www.kaggle.com/davidmezzetti/cord-19-analysis-with-sentence-embeddings
 * Faiss is a library for efficient similarity search and clustering of dense vectors - https://github.com/facebookresearch/faiss
 * MILVUS: Open source vector similarity search engine: https://milvus.io/
+* Text similarity search with vector fields: https://www.elastic.co/blog/text-similarity-search-with-vectors-in-elasticsearch
 
 * Softcosine similarity paper: http://www.scielo.org.mx/pdf/cys/v18n3/v18n3a7.pdf
 * Text similarity using Softcosine similarity: https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/soft_cosine_tutorial.ipynb
@@ -678,6 +696,7 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 * Survey text analytics: https://www.linkedin.com/pulse/how-choose-survey-text-analysis-software-discussion-draft-fitzgerald?trk=prof-post
 * What’s Your Customer Effort Score?: https://www.gartner.com/smarterwithgartner/unveiling-the-new-and-improved-customer-effort-score/
 * A Guide to Customer Satisfaction Metrics - NPS vs CSAT and CES: https://www.retently.com/blog/customer-satisfaction-metrics/
+* Building an NLP solution to provide in-depth analysis of what your customers are thinking is a serious undertaking, and this guide helps you scope out the entire project: https://www.kdnuggets.com/2020/03/build-feedback-analysis-solution.html
 
 ### MWL - Made with ML
 * Your one-stop platform to explore, learn and build all things
