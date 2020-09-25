@@ -57,6 +57,8 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Build better predictive models using segmentation: https://www.analyticsvidhya.com/blog/2016/02/guide-build-predictive-models-segmentation/
 * using AWS for Deep Learning: https://machinelearningmastery.com/develop-evaluate-large-deep-learning-models-keras-amazon-web-services/
 * **Extra Tree Classifier**- difference b/w extra tree classifier and random forest:https://www.thekerneltrip.com/statistics/random-forest-vs-extra-tree/
+* parametric and non-parametric ml methods: https://machinelearningmastery.com/parametric-and-nonparametric-machine-learning-algorithms/
+* Stability Selection vs RFE (Recursive Feature Elimination): http://blog.datadive.net/selecting-good-features-part-iv-stability-selection-rfe-and-everything-side-by-side/
 
 ### Feature Scaling
 * Standardisation vs Normalization:  https://stackoverflow.com/questions/32108179/linear-regression-normalization-vs-standardization
@@ -190,6 +192,13 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * github: https://github.com/saneshashank/Fracking-Features-in-Machine-Learning
 * https://towardsdatascience.com/concept-drift-and-model-decay-in-machine-learning-a98a809ea8d4
 * github: https://github.com/saneshashank/Concept-Drift-and-Model-Decay
+
+### Time Series
+* time series analysis in python: https://www.machinelearningplus.com/time-series/time-series-analysis-python/
+
+### Open Datasets
+* https://skymind.ai/wiki/open-datasets
+* Chest X-ray data: https://www.kaggle.com/nih-chest-xrays
 
 ### XGBoost Installation:
 * check you python version - by opening CMD and typing python -> ENTER
@@ -622,35 +631,7 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 
 ---------------------------------------------------------------------------------------------------------------
 
-### Open Datasets
-* https://skymind.ai/wiki/open-datasets
-* Chest X-ray data: https://www.kaggle.com/nih-chest-xrays
-
-
-
-### Customer Analytics
-https://towardsdatascience.com/predictive-customer-analytics-4064d881b649 (part 1)
-
-### Time Series
-* time series analysis in python: https://www.machinelearningplus.com/time-series/time-series-analysis-python/
-
-
-
-### Latent Aspect Ratio Analysis (LARA) for CSAT
-* https://github.com/redris96/LARA
-* CSAT Key topics extraction and contextual sentiment of users’ reviews: https://tech.goibibo.com/key-topics-extraction-and-contextual-sentiment-of-users-reviews-20e63c0fd7ca
-
-
-
-### Quantum Physics & Quantum computing
-* https://thenextweb.com/insights/2020/03/03/is-time-broken-physicists-filmed-a-quantum-measurement-but-the-moment-was-blurry/
-* Tracking the Dynamics of an Ideal Quantum Measurement: https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.124.080401
-* Quantum NLP: https://medium.com/cambridge-quantum-computing/quantum-natural-language-processing-748d6f27b31d
-
-
-
-
-## References (business):
+## References (Usecase specific applications):
 * What is an ad impression: https://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html
 * ML in fraud detection: https://www.marutitech.com/machine-learning-fraud-detection/
 * Customer Segmentation: http://analyticstraining.com/2011/cluster-analysis-for-business/
@@ -660,6 +641,9 @@ https://towardsdatascience.com/predictive-customer-analytics-4064d881b649 (part 
 * What’s Your Customer Effort Score?: https://www.gartner.com/smarterwithgartner/unveiling-the-new-and-improved-customer-effort-score/
 * A Guide to Customer Satisfaction Metrics - NPS vs CSAT and CES: https://www.retently.com/blog/customer-satisfaction-metrics/
 * Building an NLP solution to provide in-depth analysis of what your customers are thinking is a serious undertaking, and this guide helps you scope out the entire project: https://www.kdnuggets.com/2020/03/build-feedback-analysis-solution.html
+* Predictive Customer Analytics (Good overview of CSAT solution): https://towardsdatascience.com/predictive-customer-analytics-4064d881b649 (part 1)
+* Latent Aspect Ratio Analysis (LARA) for CSAT: https://github.com/redris96/LARA
+* CSAT Key topics extraction and contextual sentiment of users’ reviews: https://tech.goibibo.com/key-topics-extraction-and-contextual-sentiment-of-users-reviews-20e63c0fd7ca
 
 ### MWL - Made with ML
 * Your one-stop platform to explore, learn and build all things
