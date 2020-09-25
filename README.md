@@ -1,5 +1,5 @@
 # Reference-Links
-This repository contains a curated list of articles for ML/AI/NLP.
+This repository contains a curated list of articles for ML/AI/NLP. I have browsed many of these articles while researching on problems that I have faced while applying ML to industry problems and could be useful to other practitioners as well. Although I have tried to arrange the topics at high level, there is not strict sequence to the references present.
 
 ## General trivia about basic DS libraries
 * matplotlib plotting in 2D and 3D: http://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb
@@ -181,6 +181,16 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Text Anomaly Detection using Doc2Vec and cosine sim: https://medium.com/datadriveninvestor/unsupervised-outlier-detection-in-text-corpus-using-deep-learning-41d4284a04c8
 *  https://github.com/avisheknag17/public_ml_models/blob/master/outlier_detection_in_movie_plots_ann/notebook/movie_plots_outlier_detector.ipynb
 
+### Active Learning
+* How Active Learning can help you train your models with less Data: https://towardsdatascience.com/how-active-learning-can-help-you-train-your-models-with-less-data-389da8a5f7ea
+* Active Learning Tutorial: https://towardsdatascience.com/active-learning-tutorial-57c3398e34d
+
+### Model Fracking and Concept Drift:
+* https://towardsdatascience.com/fracking-features-in-machine-learning-b8247626e582
+* github: https://github.com/saneshashank/Fracking-Features-in-Machine-Learning
+* https://towardsdatascience.com/concept-drift-and-model-decay-in-machine-learning-a98a809ea8d4
+* github: https://github.com/saneshashank/Concept-Drift-and-Model-Decay
+
 ### XGBoost Installation:
 * check you python version - by opening CMD and typing python -> ENTER
 * Go to this link and search on XGBoost: https://www.lfd.uci.edu/~gohlke/pythonlibs/
@@ -246,6 +256,15 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * https://towardsdatascience.com/deep-learning-analysis-using-large-model-support-3a67a919255
 * https://github.com/pierpaolo28/Artificial-Intelligence-Projects/blob/master/IBM%20Large%20Model%20Support/LargeModelSupport.ipynb
 
+### Image Captioning
+* https://towardsdatascience.com/image-captioning-with-keras-teaching-computers-to-describe-pictures-c88a46a311b8
+* https://www.analyticsvidhya.com/blog/2018/04/solving-an-image-captioning-task-using-deep-learning/
+* https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/
+* A Comprehensive Survey of Deep Learning for Image Captioning: https://arxiv.org/pdf/1810.04020.pdf
+
+### Image Segmentation:
+* Image Segmentation Keras : Implementation of Segnet, FCN, UNet, PSPNet and other models in Keras: https://github.com/divamgupta/image-segmentation-keras
+
 ------------------------------------------------------------------------------------------------------------------
 
 ## Natural Language Processing (NLP) and Natural Language Understanding (NLU)
@@ -262,13 +281,12 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * jaccard distance using NLP: https://python.gotrained.com/nltk-edit-distance-jaccard-distance/#Jaccard_Distance
 * Text Encoding Unicode: https://docs.python.org/3/howto/unicode.html
 * Roudup of Python NLP libraries: https://nlpforhackers.io/libraries/
-* Spacy Tutorial (AV): https://www.analyticsvidhya.com/blog/2017/04/natural-language-processing-made-easy-using-spacy-%E2%80%8Bin-python/
-* SpaCy Tutorial: https://nlpforhackers.io/complete-guide-to-spacy/
 * Generate text using word level neural language model: https://machinelearningmastery.com/how-to-develop-a-word-level-neural-language-model-in-keras/
 * Generate text using LSTM: https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
 * SIF embeddings implementation: https://www.kaggle.com/procode/sif-embeddings-got-69-accuracy
 * **Ontology based text classification**: https://sci2lab.github.io/mehdi/icsc2014.pdf
 * **fast text analysis using Vowpal Wabbit :** https://www.kaggle.com/kashnitsky/vowpal-wabbit-tutorial-blazingly-fast-learning
+* sentiment analysis using VADER: https://medium.com/analytics-vidhya/simplifying-social-media-sentiment-analysis-using-vader-in-python-f9e6ec6fc52f
 
 ### Text Classification using Deep Learning:
 * what kagglers are using for text classification: https://mlwhiz.com/blog/2018/12/17/text_classification/
@@ -290,7 +308,8 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Spacy rule based matching - https://github.com/explosion/spaCy/blob/develop/website/docs/usage/rule-based-matching.md#combining-models-and-rules-models-rules
 * Spacy Information extraction examples: https://spacy.io/usage/examples
 * Training custom ner model in spacy: https://www.machinelearningplus.com/nlp/training-custom-ner-model-in-spacy/
-* BRAT: open source annotation tool: http://brat.nlplab.org/examples.html
+* **BRAT**: open source **annotation tool**: http://brat.nlplab.org/examples.html
+
 
 ### Topic Modelling:
 * Topic modeling in gensim:  https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
@@ -336,6 +355,29 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Doc2Vec : https://medium.com/@mishra.thedeepak/doc2vec-simple-implementation-example-df2afbbfbad5
 * How to use Doc2Vec as input to Keras model: https://stackoverflow.com/questions/50564928/how-to-use-sentence-vectors-from-doc2vec-in-keras-sequntial-model-for-sentence-s
 
+### Information Retrieval, text search & semantic search:
+* 101 ways to solve search: https://www.youtube.com/watch?v=VHm6_uC4vxM
+* BM25 - https://www.quora.com/How-does-BM25-work
+* Python library for BM25 - https://pypi.org/project/rank-bm25/
+* Building NLP text search system: https://towardsdatascience.com/building-a-sentence-embedding-index-with-fasttext-and-bm25-f07e7148d240
+* https://www.kaggle.com/davidmezzetti/cord-19-analysis-with-sentence-embeddings
+* Faiss is a library for efficient similarity search and clustering of dense vectors - https://github.com/facebookresearch/faiss
+* MILVUS: Open source vector similarity search engine: https://milvus.io/
+* Text similarity search with vector fields: https://www.elastic.co/blog/text-similarity-search-with-vectors-in-elasticsearch
+
+* Softcosine similarity paper: http://www.scielo.org.mx/pdf/cys/v18n3/v18n3a7.pdf
+* Text similarity using Softcosine similarity: https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/soft_cosine_tutorial.ipynb
+* Document Similarity Queries: https://radimrehurek.com/gensim/auto_examples/core/run_similarity_queries.html#sphx-glr-auto-examples-core-run-similarity-queries-py
+* Document Distance metrics: https://radimrehurek.com/gensim/auto_examples/tutorials/run_distance_metrics.html#sphx-glr-auto-examples-tutorials-run-distance-metrics-py
+* Similarity Queries with Annoy and Word2Vec: https://radimrehurek.com/gensim/auto_examples/tutorials/run_annoy.html#sphx-glr-auto-examples-tutorials-run-annoy-py
+* similarities.docsim – Document similarity queries: https://radimrehurek.com/gensim/similarities/docsim.html
+
+### Longform Question Answering
+* https://yjernite.github.io/lfqa.html
+
+#### NLP spell correction:
+* https://norvig.com/spell-correct.html
+* https://nbviewer.jupyter.org/url/norvig.com/ipython/How%20to%20Do%20Things%20with%20Words.ipynb
 
 #### Transfer learning in NLP:
 * BERT: https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
@@ -344,7 +386,6 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Blog for understanding ELMO and BERT: http://jalammar.github.io/illustrated-bert/
 * ULMFIT tutorial: https://www.analyticsvidhya.com/blog/2018/11/tutorial-text-classification-ulmfit-fastai-library/
 * DSSM: https://www.microsoft.com/en-us/research/project/dssm/
-
 
 ### Latest Language Models usage & applications
 * When Not to Choose the Best NLP Model (Comparison of Elmo, USE, BERT & XLNET): https://blog.floydhub.com/when-the-best-nlp-model-is-not-the-best-choice/
@@ -367,7 +408,6 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Mining Knowledge Graph from text: https://kgtutorial.github.io/
 * KG pipeline: https://towardsdatascience.com/conceptualizing-the-knowledge-graph-construction-pipeline-33edb25ab831
 * Graph Data Base: Neo4j - https://neo4j.com/
-
 * (Good Summary of resources 2020) https://dzone.com/articles/knowledge-graphs-power-scientific-research-and-bus
 
 #### Deep Learning and Graphs:
@@ -407,25 +447,11 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * https://www.youtube.com/watch?v=ngFU7Rwl76g
 * https://medium.com/tensorflow/industrial-ai-bhges-physics-based-probabilistic-deep-learning-using-tensorflow-probability-5f215c791863
 
-## Docker
-* https://www.analyticsvidhya.com/blog/2017/11/reproducible-data-science-docker-for-data-science/
-* Docker for ML: https://pratos.github.io/2017-04-24/docker-for-data-science-part-1/
-* conceptual - introduction to VM's and Docker: https://medium.freecodecamp.org/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b
-* lighter docker images: https://medium.com/swlh/build-fast-deploy-faster-creating-lighter-docker-images-11540ce0db14
-
-
-
-* sentiment analysis using VADER: https://medium.com/analytics-vidhya/simplifying-social-media-sentiment-analysis-using-vader-in-python-f9e6ec6fc52f
-
-#### Active Learning
-* How Active Learning can help you train your models with less Data: https://towardsdatascience.com/how-active-learning-can-help-you-train-your-models-with-less-data-389da8a5f7ea
-* Active Learning Tutorial: https://towardsdatascience.com/active-learning-tutorial-57c3398e34d
-
-#### Bayesian Optimization
+### Bayesian Optimization
 * RoBo - Bayesian Optimization Framework: https://automl.github.io/RoBO/tutorials.html
 * Implementing bayesian optimization from scratch: https://machinelearningmastery.com/what-is-bayesian-optimization/
 
-#### Variational Autoencoder
+### Variational Autoencoder
 * VAE an intutive explanation: https://hsaghir.github.io/data_science/denoising-vs-variational-autoencoder/
 * text generation using VAE: https://nicgian.github.io/text-generation-vae/
 * text VAE in keras: http://alexadam.ca/ml/2017/05/05/keras-vae.html
@@ -433,57 +459,6 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * From Autoencoders to Beta-VAE (Disentangled VAE): https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html
 * Autoencoder - Image Compression: https://ai.googleblog.com/2016/09/image-compression-with-neural-networks.html
 * video: https://www.youtube.com/watch?v=9zKuYvjFFS8
-
-
-
-
-### Model Fracking and Concept Drift:
-* https://towardsdatascience.com/fracking-features-in-machine-learning-b8247626e582
-* github: https://github.com/saneshashank/Fracking-Features-in-Machine-Learning
-* https://towardsdatascience.com/concept-drift-and-model-decay-in-machine-learning-a98a809ea8d4
-* github: https://github.com/saneshashank/Concept-Drift-and-Model-Decay
- 
-
-### Spark
-
-* Why should one use spark for ML: https://www.infoworld.com/article/3031690/analytics/why-you-should-use-spark-for-machine-learning.html
-
-* Multi-Class Text Classification with PySpark: https://towardsdatascience.com/multi-class-text-classification-with-pyspark-7d78d022ed35
-
-### Python
-* Python OOP tutorial: https://www.youtube.com/watch?v=ZDa-Z5JzLYM
-* OOPS illustrated using ML example: https://dziganto.github.io/classes/data%20science/linear%20regression/machine%20learning/object-oriented%20programming/python/Understanding-Object-Oriented-Programming-Through-Machine-Learning/
-* vectorized string operations in Python(using pandas): https://jakevdp.github.io/PythonDataScienceHandbook/03.10-working-with-strings.html
-
-* Use YouTube as a Free Screencast Recorder: https://www.youtube.com/watch?v=0i9C8GpRedc
-
-
-
-* Parallel processing in Python: https://www.machinelearningplus.com/python/parallel-processing-python/
-
-* https://thispointer.com/5-different-ways-to-read-a-file-line-by-line-in-python/
-* https://www.learnpython.org/en/Map,_Filter,_Reduce
-* cytoolz: https://pypi.org/project/cytoolz/
-* https://cmdlinetips.com/2019/03/how-to-get-top-n-rows-with-in-each-group-in-pandas/
-
-* intermediate, tips for python: https://book.pythontips.com/en/latest/index.html
-
-##### writing better code for DS:
-* https://towardsdatascience.com/how-a-simple-mix-of-object-oriented-programming-can-sharpen-your-deep-learning-prototype-19893bd969bd
-* https://towardsdatascience.com/notes-on-software-construction-from-code-complete-8d2a8a959c69
-
-#### Generators
-* Jeff Knup's blog: 'Yield' and Generator Functions: https://jeffknupp.com/blog/2013/04/07/improve-your-python-yield-and-generators-explained/
-* Corey Schafer (YouTube video): Generator functions: https://www.youtube.com/watch?v=bD05uGo_sVI
-* Data streaming in Python: generators, iterators, iterables: https://rare-technologies.com/data-streaming-in-python-generators-iterators-iterables/
-
-* Python inheritance, multiple inheritance & operator overloading: https://www.programiz.com/python-programming/inheritance
-* Python Closure, Decorators & Python property: https://www.programiz.com/python-programming/closure
-* Inheritance and Composition: A Python OOP Guide: https://realpython.com/inheritance-composition-python/
-* Python’s super() considered super!: https://rhettinger.wordpress.com/2011/05/26/super-considered-super/
-* Dunder or magic methods in Python: https://rszalski.github.io/magicmethods/
-* intermediate python - https://realpython.com/intermediate-python/
-
 
 ### Reinforcement Learning
 * Dynamic Programming: https://web.stanford.edu/class/cs97si/04-dynamic-programming.pdf
@@ -500,70 +475,16 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Causal Inference in everyday ML: https://www.youtube.com/watch?v=HOgx_SBBzn0
 * Causal Inference in everyday ML notebook: https://colab.research.google.com/drive/1rjjjA7teiZVHJCMTVD8KlZNu3EjS7Dmu#scrollTo=qsuGNCvtVbsr
 
-### Open Datasets
-* https://skymind.ai/wiki/open-datasets
-* Chest X-ray data: https://www.kaggle.com/nih-chest-xrays
-
-### Image Captioning
-* https://towardsdatascience.com/image-captioning-with-keras-teaching-computers-to-describe-pictures-c88a46a311b8
-* https://www.analyticsvidhya.com/blog/2018/04/solving-an-image-captioning-task-using-deep-learning/
-* https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/
-* A Comprehensive Survey of Deep Learning for Image Captioning: https://arxiv.org/pdf/1810.04020.pdf
-
-### Image Segmentation:
-* Image Segmentation Keras : Implementation of Segnet, FCN, UNet, PSPNet and other models in Keras: https://github.com/divamgupta/image-segmentation-keras
-
-### Customer Analytics
-https://towardsdatascience.com/predictive-customer-analytics-4064d881b649 (part 1)
-
-### Time Series
-* time series analysis in python: https://www.machinelearningplus.com/time-series/time-series-analysis-python/
-
-### ML Engineering & Architecture considerations
-* https://towardsdatascience.com/putting-ml-in-production-i-using-apache-kafka-in-python-ce06b3a395c8
-* https://towardsdatascience.com/putting-ml-in-production-ii-logging-and-monitoring-algorithms-91f174044e4e
-* https://towardsdatascience.com/getting-started-with-mlflow-52eff8c09c61
-
-* https://towardsdatascience.com/creating-a-solid-data-science-development-environment-60df14ce3a34
-* DVC version control for ML projects: https://dvc.org/
-* papermill :https://papermill.readthedocs.io/en/latest/
-* Minimum Valuable Data Products: From 0 to data science pipeline: https://www.youtube.com/watch?v=UZg45yRTzwo
-
-* FastAPI: https://github.com/tiangolo/fastapi
-
-* Fullstack DS 1: https://medium.com/applied-data-science/the-full-stack-data-scientist-part-1-productionise-your-models-with-django-apis-7799b893ce7c
-* Fullstack DS 2: https://medium.com/applied-data-science/the-full-stack-data-scientist-part-2-a-practical-introduction-to-docker-1ea932c89b57
-* Fullstack DS 3: https://medium.com/applied-data-science/a-case-for-interpretable-data-science-using-lime-to-reduce-bias-e44f48a95f75
-* Fullstack DS 4: https://medium.com/applied-data-science/the-full-stack-data-scientist-part-4-building-front-ends-in-streamlit-1c2903d4b1fe
-
-* Fullstack Deep Learning: https://course.fullstackdeeplearning.com/
-
 ### Information Theory of Deep Learning
 * https://lilianweng.github.io/lil-log/2017/09/28/anatomize-deep-learning-with-information-theory.html
 * https://adityashrm21.github.io/Information-Theory-In-Deep-Learning/
-
-###
-* https://medium.com/bcggamma/an-ensemble-approach-to-large-scale-fuzzy-name-matching-b3e3fa124e3c
-
-### Latent Aspect Ratio Analysis (LARA) for CSAT
-* https://github.com/redris96/LARA
-* CSAT Key topics extraction and contextual sentiment of users’ reviews: https://tech.goibibo.com/key-topics-extraction-and-contextual-sentiment-of-users-reviews-20e63c0fd7ca
-
-### Data products
-* Designing great data products:The Drivetrain Approach - https://www.oreilly.com/radar/drivetrain-approach-data-products/
-* What do machine learning practitioners actually do? - https://www.fast.ai/2018/07/12/auto-ml-1/
-* From Predictive Modelling to Optimization: The Next Frontier: https://www.youtube.com/watch?v=vYrWTDxoeGg
-
-### Streamlit
-* Repository of Awesome streamlit apps: https://awesome-streamlit.org/
-* Summarizer and Named Entity Checker App with Streamlit and SpaCy: https://blog.jcharistech.com/2019/11/28/summarizer-and-named-entity-checker-app-with-streamlit-and-spacy/
 
 ### Bayesian Deep Learning
 * https://emtiyaz.github.io/
 * https://slideslive.com/38921489/deep-learning-with-bayesian-principles
 * (paper) https://emtiyaz.github.io/papers/learning_from_bayes.pdf
 
-### Kalman filters
+### Kalman Filters
 * http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/
 
 ### Geometric deep learning
@@ -578,49 +499,6 @@ https://towardsdatascience.com/predictive-customer-analytics-4064d881b649 (part 
 * Aerin Kim is a senior research engineer at Microsoft and writes about topics related to
 applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 * Matrices as tensor n/w diagrams: https://www.math3ma.com/blog/matrices-as-tensor-network-diagrams
-
-### programming environments
-* nbdev: https://www.fast.ai/2019/12/02/nbdev/
-* https://github.com/fastai/nbdev/
-
-### Dashboarding in jupyter notebook
-* Dashboarding with Jupyter Notebooks, Voila and Widgets: https://www.youtube.com/watch?v=VtchVpoSdoQ
-* Voila: https://voila.readthedocs.io/en/stable/index.html
-
-### this missing CS semester
-* https://missing.csail.mit.edu/
-
-### writing your own blog:
-* Blog: https://www.fast.ai/2020/01/16/fast_template/
-
-### Quantum Physics & Quantum computing
-* https://thenextweb.com/insights/2020/03/03/is-time-broken-physicists-filmed-a-quantum-measurement-but-the-moment-was-blurry/
-* Tracking the Dynamics of an Ideal Quantum Measurement: https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.124.080401
-* Quantum NLP: https://medium.com/cambridge-quantum-computing/quantum-natural-language-processing-748d6f27b31d
-
-### Information Retrieval, text search:
-* 101 ways to solve search: https://www.youtube.com/watch?v=VHm6_uC4vxM
-* BM25 - https://www.quora.com/How-does-BM25-work
-* Python library for BM25 - https://pypi.org/project/rank-bm25/
-* Building NLP text search system: https://towardsdatascience.com/building-a-sentence-embedding-index-with-fasttext-and-bm25-f07e7148d240
-* https://www.kaggle.com/davidmezzetti/cord-19-analysis-with-sentence-embeddings
-* Faiss is a library for efficient similarity search and clustering of dense vectors - https://github.com/facebookresearch/faiss
-* MILVUS: Open source vector similarity search engine: https://milvus.io/
-* Text similarity search with vector fields: https://www.elastic.co/blog/text-similarity-search-with-vectors-in-elasticsearch
-
-* Softcosine similarity paper: http://www.scielo.org.mx/pdf/cys/v18n3/v18n3a7.pdf
-* Text similarity using Softcosine similarity: https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/soft_cosine_tutorial.ipynb
-* Document Similarity Queries: https://radimrehurek.com/gensim/auto_examples/core/run_similarity_queries.html#sphx-glr-auto-examples-core-run-similarity-queries-py
-* Document Distance metrics: https://radimrehurek.com/gensim/auto_examples/tutorials/run_distance_metrics.html#sphx-glr-auto-examples-tutorials-run-distance-metrics-py
-* Similarity Queries with Annoy and Word2Vec: https://radimrehurek.com/gensim/auto_examples/tutorials/run_annoy.html#sphx-glr-auto-examples-tutorials-run-annoy-py
-* similarities.docsim – Document similarity queries: https://radimrehurek.com/gensim/similarities/docsim.html
-
-#### Longform Question Answering
-* https://yjernite.github.io/lfqa.html
-
-#### NLP spell correction:
-* https://norvig.com/spell-correct.html
-* https://nbviewer.jupyter.org/url/norvig.com/ipython/How%20to%20Do%20Things%20with%20Words.ipynb
 
 ### Multitask Learning (MTL)
 * An Overview of Multi-Task Learning in Deep Neural Networks: https://ruder.io/multi-task/
@@ -653,13 +531,124 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 * Software 2.0 and Data Programming: Lessons Learned, and What’s Next: http://hazyresearch.stanford.edu/software2
 * NLP Transfer learning Thesis (Sebastian Ruder): https://ruder.io/thesis/neural_transfer_learning_for_nlp.pdf
 
-#### Visual C++ build tools:
+--------------------------------------------------------------------------------------------------------------------
+## ML Engineering 
+
+### Docker
+* https://www.analyticsvidhya.com/blog/2017/11/reproducible-data-science-docker-for-data-science/
+* Docker for ML: https://pratos.github.io/2017-04-24/docker-for-data-science-part-1/
+* conceptual - introduction to VM's and Docker: https://medium.freecodecamp.org/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b
+* lighter docker images: https://medium.com/swlh/build-fast-deploy-faster-creating-lighter-docker-images-11540ce0db14
+
+### Spark
+* Why should one use spark for ML: https://www.infoworld.com/article/3031690/analytics/why-you-should-use-spark-for-machine-learning.html
+* Multi-Class Text Classification with PySpark: https://towardsdatascience.com/multi-class-text-classification-with-pyspark-7d78d022ed35
+
+### Advanced/Intermediate Python
+
+#### OOPS & others
+* Python OOP tutorial: https://www.youtube.com/watch?v=ZDa-Z5JzLYM
+* OOPS illustrated using ML example: https://dziganto.github.io/classes/data%20science/linear%20regression/machine%20learning/object-oriented%20programming/python/Understanding-Object-Oriented-Programming-Through-Machine-Learning/
+* vectorized string operations in Python(using pandas): https://jakevdp.github.io/PythonDataScienceHandbook/03.10-working-with-strings.html
+* Use YouTube as a Free Screencast Recorder: https://www.youtube.com/watch?v=0i9C8GpRedc
+* Parallel processing in Python: https://www.machinelearningplus.com/python/parallel-processing-python/
+* https://thispointer.com/5-different-ways-to-read-a-file-line-by-line-in-python/
+* https://www.learnpython.org/en/Map,_Filter,_Reduce
+* cytoolz: https://pypi.org/project/cytoolz/
+* https://cmdlinetips.com/2019/03/how-to-get-top-n-rows-with-in-each-group-in-pandas/
+* intermediate, tips for python: https://book.pythontips.com/en/latest/index.html
+
+##### writing better code for DS:
+* https://towardsdatascience.com/how-a-simple-mix-of-object-oriented-programming-can-sharpen-your-deep-learning-prototype-19893bd969bd
+* https://towardsdatascience.com/notes-on-software-construction-from-code-complete-8d2a8a959c69
+
+#### Generators
+* Jeff Knup's blog: 'Yield' and Generator Functions: https://jeffknupp.com/blog/2013/04/07/improve-your-python-yield-and-generators-explained/
+* Corey Schafer (YouTube video): Generator functions: https://www.youtube.com/watch?v=bD05uGo_sVI
+* Data streaming in Python: generators, iterators, iterables: https://rare-technologies.com/data-streaming-in-python-generators-iterators-iterables/
+* Python inheritance, multiple inheritance & operator overloading: https://www.programiz.com/python-programming/inheritance
+* Python Closure, Decorators & Python property: https://www.programiz.com/python-programming/closure
+* Inheritance and Composition: A Python OOP Guide: https://realpython.com/inheritance-composition-python/
+* Python’s super() considered super!: https://rhettinger.wordpress.com/2011/05/26/super-considered-super/
+* Dunder or magic methods in Python: https://rszalski.github.io/magicmethods/
+* intermediate python - https://realpython.com/intermediate-python/
+
+### Data products
+* Designing great data products:The Drivetrain Approach - https://www.oreilly.com/radar/drivetrain-approach-data-products/
+* What do machine learning practitioners actually do? - https://www.fast.ai/2018/07/12/auto-ml-1/
+* From Predictive Modelling to Optimization: The Next Frontier: https://www.youtube.com/watch?v=vYrWTDxoeGg
+
+### Architecture considerations
+* https://towardsdatascience.com/putting-ml-in-production-i-using-apache-kafka-in-python-ce06b3a395c8
+* https://towardsdatascience.com/putting-ml-in-production-ii-logging-and-monitoring-algorithms-91f174044e4e
+* https://towardsdatascience.com/getting-started-with-mlflow-52eff8c09c61
+* https://towardsdatascience.com/creating-a-solid-data-science-development-environment-60df14ce3a34
+* https://medium.com/bcggamma/an-ensemble-approach-to-large-scale-fuzzy-name-matching-b3e3fa124e3c
+* **DVC** version control for ML projects: https://dvc.org/
+* **papermill** :https://papermill.readthedocs.io/en/latest/
+* **Minimum Valuable Data Products**: From 0 to data science pipeline: https://www.youtube.com/watch?v=UZg45yRTzwo
+* **FastAPI**: https://github.com/tiangolo/fastapi
+* Fullstack DS 1: https://medium.com/applied-data-science/the-full-stack-data-scientist-part-1-productionise-your-models-with-django-apis-7799b893ce7c
+* Fullstack DS 2: https://medium.com/applied-data-science/the-full-stack-data-scientist-part-2-a-practical-introduction-to-docker-1ea932c89b57
+* Fullstack DS 3: https://medium.com/applied-data-science/a-case-for-interpretable-data-science-using-lime-to-reduce-bias-e44f48a95f75
+* Fullstack DS 4: https://medium.com/applied-data-science/the-full-stack-data-scientist-part-4-building-front-ends-in-streamlit-1c2903d4b1fe
+* **Fullstack Deep Learning**: https://course.fullstackdeeplearning.com/
+
+### Streamlit
+* Repository of Awesome streamlit apps: https://awesome-streamlit.org/
+* Summarizer and Named Entity Checker App with Streamlit and SpaCy: https://blog.jcharistech.com/2019/11/28/summarizer-and-named-entity-checker-app-with-streamlit-and-spacy/
+
+### programming environments
+* **nbdev**: https://www.fast.ai/2019/12/02/nbdev/
+* https://github.com/fastai/nbdev/
+
+### Dashboarding in jupyter notebook
+* Dashboarding with Jupyter Notebooks, **Voila and Widgets**: https://www.youtube.com/watch?v=VtchVpoSdoQ
+* **Voila**: https://voila.readthedocs.io/en/stable/index.html
+
+### The missing CS semester
+* https://missing.csail.mit.edu/
+
+### writing your own blog:
+* Blog: https://www.fast.ai/2020/01/16/fast_template/
+
+### Visual C++ build tools:
 * https://visualstudio.microsoft.com/downloads/ --> choose --> Build Tools for Visual Studio 2019 --> in the installer choose build tools --> choose win 10 SDK only
 
 ### Chatbots
 * Using voice to control a website with Amazon Alexa: https://blog.prototypr.io/using-voice-commands-to-control-a-website-with-amazon-echo-alexa-part-1-6-a35edbfef405
 * How to build a State-of-the-Art Conversational AI with Transfer Learning: https://medium.com/huggingface/how-to-build-a-state-of-the-art-conversational-ai-with-transfer-learning-2d818ac26313
 * How to build a State-of-the-Art Conversational AI with Transfer Learning (github link): https://github.com/huggingface/transfer-learning-conv-ai
+
+---------------------------------------------------------------------------------------------------------------
+
+### Open Datasets
+* https://skymind.ai/wiki/open-datasets
+* Chest X-ray data: https://www.kaggle.com/nih-chest-xrays
+
+
+
+### Customer Analytics
+https://towardsdatascience.com/predictive-customer-analytics-4064d881b649 (part 1)
+
+### Time Series
+* time series analysis in python: https://www.machinelearningplus.com/time-series/time-series-analysis-python/
+
+
+
+### Latent Aspect Ratio Analysis (LARA) for CSAT
+* https://github.com/redris96/LARA
+* CSAT Key topics extraction and contextual sentiment of users’ reviews: https://tech.goibibo.com/key-topics-extraction-and-contextual-sentiment-of-users-reviews-20e63c0fd7ca
+
+
+
+### Quantum Physics & Quantum computing
+* https://thenextweb.com/insights/2020/03/03/is-time-broken-physicists-filmed-a-quantum-measurement-but-the-moment-was-blurry/
+* Tracking the Dynamics of an Ideal Quantum Measurement: https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.124.080401
+* Quantum NLP: https://medium.com/cambridge-quantum-computing/quantum-natural-language-processing-748d6f27b31d
+
+
+
 
 ## References (business):
 * What is an ad impression: https://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html
