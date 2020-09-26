@@ -183,9 +183,11 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Text Anomaly Detection using Doc2Vec and cosine sim: https://medium.com/datadriveninvestor/unsupervised-outlier-detection-in-text-corpus-using-deep-learning-41d4284a04c8
 *  https://github.com/avisheknag17/public_ml_models/blob/master/outlier_detection_in_movie_plots_ann/notebook/movie_plots_outlier_detector.ipynb
 
-### Active Learning
+### Semi Supervised Learning & Active Learning
 * How Active Learning can help you train your models with less Data: https://towardsdatascience.com/how-active-learning-can-help-you-train-your-models-with-less-data-389da8a5f7ea
 * Active Learning Tutorial: https://towardsdatascience.com/active-learning-tutorial-57c3398e34d
+* From Research to Production with Deep Semi-Supervised Learning: https://medium.com/@nairvarun18/from-research-to-production-with-deep-semi-supervised-learning-7caaedc39093
+* semi supervised learning resources:https://madewithml.com/topics/semi-supervised-learning/
 
 ### Model Fracking and Concept Drift:
 * https://towardsdatascience.com/fracking-features-in-machine-learning-b8247626e582
