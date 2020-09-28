@@ -197,6 +197,8 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 
 ### Time Series
 * time series analysis in python: https://www.machinelearningplus.com/time-series/time-series-analysis-python/
+* Introduction to Machine Learning with Time Series | PyData Fest Amsterdam 2020: https://www.youtube.com/watch?v=Wf2naBHRo8Q&t=3831s
+* sktime: https://github.com/alan-turing-institute/sktime
 
 ### Open Datasets
 * https://skymind.ai/wiki/open-datasets
