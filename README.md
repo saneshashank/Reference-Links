@@ -407,6 +407,10 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * using USE + Keras: https://www.dlology.com/blog/keras-meets-universal-sentence-encoder-transfer-learning-for-text-data/
 * NLP as service: Project Insight: https://github.com/abhimishra91/insight
 
+### Text Data Augmentation
+* Adapting Text Augmentation to Industry problems: https://gitlost-murali.github.io/blogs/nlp/augmentation/exploiting-contextual-models-for-data
+* A Visual Survey of Data Augmentation in NLP: https://amitness.com/2020/05/data-augmentation-for-nlp/
+
 -------------------------------------------------------------------------------------------
 
 ## Advanced Topics
