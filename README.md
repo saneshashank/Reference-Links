@@ -483,6 +483,7 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * https://simoninithomas.github.io/Deep_reinforcement_learning_Course/#
 * Off-Policy Monte Carlo Control: https://cs.wmich.edu/~trenary/files/cs5300/RLBook/node56.html
 * https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/
+* Reinforcement Learning Course: https://simoninithomas.github.io/deep-rl-course/
 
 ### PGM/ Causal Inference in ML
 * Using Deep Neural Network Approximate Bayesian Network: https://arxiv.org/pdf/1801.00282.pdf
