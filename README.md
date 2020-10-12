@@ -543,6 +543,7 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 * Introduction to Semantic Parsing (SippyCup): https://nbviewer.jupyter.org/github/wcmac/sippycup/blob/master/sippycup-unit-0.ipynb
 * Using Snorkel for Multilabel classification: https://towardsdatascience.com/using-snorkel-for-multi-label-annotation-cc2aa217986a
 * MixMatch: A Holistic Approach to Semi-Supervised Learning: https://arxiv.org/abs/1905.02249
+* Human Learn (humans in the loop ML): https://koaning.github.io/human-learn/
 
 ### Future research topics
 * self supervised learning - https://thenextweb.com/neural/2020/04/05/self-supervised-learning-is-the-future-of-ai-syndication/
@@ -657,4 +658,5 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 ### MWL - Made with ML
 * Your one-stop platform to explore, learn and build all things
 machine learning: https://madewithml.com/
+* https://calmcode.io/
 
