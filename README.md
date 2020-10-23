@@ -677,9 +677,13 @@ https://www.datarevenue.com/en-blog/pandas-vs-dask-vs-vaex-vs-modin-vs-rapids-vs
 * Predictive Customer Analytics (Good overview of CSAT solution): https://towardsdatascience.com/predictive-customer-analytics-4064d881b649 (part 1)
 * Latent Aspect Ratio Analysis (LARA) for CSAT: https://github.com/redris96/LARA
 * CSAT Key topics extraction and contextual sentiment of users’ reviews: https://tech.goibibo.com/key-topics-extraction-and-contextual-sentiment-of-users-reviews-20e63c0fd7ca
+* Predicting Parts required in Field Service Industry: https://medium.com/analytics-vidhya/parts-prediction-given-the-problem-description-6767c3d7e8ed
+(https://github.com/navraj28/OSPPre)
+* Graph of Google Query (Can be used in Market Research): https://anvaka.github.io/vs/?query=
 
-### MWL - Made with ML
-* Your one-stop platform to explore, learn and build all things
-machine learning: https://madewithml.com/
-* https://calmcode.io/
+### Some good sites to follow
+* MWL (Made with ML): Your one-stop platform to explore, learn and build all things machine learning: https://madewithml.com/
+* Code Calmly: https://calmcode.io/
+* Practical Business Python: https://pbpython.com/
+* Sebastian Ruder (NLP Research): https://ruder.io/
 
