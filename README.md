@@ -653,7 +653,14 @@ https://www.datarevenue.com/en-blog/pandas-vs-dask-vs-vaex-vs-modin-vs-rapids-vs
 * value error while using modin: https://github.com/modin-project/modin/issues/872
 * DataFrame._to_pandas() to convert modin dataframe to pandas
 
+#### Dask
+* Dask Overview (Why Dask): https://docs.google.com/presentation/d/e/2PACX-1vSTH2kAR0DCR0nw8pFBe5kuYbOk3inZ9cQfZbzOIRjyzQoVaOoMfI2JONGBz-qsvG_P6g050ddHxSXT/pub?start=false&loop=false&delayms=60000&slide=id.p
+* Difference b/w Dask & Spark: https://docs.dask.org/en/latest/spark.html
 
+#### Prefect
+* Prefect: https://docs.prefect.io/core/getting_started/first-steps.html
+* Complete Prefect Tutorial: https://docs.prefect.io/core/tutorial/01-etl-before-prefect.html
+* Why Prefect (Why not Airflow ?): https://docs.prefect.io/core/getting_started/why-not-airflow.html#overview
 
 ---------------------------------------------------------------------------------------------------------------
 
