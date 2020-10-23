@@ -59,6 +59,7 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * **Extra Tree Classifier**- difference b/w extra tree classifier and random forest:https://www.thekerneltrip.com/statistics/random-forest-vs-extra-tree/
 * parametric and non-parametric ml methods: https://machinelearningmastery.com/parametric-and-nonparametric-machine-learning-algorithms/
 * Stability Selection vs RFE (Recursive Feature Elimination): http://blog.datadive.net/selecting-good-features-part-iv-stability-selection-rfe-and-everything-side-by-side/
+* **Modern Pandas**: https://tomaugspurger.github.io/modern-1-intro.html
 
 ### Feature Scaling
 * Standardisation vs Normalization:  https://stackoverflow.com/questions/32108179/linear-regression-normalization-vs-standardization
@@ -358,6 +359,8 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 ### NLG
 * NLG using markovify: https://github.com/jsvine/markovify
 * training bot to comment on current affairs: https://www.kaggle.com/aashita/training-a-bot-to-comment-on-current-affairs
+* Template based NLG: gramex-NLG: https://github.com/gramener/gramex-nlg
+* gramex NLG notebook: https://github.com/gramener/gramex-nlg/blob/dev/examples/intro-narrative-api.ipynb
 
 ### EVT
 * Reducing Uncertainty in Document Classification with Extreme Value Theory: https://medium.com/cognigo/reducing-uncertainty-in-document-classification-with-extreme-value-theory-97508ebd76f
@@ -559,9 +562,6 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 * conceptual - introduction to VM's and Docker: https://medium.freecodecamp.org/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b
 * lighter docker images: https://medium.com/swlh/build-fast-deploy-faster-creating-lighter-docker-images-11540ce0db14
 
-### Spark
-* Why should one use spark for ML: https://www.infoworld.com/article/3031690/analytics/why-you-should-use-spark-for-machine-learning.html
-* Multi-Class Text Classification with PySpark: https://towardsdatascience.com/multi-class-text-classification-with-pyspark-7d78d022ed35
 
 ### Advanced/Intermediate Python
 
@@ -638,6 +638,22 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 * Using voice to control a website with Amazon Alexa: https://blog.prototypr.io/using-voice-commands-to-control-a-website-with-amazon-echo-alexa-part-1-6-a35edbfef405
 * How to build a State-of-the-Art Conversational AI with Transfer Learning: https://medium.com/huggingface/how-to-build-a-state-of-the-art-conversational-ai-with-transfer-learning-2d818ac26313
 * How to build a State-of-the-Art Conversational AI with Transfer Learning (github link): https://github.com/huggingface/transfer-learning-conv-ai
+
+### Scaling ML projects:
+
+#### Spark
+* Why should one use spark for ML: https://www.infoworld.com/article/3031690/analytics/why-you-should-use-spark-for-machine-learning.html
+* Multi-Class Text Classification with PySpark: https://towardsdatascience.com/multi-class-text-classification-with-pyspark-7d78d022ed35
+
+#### Scaling Pandas: Comparing Dask, Ray, Modin, Vaex, and RAPIDS
+https://www.datarevenue.com/en-blog/pandas-vs-dask-vs-vaex-vs-modin-vs-rapids-vs-ray
+
+#### Modin
+* Increase pandas speed 4x using modin (also contains comparison b/w pandas & modin - cases where pandas is actually better!!): https://www.kdnuggets.com/2019/11/speed-up-pandas-4x.html
+* value error while using modin: https://github.com/modin-project/modin/issues/872
+* DataFrame._to_pandas() to convert modin dataframe to pandas
+
+
 
 ---------------------------------------------------------------------------------------------------------------
 
