@@ -392,8 +392,12 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * https://yjernite.github.io/lfqa.html
 
 #### NLP spell correction:
-* https://norvig.com/spell-correct.html
-* https://nbviewer.jupyter.org/url/norvig.com/ipython/How%20to%20Do%20Things%20with%20Words.ipynb
+* Norvig's spell corrector: https://norvig.com/spell-correct.html
+* Norvig's spell corrector (notebook):https://nbviewer.jupyter.org/url/norvig.com/ipython/How%20to%20Do%20Things%20with%20Words.ipynb
+* 1000x faster Spelling Correction: https://towardsdatascience.com/symspellcompound-10ec8f467c9b
+* pyspellchecker: https://pypi.org/project/pyspellchecker/
+* The Unreasonable Effectiveness of the Transformer Spell Checker:http://www.realworldnlpbook.com/blog/  (https://github.com/mhagiwara/xfspell)
+
 
 #### Transfer learning in NLP:
 * BERT: https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
@@ -686,4 +690,5 @@ https://www.datarevenue.com/en-blog/pandas-vs-dask-vs-vaex-vs-modin-vs-rapids-vs
 * Code Calmly: https://calmcode.io/
 * Practical Business Python: https://pbpython.com/
 * Sebastian Ruder (NLP Research): https://ruder.io/
+* Putting ML in Prod: https://madewithml.com/courses/putting-ml-in-production/#lessons
 
