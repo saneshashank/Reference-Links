@@ -666,6 +666,15 @@ https://www.datarevenue.com/en-blog/pandas-vs-dask-vs-vaex-vs-modin-vs-rapids-vs
 * Complete Prefect Tutorial: https://docs.prefect.io/core/tutorial/01-etl-before-prefect.html
 * Why Prefect (Why not Airflow ?): https://docs.prefect.io/core/getting_started/why-not-airflow.html#overview
 
+### Project Structure
+* Manage your Data Science project structure in early stage: https://towardsdatascience.com/manage-your-data-science-project-structure-in-early-stage-95f91d4d0600
+* Productionizing NLP Models: https://medium.com/modern-nlp/productionizing-nlp-models-9a2b8a0c7d14
+* Hypermodern Python: https://cjolowicz.github.io/posts/hypermodern-python-01-setup/
+* Hypermodern python template: https://github.com/cjolowicz/cookiecutter-hypermodern-python
+* Cookiecutter ds template: https://github.com/drivendata/cookiecutter-data-science
+* Cookiecutter (creating project templates): https://github.com/cookiecutter/cookiecutter
+
+
 ---------------------------------------------------------------------------------------------------------------
 
 ## References (Usecase specific applications):
