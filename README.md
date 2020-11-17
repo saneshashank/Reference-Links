@@ -595,6 +595,8 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 * Python’s super() considered super!: https://rhettinger.wordpress.com/2011/05/26/super-considered-super/
 * Dunder or magic methods in Python: https://rszalski.github.io/magicmethods/
 * intermediate python - https://realpython.com/intermediate-python/
+* What Does It Take To Be An Expert At Python?:https://www.youtube.com/watch?v=7lmCu8wz8ro&list=FLAKjydk4USm6YWYdxcdzjoA&index=18&t=138s
+(notebook: https://github.com/saneshashank/code-vault/blob/master/python_expert_notebook.ipynb)
 
 ### Data products
 * Designing great data products:The Drivetrain Approach - https://www.oreilly.com/radar/drivetrain-approach-data-products/
