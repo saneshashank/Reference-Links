@@ -627,6 +627,18 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 * **nbdev**: https://www.fast.ai/2019/12/02/nbdev/
 * https://github.com/fastai/nbdev/
 
+* Additional steps for nbdev on Windows 10 (so that `make docs_serve` command runs and documentation is visible locally)
+- Install MinGW (for make command to be run):http://www.mingw.org/wiki/getting_started (download mingw-get-setup.exe and follow default instructions)
+- In C:\MinGW\bin locatio rename mingw32-make.exe to make.exe
+- Add path C:\MinGW\bin to system path variable 
+(https://stackoverflow.com/questions/23723364/windows-7-make-is-not-recognized-as-an-internal-or-external-command-operabl)
+
+- Install Ruby: https://rubyinstaller.org/
+- Install the jekyll and bundler gems:`gem install jekyll bundler`
+- go into the docs folder `S:\deck_of_cards\docs` (in this folder you will find the `Gem and run the following command: `bundle install`
+
+That's it this will complete setup, now `make docs_serve` can be run
+
 ### Dashboarding in jupyter notebook
 * Dashboarding with Jupyter Notebooks, **Voila and Widgets**: https://www.youtube.com/watch?v=VtchVpoSdoQ
 * **Voila**: https://voila.readthedocs.io/en/stable/index.html
