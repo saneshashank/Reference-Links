@@ -612,7 +612,11 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 * **DVC** version control for ML projects: https://dvc.org/
 * **papermill** :https://papermill.readthedocs.io/en/latest/
 * **Minimum Valuable Data Products**: From 0 to data science pipeline: https://www.youtube.com/watch?v=UZg45yRTzwo
+
 * **FastAPI**: https://github.com/tiangolo/fastapi
+* Serve a machine learning model using Sklearn, FastAPI and Docker: https://medium.com/analytics-vidhya/serve-a-machine-learning-model-using-sklearn-fastapi-and-docker-85aabf96729b
+* Deploying Machine Learning Models with FastAPI and Angular: https://rubikscode.net/2020/11/23/deploying-machine-learning-models-with-fastapi-and-angular/
+
 * Fullstack DS 1: https://medium.com/applied-data-science/the-full-stack-data-scientist-part-1-productionise-your-models-with-django-apis-7799b893ce7c
 * Fullstack DS 2: https://medium.com/applied-data-science/the-full-stack-data-scientist-part-2-a-practical-introduction-to-docker-1ea932c89b57
 * Fullstack DS 3: https://medium.com/applied-data-science/a-case-for-interpretable-data-science-using-lime-to-reduce-bias-e44f48a95f75
@@ -626,6 +630,8 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 ### programming environments
 * **nbdev**: https://www.fast.ai/2019/12/02/nbdev/
 * https://github.com/fastai/nbdev/
+* https://medium.com/overstoryai/how-nbdev-helps-us-structure-our-data-science-workflow-in-jupyter-notebooks-9cf6081b051f
+* How to use Jupyter Notebooks in 2020 (Part 2: Ecosystem growth): https://ljvmiranda921.github.io/notebook/2020/03/16/jupyter-notebooks-in-2020-part-2/
 
 ##### Additional steps for nbdev on Windows 10 (so that `make docs_serve` command runs and documentation is visible locally)
 
