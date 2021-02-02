@@ -204,6 +204,8 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 ### Open Datasets
 * https://skymind.ai/wiki/open-datasets
 * Chest X-ray data: https://www.kaggle.com/nih-chest-xrays
+* common crawl data (massive): https://commoncrawl.org/
+* comcrawl: is a python package for easily querying and downloading pages from commoncrawl.org:https://github.com/michaelharms/comcrawl
 
 ### XGBoost Installation:
 * check you python version - by opening CMD and typing python -> ENTER
