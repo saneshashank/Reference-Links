@@ -720,6 +720,7 @@ https://www.datarevenue.com/en-blog/pandas-vs-dask-vs-vaex-vs-modin-vs-rapids-vs
 * Predicting Parts required in Field Service Industry: https://medium.com/analytics-vidhya/parts-prediction-given-the-problem-description-6767c3d7e8ed
 (https://github.com/navraj28/OSPPre)
 * Graph of Google Query (Can be used in Market Research): https://anvaka.github.io/vs/?query=
+* Machine learning for predictive maintenance: where to start?:https://medium.com/bigdatarepublic/machine-learning-for-predictive-maintenance-where-to-start-5f3b7586acfb
 
 ### Some good sites to follow
 * MWL (Made with ML): Your one-stop platform to explore, learn and build all things machine learning: https://madewithml.com/
