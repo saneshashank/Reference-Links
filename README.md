@@ -618,6 +618,7 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 * **FastAPI**: https://github.com/tiangolo/fastapi
 * Serve a machine learning model using Sklearn, FastAPI and Docker: https://medium.com/analytics-vidhya/serve-a-machine-learning-model-using-sklearn-fastapi-and-docker-85aabf96729b
 * Deploying Machine Learning Models with FastAPI and Angular: https://rubikscode.net/2020/11/23/deploying-machine-learning-models-with-fastapi-and-angular/
+* FastAPI Video Tutorial: https://www.youtube.com/watch?v=Fzdn_ZovZUY&list=PL5gdMNl42qynpY-o43Jk3evfxEKSts3HS
 
 * Fullstack DS 1: https://medium.com/applied-data-science/the-full-stack-data-scientist-part-1-productionise-your-models-with-django-apis-7799b893ce7c
 * Fullstack DS 2: https://medium.com/applied-data-science/the-full-stack-data-scientist-part-2-a-practical-introduction-to-docker-1ea932c89b57
