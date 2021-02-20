@@ -435,6 +435,8 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * KG pipeline: https://towardsdatascience.com/conceptualizing-the-knowledge-graph-construction-pipeline-33edb25ab831
 * Graph Data Base: Neo4j - https://neo4j.com/
 * (Good Summary of resources 2020) https://dzone.com/articles/knowledge-graphs-power-scientific-research-and-bus
+* From Text to Knowledge: The Information Extraction Pipeline: https://towardsdatascience.com/from-text-to-knowledge-the-information-extraction-pipeline-b65e7e30273e
+* KG code notebooks from above author:https://github.com/tomasonjo/blogs
 
 #### Deep Learning and Graphs:
 * Graph Neural Networks an Overview: https://towardsdatascience.com/graph-neural-networks-an-overview-dfd363b6ef87
@@ -722,6 +724,8 @@ https://www.datarevenue.com/en-blog/pandas-vs-dask-vs-vaex-vs-modin-vs-rapids-vs
 (https://github.com/navraj28/OSPPre)
 * Graph of Google Query (Can be used in Market Research): https://anvaka.github.io/vs/?query=
 * Machine learning for predictive maintenance: where to start?:https://medium.com/bigdatarepublic/machine-learning-for-predictive-maintenance-where-to-start-5f3b7586acfb
+* machine failure prediction dataset: https://www.kaggle.com/c/machine-failure-prediction/data
+* Making sense of news — the knowledge graph way: https://medium.com/neo4j/making-sense-of-news-the-knowledge-graph-way-d33810ce5005
 
 ### Some good sites to follow
 * MWL (Made with ML): Your one-stop platform to explore, learn and build all things machine learning: https://madewithml.com/
