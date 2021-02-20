@@ -353,6 +353,7 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Python Keyphrase Extraction library: https://github.com/boudinfl/pke
 * YAKE (paper): https://www.sciencedirect.com/science/article/abs/pii/S0020025519308588?via%3Dihub
 * KeyBERT: keyphrase extraction using BERT extracting phrases most similar to document: https://github.com/MaartenGr/keyBERT
+* Self-supervised Contextual Keyword and Keyphrase Retrieval with Self-Labelling: https://www.preprints.org/manuscript/201908.0073/download/final_file
 
 ### Gensim
 * introduction to gensim: https://www.machinelearningplus.com/nlp/gensim-tutorial/
