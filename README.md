@@ -738,4 +738,5 @@ https://www.datarevenue.com/en-blog/pandas-vs-dask-vs-vaex-vs-modin-vs-rapids-vs
 * Sebastian Ruder (NLP Research): https://ruder.io/
 * Putting ML in Prod: https://madewithml.com/courses/putting-ml-in-production/#lessons
 * https://www.pratik.ai/
+* https://www.datarevenue.com/en-blog
 
