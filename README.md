@@ -346,10 +346,13 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 ### Text Summarization:
 * https://becominghuman.ai/text-summarization-in-5-steps-using-nltk-65b21e352b65
 
-### keyword-phrase extraction
+### keyword-phrase extraction/keyphrase extraction/phrase extraction
 * Intro to Automatic Keyphrase Extraction: https://bdewilde.github.io/blog/2014/09/23/intro-to-automatic-keyphrase-extraction/
 * Beyond bag of words: Using PyTextRank to find Phrases and Summarize text: https://medium.com/@aneesha/beyond-bag-of-words-using-pytextrank-to-find-phrases-and-summarize-text-f736fa3773c5
 * NLP keyword extraction tutorial with RAKE and Maui: https://www.airpair.com/nlp/keyword-extraction-tutorial
+* Python Keyphrase Extraction library: https://github.com/boudinfl/pke
+* YAKE (paper): https://www.sciencedirect.com/science/article/abs/pii/S0020025519308588?via%3Dihub
+* KeyBERT: keyphrase extraction using BERT extracting phrases most similar to document: https://github.com/MaartenGr/keyBERT
 
 ### Gensim
 * introduction to gensim: https://www.machinelearningplus.com/nlp/gensim-tutorial/
