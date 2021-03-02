@@ -442,6 +442,12 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * From Text to Knowledge: The Information Extraction Pipeline: https://towardsdatascience.com/from-text-to-knowledge-the-information-extraction-pipeline-b65e7e30273e
 * KG code notebooks from above author:https://github.com/tomasonjo/blogs
 
+* grakn graph database: https://grakn.ai/
+* KGCNs - Knowledge Graph Convolutional Networks:https://github.com/graknlabs/kglib/tree/master/kglib/kgcn
+* Introduction to Knowledge Graphs: https://www.youtube.com/watch?v=bCxpNNzbz8M
+* KGCN | Knowledge Graph Convolutional Networks - Machine Learning over a Knowledge Graph: https://www.youtube.com/watch?v=JlcGfwb6CDE
+
+
 #### Deep Learning and Graphs:
 * Graph Neural Networks an Overview: https://towardsdatascience.com/graph-neural-networks-an-overview-dfd363b6ef87
 * Deep Graph Library: https://www.dgl.ai/
