@@ -174,6 +174,7 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * interpretable ML book: https://christophm.github.io/interpretable-ml-book/
 * Interpretable Machine Learning - Christoph Molnar: https://www.youtube.com/watch?v=0LIACHcxpHU
 * AI Fairness 360: This extensible open source toolkit can help you examine, report, and mitigate discrimination and bias in machine learning models throughout the AI application lifecycle: http://aif360.mybluemix.net/
+* ML Interpretability: SHAP/LIME: https://www.youtube.com/watch?v=jhopjN08lTM&t=730s
 
 ### Anomaly Detection
 * Note on anomaly detection: https://towardsdatascience.com/a-note-about-finding-anomalies-f9cedee38f0b
