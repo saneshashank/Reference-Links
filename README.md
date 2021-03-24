@@ -169,9 +169,11 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * https://towardsdatascience.com/design-your-engineering-experiment-plan-with-a-simple-python-command-35a6ba52fa35
 * https://pythonhosted.org/pyDOE/
 
-### Model Explainibility/Interpretable ML
+### Model Explainibility/Interpretable ML/ Fairness in AI/ Responsible AI
 * ELI5 - TextExplainer: debugging black-box text classifiers: https://eli5.readthedocs.io/en/latest/tutorials/black-box-text-classifiers.html
 * interpretable ML book: https://christophm.github.io/interpretable-ml-book/
+* Interpretable Machine Learning - Christoph Molnar: https://www.youtube.com/watch?v=0LIACHcxpHU
+* AI Fairness 360: This extensible open source toolkit can help you examine, report, and mitigate discrimination and bias in machine learning models throughout the AI application lifecycle: http://aif360.mybluemix.net/
 
 ### Anomaly Detection
 * Note on anomaly detection: https://towardsdatascience.com/a-note-about-finding-anomalies-f9cedee38f0b
