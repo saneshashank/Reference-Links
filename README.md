@@ -570,10 +570,14 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 * MixMatch: A Holistic Approach to Semi-Supervised Learning: https://arxiv.org/abs/1905.02249
 * Human Learn (humans in the loop ML): https://koaning.github.io/human-learn/
 
+* Vincent Warmerdam - Playing by the Rules-Based-Systems: https://www.youtube.com/watch?v=nJAmN6gWdK8
+
 ### Future research topics
 * self supervised learning - https://thenextweb.com/neural/2020/04/05/self-supervised-learning-is-the-future-of-ai-syndication/
 * Software 2.0 and Data Programming: Lessons Learned, and What’s Next: http://hazyresearch.stanford.edu/software2
 * NLP Transfer learning Thesis (Sebastian Ruder): https://ruder.io/thesis/neural_transfer_learning_for_nlp.pdf
+* Mixture Density Networks: https://towardsdatascience.com/a-hitchhikers-guide-to-mixture-density-networks-76b435826cca
+* Vincent Warmerdam: Gaussian Progress: https://www.youtube.com/watch?v=aICqoAG5BXQ&t=738s
 
 --------------------------------------------------------------------------------------------------------------------
 ## ML Engineering 
