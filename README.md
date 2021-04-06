@@ -571,6 +571,10 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 * Human Learn (humans in the loop ML): https://koaning.github.io/human-learn/
 
 * Vincent Warmerdam - Playing by the Rules-Based-Systems: https://www.youtube.com/watch?v=nJAmN6gWdK8
+* Intro to Data Slicing (Slicing functions paradigm): https://www.snorkel.org/use-cases/03-spam-data-slicing-tutorial
+* (SliciClassifier code): https://github.com/snorkel-team/snorkel/tree/master/snorkel/slicing
+* Slice-based Learning: A Programming Model for Residual Learning in Critical Data Slices: https://arxiv.org/pdf/1909.06349.pdf
+* Crowdsourcing label generalization using Snorkel: https://www.snorkel.org/use-cases/crowdsourcing-tutorial
 
 ### Future research topics
 * self supervised learning - https://thenextweb.com/neural/2020/04/05/self-supervised-learning-is-the-future-of-ai-syndication/
@@ -593,6 +597,7 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 
 #### OOPS & others
 * Python OOP tutorial: https://www.youtube.com/watch?v=ZDa-Z5JzLYM
+* Python 10 mins a day: https://python-10-minutes-a-day.rocks/
 * OOPS illustrated using ML example: https://dziganto.github.io/classes/data%20science/linear%20regression/machine%20learning/object-oriented%20programming/python/Understanding-Object-Oriented-Programming-Through-Machine-Learning/
 * vectorized string operations in Python(using pandas): https://jakevdp.github.io/PythonDataScienceHandbook/03.10-working-with-strings.html
 * Use YouTube as a Free Screencast Recorder: https://www.youtube.com/watch?v=0i9C8GpRedc
@@ -753,4 +758,7 @@ https://www.datarevenue.com/en-blog/pandas-vs-dask-vs-vaex-vs-modin-vs-rapids-vs
 * Putting ML in Prod: https://madewithml.com/courses/putting-ml-in-production/#lessons
 * https://www.pratik.ai/
 * https://www.datarevenue.com/en-blog
+* (Vincent Warmerdam's site ) https://koaning.io/
+* Algorithm Whiteboard: https://www.youtube.com/playlist?list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb
+
 
