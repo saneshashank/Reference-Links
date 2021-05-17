@@ -176,6 +176,12 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * AI Fairness 360: This extensible open source toolkit can help you examine, report, and mitigate discrimination and bias in machine learning models throughout the AI application lifecycle: http://aif360.mybluemix.net/
 * ML Interpretability: SHAP/LIME: https://www.youtube.com/watch?v=jhopjN08lTM&t=730s
 * Fairness using sklearn-lego: https://scikit-lego.readthedocs.io/en/latest/fairness.html
+* Introducing Transformers Interpret — Explainable AI for Transformers: https://towardsdatascience.com/introducing-transformers-interpret-explainable-ai-for-transformers-890a403a9470
+* Model Interpretability for PyTorch: https://captum.ai/
+* Interfaces for Explaining Transformer Language Models:https://jalammar.github.io/explaining-transformers/
+* Alibi Explain: https://docs.seldon.io/projects/alibi/en/latest/index.html
+* Trust Scores: https://docs.seldon.io/projects/alibi/en/latest/methods/TrustScores.html
+* 
 
 ### Anomaly Detection
 * Note on anomaly detection: https://towardsdatascience.com/a-note-about-finding-anomalies-f9cedee38f0b
