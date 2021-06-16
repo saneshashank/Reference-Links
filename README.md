@@ -488,6 +488,15 @@ https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-li
 * Titanic survivors using RBF: https://medium.com/datadriveninvestor/building-radial-basis-function-network-with-keras-estimating-survivors-of-titanic-a06c2359c5d9
 * Custom RBF Keras Layer: https://github.com/PetraVidnerova/rbf_keras
 
+#### Graph Neural Networks (GNN) good resources
+* CS224W: Machine Learning with Graphs: https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn
+* CS224W: Machine Learning with Graphs (Home Page): http://web.stanford.edu/class/cs224w/
+
+* Colab notebook references (introduction): https://colab.research.google.com/drive/1h3-vJGRVloF5zStxL5I0rSy4ZUPNsjy8?usp=sharing#scrollTo=H_VTFHd0uFz6
+* Node Classification: https://colab.research.google.com/drive/14OvFnAXggxB8vM4e8vSURUp1TaKnovzX 
+* Graph Classification: https://colab.research.google.com/drive/1I8a0DfQ3fI7Njc62__mVXUlcAleUclnb
+* Scaling Graph Neural Networks: https://colab.research.google.com/drive/1XAjcjRHrSR_ypCk_feIWFbcBKyT4Lirs#scrollTo=KDy46FIQ6OWN
+
 ### Probabilistic programming in tensorflow
 * paper: https://arxiv.org/pdf/1711.10604.pdf
 * https://medium.com/tensorflow/introducing-tensorflow-probability-dca4c304e245
