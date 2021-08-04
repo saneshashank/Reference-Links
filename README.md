@@ -606,6 +606,8 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 * Docker for ML: https://pratos.github.io/2017-04-24/docker-for-data-science-part-1/
 * conceptual - introduction to VM's and Docker: https://medium.freecodecamp.org/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b
 * lighter docker images: https://medium.com/swlh/build-fast-deploy-faster-creating-lighter-docker-images-11540ce0db14
+* How to reduce Python docker image size: https://stackoverflow.com/questions/48543834/how-do-i-reduce-a-python-docker-image-size-using-a-multi-stage-build
+* Docker Multi-stage builds for Python: https://pythonspeed.com/articles/multi-stage-docker-python/
 
 
 ### Advanced/Intermediate Python
