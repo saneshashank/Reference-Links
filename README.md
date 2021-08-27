@@ -777,5 +777,6 @@ https://www.datarevenue.com/en-blog/pandas-vs-dask-vs-vaex-vs-modin-vs-rapids-vs
 * https://www.datarevenue.com/en-blog
 * (Vincent Warmerdam's site ) https://koaning.io/
 * Algorithm Whiteboard: https://www.youtube.com/playlist?list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb
+* labml.ai Annotated PyTorch Paper Implementations: https://nn.labml.ai/
 
 
