@@ -624,6 +624,9 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 * cytoolz: https://pypi.org/project/cytoolz/
 * https://cmdlinetips.com/2019/03/how-to-get-top-n-rows-with-in-each-group-in-pandas/
 * intermediate, tips for python: https://book.pythontips.com/en/latest/index.html
+* Logging best practices: https://tutorialedge.net/python/python-logging-best-practices/
+*  Logging best practices: https://coralogix.com/blog/python-logging-best-practices-tips/
+*  logging cookbook: https://docs.python.org/3/howto/logging-cookbook.html
 
 ##### writing better code for DS:
 * https://towardsdatascience.com/how-a-simple-mix-of-object-oriented-programming-can-sharpen-your-deep-learning-prototype-19893bd969bd
