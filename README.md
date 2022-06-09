@@ -734,6 +734,9 @@ https://www.datarevenue.com/en-blog/pandas-vs-dask-vs-vaex-vs-modin-vs-rapids-vs
 * Dask Overview (Why Dask): https://docs.google.com/presentation/d/e/2PACX-1vSTH2kAR0DCR0nw8pFBe5kuYbOk3inZ9cQfZbzOIRjyzQoVaOoMfI2JONGBz-qsvG_P6g050ddHxSXT/pub?start=false&loop=false&delayms=60000&slide=id.p
 * Difference b/w Dask & Spark: https://docs.dask.org/en/latest/spark.html
 
+#### Ray
+* Tips & Tricks for first time Ray users: https://rise.cs.berkeley.edu/blog/ray-tips-for-first-time-users/
+
 #### Prefect
 * Prefect: https://docs.prefect.io/core/getting_started/first-steps.html
 * Complete Prefect Tutorial: https://docs.prefect.io/core/tutorial/01-etl-before-prefect.html
