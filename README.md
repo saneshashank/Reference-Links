@@ -591,6 +591,11 @@ applied Math and deep learning: https://towardsdatascience.com/@aerinykim
 * Slice-based Learning: A Programming Model for Residual Learning in Critical Data Slices: https://arxiv.org/pdf/1909.06349.pdf
 * Crowdsourcing label generalization using Snorkel: https://www.snorkel.org/use-cases/crowdsourcing-tutorial
 
+### AutoML
+* AutoML org: https://www.automl.org/book/
+* AutoML free course: https://ki-campus.org/courses/automl-luh2021
+* Deep Learning 2.0: How Bayesian Optimization May Power the Next Generation of DL by Frank Hutter: https://www.youtube.com/watch?v=LPFPp7594Zc&t=49s
+
 ### Future research topics
 * self supervised learning - https://thenextweb.com/neural/2020/04/05/self-supervised-learning-is-the-future-of-ai-syndication/
 * Software 2.0 and Data Programming: Lessons Learned, and What’s Next: http://hazyresearch.stanford.edu/software2
