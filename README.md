@@ -789,5 +789,7 @@ https://www.datarevenue.com/en-blog/pandas-vs-dask-vs-vaex-vs-modin-vs-rapids-vs
 * (Vincent Warmerdam's site ) https://koaning.io/
 * Algorithm Whiteboard: https://www.youtube.com/playlist?list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb
 * labml.ai Annotated PyTorch Paper Implementations: https://nn.labml.ai/
+* Chip Huyen (Designing ML systems): https://github.com/chiphuyen
+* Lillian weng blog: https://lilianweng.github.io/
 
 
