@@ -755,6 +755,9 @@ https://www.datarevenue.com/en-blog/pandas-vs-dask-vs-vaex-vs-modin-vs-rapids-vs
 * Cookiecutter ds template: https://github.com/drivendata/cookiecutter-data-science
 * Cookiecutter (creating project templates): https://github.com/cookiecutter/cookiecutter
 
+### MLOPs
+* Components of a Production ML System Using Only Python: https://towardsdatascience.com/a-simple-mlops-pipeline-on-your-local-machine-db9326addf31
+* Video Link for above: https://www.youtube.com/watch?v=VMj-3S1tku0&t=129s
 
 ---------------------------------------------------------------------------------------------------------------
 
