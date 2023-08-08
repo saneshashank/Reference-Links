@@ -759,6 +759,8 @@ https://www.datarevenue.com/en-blog/pandas-vs-dask-vs-vaex-vs-modin-vs-rapids-vs
 * Components of a Production ML System Using Only Python: https://towardsdatascience.com/a-simple-mlops-pipeline-on-your-local-machine-db9326addf31
 * Video Link for above: https://www.youtube.com/watch?v=VMj-3S1tku0&t=129s
 
+### Machine Learning Design Patterns
+* Design Patterns in Machine Learning Code and Systems: https://eugeneyan.com/writing/design-patterns/
 ---------------------------------------------------------------------------------------------------------------
 
 ## References (Usecase specific applications):
@@ -794,5 +796,6 @@ https://www.datarevenue.com/en-blog/pandas-vs-dask-vs-vaex-vs-modin-vs-rapids-vs
 * labml.ai Annotated PyTorch Paper Implementations: https://nn.labml.ai/
 * Chip Huyen (Designing ML systems): https://github.com/chiphuyen
 * Lillian weng blog: https://lilianweng.github.io/
+* eugeneyan blog: https://eugeneyan.com/
 
 
