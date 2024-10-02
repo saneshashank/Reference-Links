@@ -21,7 +21,7 @@ This repository contains a curated list of articles for ML/AI/NLP. I have browse
 ## Inferential Statistics 
 
 ### General
-* [p value](./p_value_brief.md): https://www.statsdirect.com/help/basics/p_values.htm
+* [p value](./p-value-brief.md): https://www.statsdirect.com/help/basics/p_values.htm
 * normality tests in python: https://machinelearningmastery.com/a-gentle-introduction-to-normality-tests-in-python/
 * parametric significance tests in python: https://machinelearningmastery.com/parametric-statistical-significance-tests-in-python/
 * non-parametric significance tests in python: https://machinelearningmastery.com/nonparametric-statistical-significance-tests-in-python/
